@@ -1,0 +1,8473 @@
+{
+  "metadata": {
+    "source": "NASA GISS/GISTEMP v4",
+    "originalBaseline": "1951-1980",
+    "derivedBaseline": "promedio 1880-1900 de la misma serie",
+    "baselineOffset": -0.217857142857143
+  },
+  "data": [
+    {
+      "year": 1926,
+      "month": 1,
+      "date": "1926-01",
+      "anomaly1951_1980": 0.21,
+      "anomalyPreindustrial": 0.427857142857143
+    },
+    {
+      "year": 1926,
+      "month": 2,
+      "date": "1926-02",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1926,
+      "month": 3,
+      "date": "1926-03",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1926,
+      "month": 4,
+      "date": "1926-04",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1926,
+      "month": 5,
+      "date": "1926-05",
+      "anomaly1951_1980": -0.23,
+      "anomalyPreindustrial": -0.012142857142857011
+    },
+    {
+      "year": 1926,
+      "month": 6,
+      "date": "1926-06",
+      "anomaly1951_1980": -0.26,
+      "anomalyPreindustrial": -0.04214285714285701
+    },
+    {
+      "year": 1926,
+      "month": 7,
+      "date": "1926-07",
+      "anomaly1951_1980": -0.27,
+      "anomalyPreindustrial": -0.05214285714285702
+    },
+    {
+      "year": 1926,
+      "month": 8,
+      "date": "1926-08",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1926,
+      "month": 9,
+      "date": "1926-09",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1926,
+      "month": 10,
+      "date": "1926-10",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1926,
+      "month": 11,
+      "date": "1926-11",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1926,
+      "month": 12,
+      "date": "1926-12",
+      "anomaly1951_1980": -0.29,
+      "anomalyPreindustrial": -0.07214285714285698
+    },
+    {
+      "year": 1927,
+      "month": 1,
+      "date": "1927-01",
+      "anomaly1951_1980": -0.27,
+      "anomalyPreindustrial": -0.05214285714285702
+    },
+    {
+      "year": 1927,
+      "month": 2,
+      "date": "1927-02",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1927,
+      "month": 3,
+      "date": "1927-03",
+      "anomaly1951_1980": -0.38,
+      "anomalyPreindustrial": -0.162142857142857
+    },
+    {
+      "year": 1927,
+      "month": 4,
+      "date": "1927-04",
+      "anomaly1951_1980": -0.3,
+      "anomalyPreindustrial": -0.08214285714285699
+    },
+    {
+      "year": 1927,
+      "month": 5,
+      "date": "1927-05",
+      "anomaly1951_1980": -0.25,
+      "anomalyPreindustrial": -0.032142857142857
+    },
+    {
+      "year": 1927,
+      "month": 6,
+      "date": "1927-06",
+      "anomaly1951_1980": -0.27,
+      "anomalyPreindustrial": -0.05214285714285702
+    },
+    {
+      "year": 1927,
+      "month": 7,
+      "date": "1927-07",
+      "anomaly1951_1980": -0.19,
+      "anomalyPreindustrial": 0.027857142857142997
+    },
+    {
+      "year": 1927,
+      "month": 8,
+      "date": "1927-08",
+      "anomaly1951_1980": -0.24,
+      "anomalyPreindustrial": -0.022142857142856992
+    },
+    {
+      "year": 1927,
+      "month": 9,
+      "date": "1927-09",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1927,
+      "month": 10,
+      "date": "1927-10",
+      "anomaly1951_1980": 0,
+      "anomalyPreindustrial": 0.217857142857143
+    },
+    {
+      "year": 1927,
+      "month": 11,
+      "date": "1927-11",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1927,
+      "month": 12,
+      "date": "1927-12",
+      "anomaly1951_1980": -0.33,
+      "anomalyPreindustrial": -0.11214285714285702
+    },
+    {
+      "year": 1928,
+      "month": 1,
+      "date": "1928-01",
+      "anomaly1951_1980": -0.02,
+      "anomalyPreindustrial": 0.197857142857143
+    },
+    {
+      "year": 1928,
+      "month": 2,
+      "date": "1928-02",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1928,
+      "month": 3,
+      "date": "1928-03",
+      "anomaly1951_1980": -0.25,
+      "anomalyPreindustrial": -0.032142857142857
+    },
+    {
+      "year": 1928,
+      "month": 4,
+      "date": "1928-04",
+      "anomaly1951_1980": -0.28,
+      "anomalyPreindustrial": -0.06214285714285703
+    },
+    {
+      "year": 1928,
+      "month": 5,
+      "date": "1928-05",
+      "anomaly1951_1980": -0.29,
+      "anomalyPreindustrial": -0.07214285714285698
+    },
+    {
+      "year": 1928,
+      "month": 6,
+      "date": "1928-06",
+      "anomaly1951_1980": -0.39,
+      "anomalyPreindustrial": -0.17214285714285701
+    },
+    {
+      "year": 1928,
+      "month": 7,
+      "date": "1928-07",
+      "anomaly1951_1980": -0.19,
+      "anomalyPreindustrial": 0.027857142857142997
+    },
+    {
+      "year": 1928,
+      "month": 8,
+      "date": "1928-08",
+      "anomaly1951_1980": -0.22,
+      "anomalyPreindustrial": -0.002142857142857002
+    },
+    {
+      "year": 1928,
+      "month": 9,
+      "date": "1928-09",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1928,
+      "month": 10,
+      "date": "1928-10",
+      "anomaly1951_1980": -0.19,
+      "anomalyPreindustrial": 0.027857142857142997
+    },
+    {
+      "year": 1928,
+      "month": 11,
+      "date": "1928-11",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1928,
+      "month": 12,
+      "date": "1928-12",
+      "anomaly1951_1980": -0.16,
+      "anomalyPreindustrial": 0.057857142857142996
+    },
+    {
+      "year": 1929,
+      "month": 1,
+      "date": "1929-01",
+      "anomaly1951_1980": -0.45,
+      "anomalyPreindustrial": -0.232142857142857
+    },
+    {
+      "year": 1929,
+      "month": 2,
+      "date": "1929-02",
+      "anomaly1951_1980": -0.58,
+      "anomalyPreindustrial": -0.362142857142857
+    },
+    {
+      "year": 1929,
+      "month": 3,
+      "date": "1929-03",
+      "anomaly1951_1980": -0.33,
+      "anomalyPreindustrial": -0.11214285714285702
+    },
+    {
+      "year": 1929,
+      "month": 4,
+      "date": "1929-04",
+      "anomaly1951_1980": -0.41,
+      "anomalyPreindustrial": -0.19214285714285698
+    },
+    {
+      "year": 1929,
+      "month": 5,
+      "date": "1929-05",
+      "anomaly1951_1980": -0.38,
+      "anomalyPreindustrial": -0.162142857142857
+    },
+    {
+      "year": 1929,
+      "month": 6,
+      "date": "1929-06",
+      "anomaly1951_1980": -0.43,
+      "anomalyPreindustrial": -0.212142857142857
+    },
+    {
+      "year": 1929,
+      "month": 7,
+      "date": "1929-07",
+      "anomaly1951_1980": -0.37,
+      "anomalyPreindustrial": -0.152142857142857
+    },
+    {
+      "year": 1929,
+      "month": 8,
+      "date": "1929-08",
+      "anomaly1951_1980": -0.32,
+      "anomalyPreindustrial": -0.10214285714285701
+    },
+    {
+      "year": 1929,
+      "month": 9,
+      "date": "1929-09",
+      "anomaly1951_1980": -0.25,
+      "anomalyPreindustrial": -0.032142857142857
+    },
+    {
+      "year": 1929,
+      "month": 10,
+      "date": "1929-10",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1929,
+      "month": 11,
+      "date": "1929-11",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1929,
+      "month": 12,
+      "date": "1929-12",
+      "anomaly1951_1980": -0.54,
+      "anomalyPreindustrial": -0.32214285714285706
+    },
+    {
+      "year": 1930,
+      "month": 1,
+      "date": "1930-01",
+      "anomaly1951_1980": -0.3,
+      "anomalyPreindustrial": -0.08214285714285699
+    },
+    {
+      "year": 1930,
+      "month": 2,
+      "date": "1930-02",
+      "anomaly1951_1980": -0.26,
+      "anomalyPreindustrial": -0.04214285714285701
+    },
+    {
+      "year": 1930,
+      "month": 3,
+      "date": "1930-03",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1930,
+      "month": 4,
+      "date": "1930-04",
+      "anomaly1951_1980": -0.24,
+      "anomalyPreindustrial": -0.022142857142856992
+    },
+    {
+      "year": 1930,
+      "month": 5,
+      "date": "1930-05",
+      "anomaly1951_1980": -0.24,
+      "anomalyPreindustrial": -0.022142857142856992
+    },
+    {
+      "year": 1930,
+      "month": 6,
+      "date": "1930-06",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1930,
+      "month": 7,
+      "date": "1930-07",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1930,
+      "month": 8,
+      "date": "1930-08",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1930,
+      "month": 9,
+      "date": "1930-09",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1930,
+      "month": 10,
+      "date": "1930-10",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1930,
+      "month": 11,
+      "date": "1930-11",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1930,
+      "month": 12,
+      "date": "1930-12",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1931,
+      "month": 1,
+      "date": "1931-01",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1931,
+      "month": 2,
+      "date": "1931-02",
+      "anomaly1951_1980": -0.2,
+      "anomalyPreindustrial": 0.017857142857142988
+    },
+    {
+      "year": 1931,
+      "month": 3,
+      "date": "1931-03",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1931,
+      "month": 4,
+      "date": "1931-04",
+      "anomaly1951_1980": -0.23,
+      "anomalyPreindustrial": -0.012142857142857011
+    },
+    {
+      "year": 1931,
+      "month": 5,
+      "date": "1931-05",
+      "anomaly1951_1980": -0.19,
+      "anomalyPreindustrial": 0.027857142857142997
+    },
+    {
+      "year": 1931,
+      "month": 6,
+      "date": "1931-06",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1931,
+      "month": 7,
+      "date": "1931-07",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1931,
+      "month": 8,
+      "date": "1931-08",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1931,
+      "month": 9,
+      "date": "1931-09",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1931,
+      "month": 10,
+      "date": "1931-10",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1931,
+      "month": 11,
+      "date": "1931-11",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1931,
+      "month": 12,
+      "date": "1931-12",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1932,
+      "month": 1,
+      "date": "1932-01",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1932,
+      "month": 2,
+      "date": "1932-02",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1932,
+      "month": 3,
+      "date": "1932-03",
+      "anomaly1951_1980": -0.18,
+      "anomalyPreindustrial": 0.037857142857143006
+    },
+    {
+      "year": 1932,
+      "month": 4,
+      "date": "1932-04",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1932,
+      "month": 5,
+      "date": "1932-05",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1932,
+      "month": 6,
+      "date": "1932-06",
+      "anomaly1951_1980": -0.29,
+      "anomalyPreindustrial": -0.07214285714285698
+    },
+    {
+      "year": 1932,
+      "month": 7,
+      "date": "1932-07",
+      "anomaly1951_1980": -0.24,
+      "anomalyPreindustrial": -0.022142857142856992
+    },
+    {
+      "year": 1932,
+      "month": 8,
+      "date": "1932-08",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1932,
+      "month": 9,
+      "date": "1932-09",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1932,
+      "month": 10,
+      "date": "1932-10",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1932,
+      "month": 11,
+      "date": "1932-11",
+      "anomaly1951_1980": -0.27,
+      "anomalyPreindustrial": -0.05214285714285702
+    },
+    {
+      "year": 1932,
+      "month": 12,
+      "date": "1932-12",
+      "anomaly1951_1980": -0.26,
+      "anomalyPreindustrial": -0.04214285714285701
+    },
+    {
+      "year": 1933,
+      "month": 1,
+      "date": "1933-01",
+      "anomaly1951_1980": -0.23,
+      "anomalyPreindustrial": -0.012142857142857011
+    },
+    {
+      "year": 1933,
+      "month": 2,
+      "date": "1933-02",
+      "anomaly1951_1980": -0.29,
+      "anomalyPreindustrial": -0.07214285714285698
+    },
+    {
+      "year": 1933,
+      "month": 3,
+      "date": "1933-03",
+      "anomaly1951_1980": -0.29,
+      "anomalyPreindustrial": -0.07214285714285698
+    },
+    {
+      "year": 1933,
+      "month": 4,
+      "date": "1933-04",
+      "anomaly1951_1980": -0.25,
+      "anomalyPreindustrial": -0.032142857142857
+    },
+    {
+      "year": 1933,
+      "month": 5,
+      "date": "1933-05",
+      "anomaly1951_1980": -0.29,
+      "anomalyPreindustrial": -0.07214285714285698
+    },
+    {
+      "year": 1933,
+      "month": 6,
+      "date": "1933-06",
+      "anomaly1951_1980": -0.34,
+      "anomalyPreindustrial": -0.12214285714285703
+    },
+    {
+      "year": 1933,
+      "month": 7,
+      "date": "1933-07",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1933,
+      "month": 8,
+      "date": "1933-08",
+      "anomaly1951_1980": -0.23,
+      "anomalyPreindustrial": -0.012142857142857011
+    },
+    {
+      "year": 1933,
+      "month": 9,
+      "date": "1933-09",
+      "anomaly1951_1980": -0.29,
+      "anomalyPreindustrial": -0.07214285714285698
+    },
+    {
+      "year": 1933,
+      "month": 10,
+      "date": "1933-10",
+      "anomaly1951_1980": -0.25,
+      "anomalyPreindustrial": -0.032142857142857
+    },
+    {
+      "year": 1933,
+      "month": 11,
+      "date": "1933-11",
+      "anomaly1951_1980": -0.3,
+      "anomalyPreindustrial": -0.08214285714285699
+    },
+    {
+      "year": 1933,
+      "month": 12,
+      "date": "1933-12",
+      "anomaly1951_1980": -0.44,
+      "anomalyPreindustrial": -0.222142857142857
+    },
+    {
+      "year": 1934,
+      "month": 1,
+      "date": "1934-01",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1934,
+      "month": 2,
+      "date": "1934-02",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1934,
+      "month": 3,
+      "date": "1934-03",
+      "anomaly1951_1980": -0.29,
+      "anomalyPreindustrial": -0.07214285714285698
+    },
+    {
+      "year": 1934,
+      "month": 4,
+      "date": "1934-04",
+      "anomaly1951_1980": -0.31,
+      "anomalyPreindustrial": -0.092142857142857
+    },
+    {
+      "year": 1934,
+      "month": 5,
+      "date": "1934-05",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1934,
+      "month": 6,
+      "date": "1934-06",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1934,
+      "month": 7,
+      "date": "1934-07",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1934,
+      "month": 8,
+      "date": "1934-08",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1934,
+      "month": 9,
+      "date": "1934-09",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1934,
+      "month": 10,
+      "date": "1934-10",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1934,
+      "month": 11,
+      "date": "1934-11",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1934,
+      "month": 12,
+      "date": "1934-12",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1935,
+      "month": 1,
+      "date": "1935-01",
+      "anomaly1951_1980": -0.34,
+      "anomalyPreindustrial": -0.12214285714285703
+    },
+    {
+      "year": 1935,
+      "month": 2,
+      "date": "1935-02",
+      "anomaly1951_1980": 0.14,
+      "anomalyPreindustrial": 0.357857142857143
+    },
+    {
+      "year": 1935,
+      "month": 3,
+      "date": "1935-03",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1935,
+      "month": 4,
+      "date": "1935-04",
+      "anomaly1951_1980": -0.37,
+      "anomalyPreindustrial": -0.152142857142857
+    },
+    {
+      "year": 1935,
+      "month": 5,
+      "date": "1935-05",
+      "anomaly1951_1980": -0.29,
+      "anomalyPreindustrial": -0.07214285714285698
+    },
+    {
+      "year": 1935,
+      "month": 6,
+      "date": "1935-06",
+      "anomaly1951_1980": -0.27,
+      "anomalyPreindustrial": -0.05214285714285702
+    },
+    {
+      "year": 1935,
+      "month": 7,
+      "date": "1935-07",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1935,
+      "month": 8,
+      "date": "1935-08",
+      "anomaly1951_1980": -0.22,
+      "anomalyPreindustrial": -0.002142857142857002
+    },
+    {
+      "year": 1935,
+      "month": 9,
+      "date": "1935-09",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1935,
+      "month": 10,
+      "date": "1935-10",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1935,
+      "month": 11,
+      "date": "1935-11",
+      "anomaly1951_1980": -0.26,
+      "anomalyPreindustrial": -0.04214285714285701
+    },
+    {
+      "year": 1935,
+      "month": 12,
+      "date": "1935-12",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1936,
+      "month": 1,
+      "date": "1936-01",
+      "anomaly1951_1980": -0.28,
+      "anomalyPreindustrial": -0.06214285714285703
+    },
+    {
+      "year": 1936,
+      "month": 2,
+      "date": "1936-02",
+      "anomaly1951_1980": -0.38,
+      "anomalyPreindustrial": -0.162142857142857
+    },
+    {
+      "year": 1936,
+      "month": 3,
+      "date": "1936-03",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1936,
+      "month": 4,
+      "date": "1936-04",
+      "anomaly1951_1980": -0.2,
+      "anomalyPreindustrial": 0.017857142857142988
+    },
+    {
+      "year": 1936,
+      "month": 5,
+      "date": "1936-05",
+      "anomaly1951_1980": -0.16,
+      "anomalyPreindustrial": 0.057857142857142996
+    },
+    {
+      "year": 1936,
+      "month": 6,
+      "date": "1936-06",
+      "anomaly1951_1980": -0.22,
+      "anomalyPreindustrial": -0.002142857142857002
+    },
+    {
+      "year": 1936,
+      "month": 7,
+      "date": "1936-07",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1936,
+      "month": 8,
+      "date": "1936-08",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1936,
+      "month": 9,
+      "date": "1936-09",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1936,
+      "month": 10,
+      "date": "1936-10",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1936,
+      "month": 11,
+      "date": "1936-11",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1936,
+      "month": 12,
+      "date": "1936-12",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1937,
+      "month": 1,
+      "date": "1937-01",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1937,
+      "month": 2,
+      "date": "1937-02",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1937,
+      "month": 3,
+      "date": "1937-03",
+      "anomaly1951_1980": -0.2,
+      "anomalyPreindustrial": 0.017857142857142988
+    },
+    {
+      "year": 1937,
+      "month": 4,
+      "date": "1937-04",
+      "anomaly1951_1980": -0.16,
+      "anomalyPreindustrial": 0.057857142857142996
+    },
+    {
+      "year": 1937,
+      "month": 5,
+      "date": "1937-05",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1937,
+      "month": 6,
+      "date": "1937-06",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1937,
+      "month": 7,
+      "date": "1937-07",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1937,
+      "month": 8,
+      "date": "1937-08",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1937,
+      "month": 9,
+      "date": "1937-09",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1937,
+      "month": 10,
+      "date": "1937-10",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1937,
+      "month": 11,
+      "date": "1937-11",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1937,
+      "month": 12,
+      "date": "1937-12",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1938,
+      "month": 1,
+      "date": "1938-01",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1938,
+      "month": 2,
+      "date": "1938-02",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1938,
+      "month": 3,
+      "date": "1938-03",
+      "anomaly1951_1980": 0.1,
+      "anomalyPreindustrial": 0.317857142857143
+    },
+    {
+      "year": 1938,
+      "month": 4,
+      "date": "1938-04",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1938,
+      "month": 5,
+      "date": "1938-05",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1938,
+      "month": 6,
+      "date": "1938-06",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1938,
+      "month": 7,
+      "date": "1938-07",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1938,
+      "month": 8,
+      "date": "1938-08",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1938,
+      "month": 9,
+      "date": "1938-09",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1938,
+      "month": 10,
+      "date": "1938-10",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1938,
+      "month": 11,
+      "date": "1938-11",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1938,
+      "month": 12,
+      "date": "1938-12",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1939,
+      "month": 1,
+      "date": "1939-01",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1939,
+      "month": 2,
+      "date": "1939-02",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1939,
+      "month": 3,
+      "date": "1939-03",
+      "anomaly1951_1980": -0.18,
+      "anomalyPreindustrial": 0.037857142857143006
+    },
+    {
+      "year": 1939,
+      "month": 4,
+      "date": "1939-04",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1939,
+      "month": 5,
+      "date": "1939-05",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1939,
+      "month": 6,
+      "date": "1939-06",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1939,
+      "month": 7,
+      "date": "1939-07",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1939,
+      "month": 8,
+      "date": "1939-08",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1939,
+      "month": 9,
+      "date": "1939-09",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1939,
+      "month": 10,
+      "date": "1939-10",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1939,
+      "month": 11,
+      "date": "1939-11",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1939,
+      "month": 12,
+      "date": "1939-12",
+      "anomaly1951_1980": 0.42,
+      "anomalyPreindustrial": 0.637857142857143
+    },
+    {
+      "year": 1940,
+      "month": 1,
+      "date": "1940-01",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1940,
+      "month": 2,
+      "date": "1940-02",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1940,
+      "month": 3,
+      "date": "1940-03",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1940,
+      "month": 4,
+      "date": "1940-04",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1940,
+      "month": 5,
+      "date": "1940-05",
+      "anomaly1951_1980": 0.1,
+      "anomalyPreindustrial": 0.317857142857143
+    },
+    {
+      "year": 1940,
+      "month": 6,
+      "date": "1940-06",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1940,
+      "month": 7,
+      "date": "1940-07",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1940,
+      "month": 8,
+      "date": "1940-08",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1940,
+      "month": 9,
+      "date": "1940-09",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1940,
+      "month": 10,
+      "date": "1940-10",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1940,
+      "month": 11,
+      "date": "1940-11",
+      "anomaly1951_1980": 0.16,
+      "anomalyPreindustrial": 0.377857142857143
+    },
+    {
+      "year": 1940,
+      "month": 12,
+      "date": "1940-12",
+      "anomaly1951_1980": 0.31,
+      "anomalyPreindustrial": 0.527857142857143
+    },
+    {
+      "year": 1941,
+      "month": 1,
+      "date": "1941-01",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1941,
+      "month": 2,
+      "date": "1941-02",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 1941,
+      "month": 3,
+      "date": "1941-03",
+      "anomaly1951_1980": 0.1,
+      "anomalyPreindustrial": 0.317857142857143
+    },
+    {
+      "year": 1941,
+      "month": 4,
+      "date": "1941-04",
+      "anomaly1951_1980": 0.16,
+      "anomalyPreindustrial": 0.377857142857143
+    },
+    {
+      "year": 1941,
+      "month": 5,
+      "date": "1941-05",
+      "anomaly1951_1980": 0.16,
+      "anomalyPreindustrial": 0.377857142857143
+    },
+    {
+      "year": 1941,
+      "month": 6,
+      "date": "1941-06",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1941,
+      "month": 7,
+      "date": "1941-07",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1941,
+      "month": 8,
+      "date": "1941-08",
+      "anomaly1951_1980": 0.14,
+      "anomalyPreindustrial": 0.357857142857143
+    },
+    {
+      "year": 1941,
+      "month": 9,
+      "date": "1941-09",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1941,
+      "month": 10,
+      "date": "1941-10",
+      "anomaly1951_1980": 0.35,
+      "anomalyPreindustrial": 0.567857142857143
+    },
+    {
+      "year": 1941,
+      "month": 11,
+      "date": "1941-11",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1941,
+      "month": 12,
+      "date": "1941-12",
+      "anomaly1951_1980": 0.21,
+      "anomalyPreindustrial": 0.427857142857143
+    },
+    {
+      "year": 1942,
+      "month": 1,
+      "date": "1942-01",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1942,
+      "month": 2,
+      "date": "1942-02",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1942,
+      "month": 3,
+      "date": "1942-03",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1942,
+      "month": 4,
+      "date": "1942-04",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1942,
+      "month": 5,
+      "date": "1942-05",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1942,
+      "month": 6,
+      "date": "1942-06",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1942,
+      "month": 7,
+      "date": "1942-07",
+      "anomaly1951_1980": 0,
+      "anomalyPreindustrial": 0.217857142857143
+    },
+    {
+      "year": 1942,
+      "month": 8,
+      "date": "1942-08",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1942,
+      "month": 9,
+      "date": "1942-09",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1942,
+      "month": 10,
+      "date": "1942-10",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1942,
+      "month": 11,
+      "date": "1942-11",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1942,
+      "month": 12,
+      "date": "1942-12",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1943,
+      "month": 1,
+      "date": "1943-01",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1943,
+      "month": 2,
+      "date": "1943-02",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1943,
+      "month": 3,
+      "date": "1943-03",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1943,
+      "month": 4,
+      "date": "1943-04",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1943,
+      "month": 5,
+      "date": "1943-05",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1943,
+      "month": 6,
+      "date": "1943-06",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1943,
+      "month": 7,
+      "date": "1943-07",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1943,
+      "month": 8,
+      "date": "1943-08",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1943,
+      "month": 9,
+      "date": "1943-09",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1943,
+      "month": 10,
+      "date": "1943-10",
+      "anomaly1951_1980": 0.23,
+      "anomalyPreindustrial": 0.447857142857143
+    },
+    {
+      "year": 1943,
+      "month": 11,
+      "date": "1943-11",
+      "anomaly1951_1980": 0.2,
+      "anomalyPreindustrial": 0.41785714285714304
+    },
+    {
+      "year": 1943,
+      "month": 12,
+      "date": "1943-12",
+      "anomaly1951_1980": 0.23,
+      "anomalyPreindustrial": 0.447857142857143
+    },
+    {
+      "year": 1944,
+      "month": 1,
+      "date": "1944-01",
+      "anomaly1951_1980": 0.36,
+      "anomalyPreindustrial": 0.577857142857143
+    },
+    {
+      "year": 1944,
+      "month": 2,
+      "date": "1944-02",
+      "anomaly1951_1980": 0.24,
+      "anomalyPreindustrial": 0.45785714285714296
+    },
+    {
+      "year": 1944,
+      "month": 3,
+      "date": "1944-03",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1944,
+      "month": 4,
+      "date": "1944-04",
+      "anomaly1951_1980": 0.19,
+      "anomalyPreindustrial": 0.40785714285714303
+    },
+    {
+      "year": 1944,
+      "month": 5,
+      "date": "1944-05",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1944,
+      "month": 6,
+      "date": "1944-06",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1944,
+      "month": 7,
+      "date": "1944-07",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1944,
+      "month": 8,
+      "date": "1944-08",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1944,
+      "month": 9,
+      "date": "1944-09",
+      "anomaly1951_1980": 0.28,
+      "anomalyPreindustrial": 0.497857142857143
+    },
+    {
+      "year": 1944,
+      "month": 10,
+      "date": "1944-10",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1944,
+      "month": 11,
+      "date": "1944-11",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1944,
+      "month": 12,
+      "date": "1944-12",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1945,
+      "month": 1,
+      "date": "1945-01",
+      "anomaly1951_1980": 0.1,
+      "anomalyPreindustrial": 0.317857142857143
+    },
+    {
+      "year": 1945,
+      "month": 2,
+      "date": "1945-02",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1945,
+      "month": 3,
+      "date": "1945-03",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1945,
+      "month": 4,
+      "date": "1945-04",
+      "anomaly1951_1980": 0.19,
+      "anomalyPreindustrial": 0.40785714285714303
+    },
+    {
+      "year": 1945,
+      "month": 5,
+      "date": "1945-05",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1945,
+      "month": 6,
+      "date": "1945-06",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1945,
+      "month": 7,
+      "date": "1945-07",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1945,
+      "month": 8,
+      "date": "1945-08",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1945,
+      "month": 9,
+      "date": "1945-09",
+      "anomaly1951_1980": 0.21,
+      "anomalyPreindustrial": 0.427857142857143
+    },
+    {
+      "year": 1945,
+      "month": 10,
+      "date": "1945-10",
+      "anomaly1951_1980": 0.19,
+      "anomalyPreindustrial": 0.40785714285714303
+    },
+    {
+      "year": 1945,
+      "month": 11,
+      "date": "1945-11",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1945,
+      "month": 12,
+      "date": "1945-12",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1946,
+      "month": 1,
+      "date": "1946-01",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1946,
+      "month": 2,
+      "date": "1946-02",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1946,
+      "month": 3,
+      "date": "1946-03",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1946,
+      "month": 4,
+      "date": "1946-04",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1946,
+      "month": 5,
+      "date": "1946-05",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1946,
+      "month": 6,
+      "date": "1946-06",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1946,
+      "month": 7,
+      "date": "1946-07",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1946,
+      "month": 8,
+      "date": "1946-08",
+      "anomaly1951_1980": -0.2,
+      "anomalyPreindustrial": 0.017857142857142988
+    },
+    {
+      "year": 1946,
+      "month": 9,
+      "date": "1946-09",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1946,
+      "month": 10,
+      "date": "1946-10",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1946,
+      "month": 11,
+      "date": "1946-11",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1946,
+      "month": 12,
+      "date": "1946-12",
+      "anomaly1951_1980": -0.31,
+      "anomalyPreindustrial": -0.092142857142857
+    },
+    {
+      "year": 1947,
+      "month": 1,
+      "date": "1947-01",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1947,
+      "month": 2,
+      "date": "1947-02",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1947,
+      "month": 3,
+      "date": "1947-03",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1947,
+      "month": 4,
+      "date": "1947-04",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1947,
+      "month": 5,
+      "date": "1947-05",
+      "anomaly1951_1980": -0.02,
+      "anomalyPreindustrial": 0.197857142857143
+    },
+    {
+      "year": 1947,
+      "month": 6,
+      "date": "1947-06",
+      "anomaly1951_1980": -0.02,
+      "anomalyPreindustrial": 0.197857142857143
+    },
+    {
+      "year": 1947,
+      "month": 7,
+      "date": "1947-07",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1947,
+      "month": 8,
+      "date": "1947-08",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1947,
+      "month": 9,
+      "date": "1947-09",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1947,
+      "month": 10,
+      "date": "1947-10",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1947,
+      "month": 11,
+      "date": "1947-11",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1947,
+      "month": 12,
+      "date": "1947-12",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1948,
+      "month": 1,
+      "date": "1948-01",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1948,
+      "month": 2,
+      "date": "1948-02",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1948,
+      "month": 3,
+      "date": "1948-03",
+      "anomaly1951_1980": -0.24,
+      "anomalyPreindustrial": -0.022142857142856992
+    },
+    {
+      "year": 1948,
+      "month": 4,
+      "date": "1948-04",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1948,
+      "month": 5,
+      "date": "1948-05",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1948,
+      "month": 6,
+      "date": "1948-06",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1948,
+      "month": 7,
+      "date": "1948-07",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1948,
+      "month": 8,
+      "date": "1948-08",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1948,
+      "month": 9,
+      "date": "1948-09",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1948,
+      "month": 10,
+      "date": "1948-10",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1948,
+      "month": 11,
+      "date": "1948-11",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1948,
+      "month": 12,
+      "date": "1948-12",
+      "anomaly1951_1980": -0.24,
+      "anomalyPreindustrial": -0.022142857142856992
+    },
+    {
+      "year": 1949,
+      "month": 1,
+      "date": "1949-01",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1949,
+      "month": 2,
+      "date": "1949-02",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1949,
+      "month": 3,
+      "date": "1949-03",
+      "anomaly1951_1980": -0.02,
+      "anomalyPreindustrial": 0.197857142857143
+    },
+    {
+      "year": 1949,
+      "month": 4,
+      "date": "1949-04",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1949,
+      "month": 5,
+      "date": "1949-05",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1949,
+      "month": 6,
+      "date": "1949-06",
+      "anomaly1951_1980": -0.27,
+      "anomalyPreindustrial": -0.05214285714285702
+    },
+    {
+      "year": 1949,
+      "month": 7,
+      "date": "1949-07",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1949,
+      "month": 8,
+      "date": "1949-08",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1949,
+      "month": 9,
+      "date": "1949-09",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1949,
+      "month": 10,
+      "date": "1949-10",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1949,
+      "month": 11,
+      "date": "1949-11",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1949,
+      "month": 12,
+      "date": "1949-12",
+      "anomaly1951_1980": -0.18,
+      "anomalyPreindustrial": 0.037857142857143006
+    },
+    {
+      "year": 1950,
+      "month": 1,
+      "date": "1950-01",
+      "anomaly1951_1980": -0.26,
+      "anomalyPreindustrial": -0.04214285714285701
+    },
+    {
+      "year": 1950,
+      "month": 2,
+      "date": "1950-02",
+      "anomaly1951_1980": -0.27,
+      "anomalyPreindustrial": -0.05214285714285702
+    },
+    {
+      "year": 1950,
+      "month": 3,
+      "date": "1950-03",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1950,
+      "month": 4,
+      "date": "1950-04",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1950,
+      "month": 5,
+      "date": "1950-05",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1950,
+      "month": 6,
+      "date": "1950-06",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1950,
+      "month": 7,
+      "date": "1950-07",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1950,
+      "month": 8,
+      "date": "1950-08",
+      "anomaly1951_1980": -0.16,
+      "anomalyPreindustrial": 0.057857142857142996
+    },
+    {
+      "year": 1950,
+      "month": 9,
+      "date": "1950-09",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1950,
+      "month": 10,
+      "date": "1950-10",
+      "anomaly1951_1980": -0.2,
+      "anomalyPreindustrial": 0.017857142857142988
+    },
+    {
+      "year": 1950,
+      "month": 11,
+      "date": "1950-11",
+      "anomaly1951_1980": -0.34,
+      "anomalyPreindustrial": -0.12214285714285703
+    },
+    {
+      "year": 1950,
+      "month": 12,
+      "date": "1950-12",
+      "anomaly1951_1980": -0.22,
+      "anomalyPreindustrial": -0.002142857142857002
+    },
+    {
+      "year": 1951,
+      "month": 1,
+      "date": "1951-01",
+      "anomaly1951_1980": -0.34,
+      "anomalyPreindustrial": -0.12214285714285703
+    },
+    {
+      "year": 1951,
+      "month": 2,
+      "date": "1951-02",
+      "anomaly1951_1980": -0.42,
+      "anomalyPreindustrial": -0.20214285714285699
+    },
+    {
+      "year": 1951,
+      "month": 3,
+      "date": "1951-03",
+      "anomaly1951_1980": -0.2,
+      "anomalyPreindustrial": 0.017857142857142988
+    },
+    {
+      "year": 1951,
+      "month": 4,
+      "date": "1951-04",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1951,
+      "month": 5,
+      "date": "1951-05",
+      "anomaly1951_1980": 0,
+      "anomalyPreindustrial": 0.217857142857143
+    },
+    {
+      "year": 1951,
+      "month": 6,
+      "date": "1951-06",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1951,
+      "month": 7,
+      "date": "1951-07",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1951,
+      "month": 8,
+      "date": "1951-08",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1951,
+      "month": 9,
+      "date": "1951-09",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1951,
+      "month": 10,
+      "date": "1951-10",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1951,
+      "month": 11,
+      "date": "1951-11",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1951,
+      "month": 12,
+      "date": "1951-12",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1952,
+      "month": 1,
+      "date": "1952-01",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1952,
+      "month": 2,
+      "date": "1952-02",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1952,
+      "month": 3,
+      "date": "1952-03",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1952,
+      "month": 4,
+      "date": "1952-04",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1952,
+      "month": 5,
+      "date": "1952-05",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1952,
+      "month": 6,
+      "date": "1952-06",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1952,
+      "month": 7,
+      "date": "1952-07",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1952,
+      "month": 8,
+      "date": "1952-08",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1952,
+      "month": 9,
+      "date": "1952-09",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1952,
+      "month": 10,
+      "date": "1952-10",
+      "anomaly1951_1980": 0,
+      "anomalyPreindustrial": 0.217857142857143
+    },
+    {
+      "year": 1952,
+      "month": 11,
+      "date": "1952-11",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1952,
+      "month": 12,
+      "date": "1952-12",
+      "anomaly1951_1980": -0.02,
+      "anomalyPreindustrial": 0.197857142857143
+    },
+    {
+      "year": 1953,
+      "month": 1,
+      "date": "1953-01",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1953,
+      "month": 2,
+      "date": "1953-02",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1953,
+      "month": 3,
+      "date": "1953-03",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1953,
+      "month": 4,
+      "date": "1953-04",
+      "anomaly1951_1980": 0.2,
+      "anomalyPreindustrial": 0.41785714285714304
+    },
+    {
+      "year": 1953,
+      "month": 5,
+      "date": "1953-05",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1953,
+      "month": 6,
+      "date": "1953-06",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1953,
+      "month": 7,
+      "date": "1953-07",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1953,
+      "month": 8,
+      "date": "1953-08",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1953,
+      "month": 9,
+      "date": "1953-09",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1953,
+      "month": 10,
+      "date": "1953-10",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1953,
+      "month": 11,
+      "date": "1953-11",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1953,
+      "month": 12,
+      "date": "1953-12",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1954,
+      "month": 1,
+      "date": "1954-01",
+      "anomaly1951_1980": -0.24,
+      "anomalyPreindustrial": -0.022142857142856992
+    },
+    {
+      "year": 1954,
+      "month": 2,
+      "date": "1954-02",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1954,
+      "month": 3,
+      "date": "1954-03",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1954,
+      "month": 4,
+      "date": "1954-04",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1954,
+      "month": 5,
+      "date": "1954-05",
+      "anomaly1951_1980": -0.2,
+      "anomalyPreindustrial": 0.017857142857142988
+    },
+    {
+      "year": 1954,
+      "month": 6,
+      "date": "1954-06",
+      "anomaly1951_1980": -0.19,
+      "anomalyPreindustrial": 0.027857142857142997
+    },
+    {
+      "year": 1954,
+      "month": 7,
+      "date": "1954-07",
+      "anomaly1951_1980": -0.19,
+      "anomalyPreindustrial": 0.027857142857142997
+    },
+    {
+      "year": 1954,
+      "month": 8,
+      "date": "1954-08",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1954,
+      "month": 9,
+      "date": "1954-09",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1954,
+      "month": 10,
+      "date": "1954-10",
+      "anomaly1951_1980": -0.02,
+      "anomalyPreindustrial": 0.197857142857143
+    },
+    {
+      "year": 1954,
+      "month": 11,
+      "date": "1954-11",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1954,
+      "month": 12,
+      "date": "1954-12",
+      "anomaly1951_1980": -0.18,
+      "anomalyPreindustrial": 0.037857142857143006
+    },
+    {
+      "year": 1955,
+      "month": 1,
+      "date": "1955-01",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1955,
+      "month": 2,
+      "date": "1955-02",
+      "anomaly1951_1980": -0.16,
+      "anomalyPreindustrial": 0.057857142857142996
+    },
+    {
+      "year": 1955,
+      "month": 3,
+      "date": "1955-03",
+      "anomaly1951_1980": -0.32,
+      "anomalyPreindustrial": -0.10214285714285701
+    },
+    {
+      "year": 1955,
+      "month": 4,
+      "date": "1955-04",
+      "anomaly1951_1980": -0.22,
+      "anomalyPreindustrial": -0.002142857142857002
+    },
+    {
+      "year": 1955,
+      "month": 5,
+      "date": "1955-05",
+      "anomaly1951_1980": -0.2,
+      "anomalyPreindustrial": 0.017857142857142988
+    },
+    {
+      "year": 1955,
+      "month": 6,
+      "date": "1955-06",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1955,
+      "month": 7,
+      "date": "1955-07",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1955,
+      "month": 8,
+      "date": "1955-08",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1955,
+      "month": 9,
+      "date": "1955-09",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1955,
+      "month": 10,
+      "date": "1955-10",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1955,
+      "month": 11,
+      "date": "1955-11",
+      "anomaly1951_1980": -0.25,
+      "anomalyPreindustrial": -0.032142857142857
+    },
+    {
+      "year": 1955,
+      "month": 12,
+      "date": "1955-12",
+      "anomaly1951_1980": -0.28,
+      "anomalyPreindustrial": -0.06214285714285703
+    },
+    {
+      "year": 1956,
+      "month": 1,
+      "date": "1956-01",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1956,
+      "month": 2,
+      "date": "1956-02",
+      "anomaly1951_1980": -0.24,
+      "anomalyPreindustrial": -0.022142857142856992
+    },
+    {
+      "year": 1956,
+      "month": 3,
+      "date": "1956-03",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1956,
+      "month": 4,
+      "date": "1956-04",
+      "anomaly1951_1980": -0.28,
+      "anomalyPreindustrial": -0.06214285714285703
+    },
+    {
+      "year": 1956,
+      "month": 5,
+      "date": "1956-05",
+      "anomaly1951_1980": -0.29,
+      "anomalyPreindustrial": -0.07214285714285698
+    },
+    {
+      "year": 1956,
+      "month": 6,
+      "date": "1956-06",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1956,
+      "month": 7,
+      "date": "1956-07",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1956,
+      "month": 8,
+      "date": "1956-08",
+      "anomaly1951_1980": -0.25,
+      "anomalyPreindustrial": -0.032142857142857
+    },
+    {
+      "year": 1956,
+      "month": 9,
+      "date": "1956-09",
+      "anomaly1951_1980": -0.19,
+      "anomalyPreindustrial": 0.027857142857142997
+    },
+    {
+      "year": 1956,
+      "month": 10,
+      "date": "1956-10",
+      "anomaly1951_1980": -0.23,
+      "anomalyPreindustrial": -0.012142857142857011
+    },
+    {
+      "year": 1956,
+      "month": 11,
+      "date": "1956-11",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1956,
+      "month": 12,
+      "date": "1956-12",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1957,
+      "month": 1,
+      "date": "1957-01",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1957,
+      "month": 2,
+      "date": "1957-02",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1957,
+      "month": 3,
+      "date": "1957-03",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1957,
+      "month": 4,
+      "date": "1957-04",
+      "anomaly1951_1980": 0,
+      "anomalyPreindustrial": 0.217857142857143
+    },
+    {
+      "year": 1957,
+      "month": 5,
+      "date": "1957-05",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1957,
+      "month": 6,
+      "date": "1957-06",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1957,
+      "month": 7,
+      "date": "1957-07",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1957,
+      "month": 8,
+      "date": "1957-08",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1957,
+      "month": 9,
+      "date": "1957-09",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1957,
+      "month": 10,
+      "date": "1957-10",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1957,
+      "month": 11,
+      "date": "1957-11",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1957,
+      "month": 12,
+      "date": "1957-12",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1958,
+      "month": 1,
+      "date": "1958-01",
+      "anomaly1951_1980": 0.39,
+      "anomalyPreindustrial": 0.607857142857143
+    },
+    {
+      "year": 1958,
+      "month": 2,
+      "date": "1958-02",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1958,
+      "month": 3,
+      "date": "1958-03",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1958,
+      "month": 4,
+      "date": "1958-04",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1958,
+      "month": 5,
+      "date": "1958-05",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1958,
+      "month": 6,
+      "date": "1958-06",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1958,
+      "month": 7,
+      "date": "1958-07",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1958,
+      "month": 8,
+      "date": "1958-08",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1958,
+      "month": 9,
+      "date": "1958-09",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1958,
+      "month": 10,
+      "date": "1958-10",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1958,
+      "month": 11,
+      "date": "1958-11",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1958,
+      "month": 12,
+      "date": "1958-12",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1959,
+      "month": 1,
+      "date": "1959-01",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1959,
+      "month": 2,
+      "date": "1959-02",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1959,
+      "month": 3,
+      "date": "1959-03",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1959,
+      "month": 4,
+      "date": "1959-04",
+      "anomaly1951_1980": 0.16,
+      "anomalyPreindustrial": 0.377857142857143
+    },
+    {
+      "year": 1959,
+      "month": 5,
+      "date": "1959-05",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1959,
+      "month": 6,
+      "date": "1959-06",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1959,
+      "month": 7,
+      "date": "1959-07",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1959,
+      "month": 8,
+      "date": "1959-08",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1959,
+      "month": 9,
+      "date": "1959-09",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1959,
+      "month": 10,
+      "date": "1959-10",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1959,
+      "month": 11,
+      "date": "1959-11",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1959,
+      "month": 12,
+      "date": "1959-12",
+      "anomaly1951_1980": 0,
+      "anomalyPreindustrial": 0.217857142857143
+    },
+    {
+      "year": 1960,
+      "month": 1,
+      "date": "1960-01",
+      "anomaly1951_1980": 0,
+      "anomalyPreindustrial": 0.217857142857143
+    },
+    {
+      "year": 1960,
+      "month": 2,
+      "date": "1960-02",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1960,
+      "month": 3,
+      "date": "1960-03",
+      "anomaly1951_1980": -0.35,
+      "anomalyPreindustrial": -0.13214285714285698
+    },
+    {
+      "year": 1960,
+      "month": 4,
+      "date": "1960-04",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1960,
+      "month": 5,
+      "date": "1960-05",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1960,
+      "month": 6,
+      "date": "1960-06",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1960,
+      "month": 7,
+      "date": "1960-07",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1960,
+      "month": 8,
+      "date": "1960-08",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1960,
+      "month": 9,
+      "date": "1960-09",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1960,
+      "month": 10,
+      "date": "1960-10",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1960,
+      "month": 11,
+      "date": "1960-11",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1960,
+      "month": 12,
+      "date": "1960-12",
+      "anomaly1951_1980": 0.19,
+      "anomalyPreindustrial": 0.40785714285714303
+    },
+    {
+      "year": 1961,
+      "month": 1,
+      "date": "1961-01",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1961,
+      "month": 2,
+      "date": "1961-02",
+      "anomaly1951_1980": 0.19,
+      "anomalyPreindustrial": 0.40785714285714303
+    },
+    {
+      "year": 1961,
+      "month": 3,
+      "date": "1961-03",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1961,
+      "month": 4,
+      "date": "1961-04",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1961,
+      "month": 5,
+      "date": "1961-05",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1961,
+      "month": 6,
+      "date": "1961-06",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1961,
+      "month": 7,
+      "date": "1961-07",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1961,
+      "month": 8,
+      "date": "1961-08",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1961,
+      "month": 9,
+      "date": "1961-09",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1961,
+      "month": 10,
+      "date": "1961-10",
+      "anomaly1951_1980": 0,
+      "anomalyPreindustrial": 0.217857142857143
+    },
+    {
+      "year": 1961,
+      "month": 11,
+      "date": "1961-11",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1961,
+      "month": 12,
+      "date": "1961-12",
+      "anomaly1951_1980": -0.16,
+      "anomalyPreindustrial": 0.057857142857142996
+    },
+    {
+      "year": 1962,
+      "month": 1,
+      "date": "1962-01",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1962,
+      "month": 2,
+      "date": "1962-02",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1962,
+      "month": 3,
+      "date": "1962-03",
+      "anomaly1951_1980": 0.1,
+      "anomalyPreindustrial": 0.317857142857143
+    },
+    {
+      "year": 1962,
+      "month": 4,
+      "date": "1962-04",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1962,
+      "month": 5,
+      "date": "1962-05",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1962,
+      "month": 6,
+      "date": "1962-06",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1962,
+      "month": 7,
+      "date": "1962-07",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1962,
+      "month": 8,
+      "date": "1962-08",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1962,
+      "month": 9,
+      "date": "1962-09",
+      "anomaly1951_1980": 0,
+      "anomalyPreindustrial": 0.217857142857143
+    },
+    {
+      "year": 1962,
+      "month": 10,
+      "date": "1962-10",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1962,
+      "month": 11,
+      "date": "1962-11",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1962,
+      "month": 12,
+      "date": "1962-12",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1963,
+      "month": 1,
+      "date": "1963-01",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1963,
+      "month": 2,
+      "date": "1963-02",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1963,
+      "month": 3,
+      "date": "1963-03",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1963,
+      "month": 4,
+      "date": "1963-04",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1963,
+      "month": 5,
+      "date": "1963-05",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1963,
+      "month": 6,
+      "date": "1963-06",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1963,
+      "month": 7,
+      "date": "1963-07",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1963,
+      "month": 8,
+      "date": "1963-08",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1963,
+      "month": 9,
+      "date": "1963-09",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1963,
+      "month": 10,
+      "date": "1963-10",
+      "anomaly1951_1980": 0.14,
+      "anomalyPreindustrial": 0.357857142857143
+    },
+    {
+      "year": 1963,
+      "month": 11,
+      "date": "1963-11",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1963,
+      "month": 12,
+      "date": "1963-12",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1964,
+      "month": 1,
+      "date": "1964-01",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1964,
+      "month": 2,
+      "date": "1964-02",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1964,
+      "month": 3,
+      "date": "1964-03",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1964,
+      "month": 4,
+      "date": "1964-04",
+      "anomaly1951_1980": -0.32,
+      "anomalyPreindustrial": -0.10214285714285701
+    },
+    {
+      "year": 1964,
+      "month": 5,
+      "date": "1964-05",
+      "anomaly1951_1980": -0.25,
+      "anomalyPreindustrial": -0.032142857142857
+    },
+    {
+      "year": 1964,
+      "month": 6,
+      "date": "1964-06",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1964,
+      "month": 7,
+      "date": "1964-07",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1964,
+      "month": 8,
+      "date": "1964-08",
+      "anomaly1951_1980": -0.22,
+      "anomalyPreindustrial": -0.002142857142857002
+    },
+    {
+      "year": 1964,
+      "month": 9,
+      "date": "1964-09",
+      "anomaly1951_1980": -0.3,
+      "anomalyPreindustrial": -0.08214285714285699
+    },
+    {
+      "year": 1964,
+      "month": 10,
+      "date": "1964-10",
+      "anomaly1951_1980": -0.32,
+      "anomalyPreindustrial": -0.10214285714285701
+    },
+    {
+      "year": 1964,
+      "month": 11,
+      "date": "1964-11",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1964,
+      "month": 12,
+      "date": "1964-12",
+      "anomaly1951_1980": -0.3,
+      "anomalyPreindustrial": -0.08214285714285699
+    },
+    {
+      "year": 1965,
+      "month": 1,
+      "date": "1965-01",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1965,
+      "month": 2,
+      "date": "1965-02",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1965,
+      "month": 3,
+      "date": "1965-03",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1965,
+      "month": 4,
+      "date": "1965-04",
+      "anomaly1951_1980": -0.19,
+      "anomalyPreindustrial": 0.027857142857142997
+    },
+    {
+      "year": 1965,
+      "month": 5,
+      "date": "1965-05",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1965,
+      "month": 6,
+      "date": "1965-06",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1965,
+      "month": 7,
+      "date": "1965-07",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1965,
+      "month": 8,
+      "date": "1965-08",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1965,
+      "month": 9,
+      "date": "1965-09",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1965,
+      "month": 10,
+      "date": "1965-10",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1965,
+      "month": 11,
+      "date": "1965-11",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1965,
+      "month": 12,
+      "date": "1965-12",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1966,
+      "month": 1,
+      "date": "1966-01",
+      "anomaly1951_1980": -0.19,
+      "anomalyPreindustrial": 0.027857142857142997
+    },
+    {
+      "year": 1966,
+      "month": 2,
+      "date": "1966-02",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1966,
+      "month": 3,
+      "date": "1966-03",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1966,
+      "month": 4,
+      "date": "1966-04",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1966,
+      "month": 5,
+      "date": "1966-05",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1966,
+      "month": 6,
+      "date": "1966-06",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1966,
+      "month": 7,
+      "date": "1966-07",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1966,
+      "month": 8,
+      "date": "1966-08",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1966,
+      "month": 9,
+      "date": "1966-09",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1966,
+      "month": 10,
+      "date": "1966-10",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1966,
+      "month": 11,
+      "date": "1966-11",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1966,
+      "month": 12,
+      "date": "1966-12",
+      "anomaly1951_1980": -0.02,
+      "anomalyPreindustrial": 0.197857142857143
+    },
+    {
+      "year": 1967,
+      "month": 1,
+      "date": "1967-01",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1967,
+      "month": 2,
+      "date": "1967-02",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1967,
+      "month": 3,
+      "date": "1967-03",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1967,
+      "month": 4,
+      "date": "1967-04",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1967,
+      "month": 5,
+      "date": "1967-05",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1967,
+      "month": 6,
+      "date": "1967-06",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1967,
+      "month": 7,
+      "date": "1967-07",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1967,
+      "month": 8,
+      "date": "1967-08",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1967,
+      "month": 9,
+      "date": "1967-09",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1967,
+      "month": 10,
+      "date": "1967-10",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1967,
+      "month": 11,
+      "date": "1967-11",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1967,
+      "month": 12,
+      "date": "1967-12",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1968,
+      "month": 1,
+      "date": "1968-01",
+      "anomaly1951_1980": -0.26,
+      "anomalyPreindustrial": -0.04214285714285701
+    },
+    {
+      "year": 1968,
+      "month": 2,
+      "date": "1968-02",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1968,
+      "month": 3,
+      "date": "1968-03",
+      "anomaly1951_1980": 0.2,
+      "anomalyPreindustrial": 0.41785714285714304
+    },
+    {
+      "year": 1968,
+      "month": 4,
+      "date": "1968-04",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1968,
+      "month": 5,
+      "date": "1968-05",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1968,
+      "month": 6,
+      "date": "1968-06",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1968,
+      "month": 7,
+      "date": "1968-07",
+      "anomaly1951_1980": -0.13,
+      "anomalyPreindustrial": 0.087857142857143
+    },
+    {
+      "year": 1968,
+      "month": 8,
+      "date": "1968-08",
+      "anomaly1951_1980": -0.09,
+      "anomalyPreindustrial": 0.127857142857143
+    },
+    {
+      "year": 1968,
+      "month": 9,
+      "date": "1968-09",
+      "anomaly1951_1980": -0.19,
+      "anomalyPreindustrial": 0.027857142857142997
+    },
+    {
+      "year": 1968,
+      "month": 10,
+      "date": "1968-10",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1968,
+      "month": 11,
+      "date": "1968-11",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1968,
+      "month": 12,
+      "date": "1968-12",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1969,
+      "month": 1,
+      "date": "1969-01",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1969,
+      "month": 2,
+      "date": "1969-02",
+      "anomaly1951_1980": -0.18,
+      "anomalyPreindustrial": 0.037857142857143006
+    },
+    {
+      "year": 1969,
+      "month": 3,
+      "date": "1969-03",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1969,
+      "month": 4,
+      "date": "1969-04",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1969,
+      "month": 5,
+      "date": "1969-05",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1969,
+      "month": 6,
+      "date": "1969-06",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1969,
+      "month": 7,
+      "date": "1969-07",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1969,
+      "month": 8,
+      "date": "1969-08",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1969,
+      "month": 9,
+      "date": "1969-09",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1969,
+      "month": 10,
+      "date": "1969-10",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "date": "1969-11",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1969,
+      "month": 12,
+      "date": "1969-12",
+      "anomaly1951_1980": 0.24,
+      "anomalyPreindustrial": 0.45785714285714296
+    },
+    {
+      "year": 1970,
+      "month": 1,
+      "date": "1970-01",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1970,
+      "month": 2,
+      "date": "1970-02",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1970,
+      "month": 3,
+      "date": "1970-03",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1970,
+      "month": 4,
+      "date": "1970-04",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1970,
+      "month": 5,
+      "date": "1970-05",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1970,
+      "month": 6,
+      "date": "1970-06",
+      "anomaly1951_1980": -0.02,
+      "anomalyPreindustrial": 0.197857142857143
+    },
+    {
+      "year": 1970,
+      "month": 7,
+      "date": "1970-07",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1970,
+      "month": 8,
+      "date": "1970-08",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1970,
+      "month": 9,
+      "date": "1970-09",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1970,
+      "month": 10,
+      "date": "1970-10",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1970,
+      "month": 11,
+      "date": "1970-11",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1970,
+      "month": 12,
+      "date": "1970-12",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1971,
+      "month": 1,
+      "date": "1971-01",
+      "anomaly1951_1980": -0.02,
+      "anomalyPreindustrial": 0.197857142857143
+    },
+    {
+      "year": 1971,
+      "month": 2,
+      "date": "1971-02",
+      "anomaly1951_1980": -0.15,
+      "anomalyPreindustrial": 0.067857142857143
+    },
+    {
+      "year": 1971,
+      "month": 3,
+      "date": "1971-03",
+      "anomaly1951_1980": -0.18,
+      "anomalyPreindustrial": 0.037857142857143006
+    },
+    {
+      "year": 1971,
+      "month": 4,
+      "date": "1971-04",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1971,
+      "month": 5,
+      "date": "1971-05",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1971,
+      "month": 6,
+      "date": "1971-06",
+      "anomaly1951_1980": -0.16,
+      "anomalyPreindustrial": 0.057857142857142996
+    },
+    {
+      "year": 1971,
+      "month": 7,
+      "date": "1971-07",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1971,
+      "month": 8,
+      "date": "1971-08",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1971,
+      "month": 9,
+      "date": "1971-09",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1971,
+      "month": 10,
+      "date": "1971-10",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1971,
+      "month": 11,
+      "date": "1971-11",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1971,
+      "month": 12,
+      "date": "1971-12",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1972,
+      "month": 1,
+      "date": "1972-01",
+      "anomaly1951_1980": -0.22,
+      "anomalyPreindustrial": -0.002142857142857002
+    },
+    {
+      "year": 1972,
+      "month": 2,
+      "date": "1972-02",
+      "anomaly1951_1980": -0.18,
+      "anomalyPreindustrial": 0.037857142857143006
+    },
+    {
+      "year": 1972,
+      "month": 3,
+      "date": "1972-03",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1972,
+      "month": 4,
+      "date": "1972-04",
+      "anomaly1951_1980": 0,
+      "anomalyPreindustrial": 0.217857142857143
+    },
+    {
+      "year": 1972,
+      "month": 5,
+      "date": "1972-05",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1972,
+      "month": 6,
+      "date": "1972-06",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1972,
+      "month": 7,
+      "date": "1972-07",
+      "anomaly1951_1980": 0.01,
+      "anomalyPreindustrial": 0.227857142857143
+    },
+    {
+      "year": 1972,
+      "month": 8,
+      "date": "1972-08",
+      "anomaly1951_1980": 0.16,
+      "anomalyPreindustrial": 0.377857142857143
+    },
+    {
+      "year": 1972,
+      "month": 9,
+      "date": "1972-09",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1972,
+      "month": 10,
+      "date": "1972-10",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1972,
+      "month": 11,
+      "date": "1972-11",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1972,
+      "month": 12,
+      "date": "1972-12",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1973,
+      "month": 1,
+      "date": "1973-01",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1973,
+      "month": 2,
+      "date": "1973-02",
+      "anomaly1951_1980": 0.32,
+      "anomalyPreindustrial": 0.537857142857143
+    },
+    {
+      "year": 1973,
+      "month": 3,
+      "date": "1973-03",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1973,
+      "month": 4,
+      "date": "1973-04",
+      "anomaly1951_1980": 0.27,
+      "anomalyPreindustrial": 0.487857142857143
+    },
+    {
+      "year": 1973,
+      "month": 5,
+      "date": "1973-05",
+      "anomaly1951_1980": 0.23,
+      "anomalyPreindustrial": 0.447857142857143
+    },
+    {
+      "year": 1973,
+      "month": 6,
+      "date": "1973-06",
+      "anomaly1951_1980": 0.19,
+      "anomalyPreindustrial": 0.40785714285714303
+    },
+    {
+      "year": 1973,
+      "month": 7,
+      "date": "1973-07",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1973,
+      "month": 8,
+      "date": "1973-08",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1973,
+      "month": 9,
+      "date": "1973-09",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1973,
+      "month": 10,
+      "date": "1973-10",
+      "anomaly1951_1980": 0.1,
+      "anomalyPreindustrial": 0.317857142857143
+    },
+    {
+      "year": 1973,
+      "month": 11,
+      "date": "1973-11",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1973,
+      "month": 12,
+      "date": "1973-12",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1974,
+      "month": 1,
+      "date": "1974-01",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1974,
+      "month": 2,
+      "date": "1974-02",
+      "anomaly1951_1980": -0.27,
+      "anomalyPreindustrial": -0.05214285714285702
+    },
+    {
+      "year": 1974,
+      "month": 3,
+      "date": "1974-03",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1974,
+      "month": 4,
+      "date": "1974-04",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1974,
+      "month": 5,
+      "date": "1974-05",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1974,
+      "month": 6,
+      "date": "1974-06",
+      "anomaly1951_1980": -0.05,
+      "anomalyPreindustrial": 0.16785714285714298
+    },
+    {
+      "year": 1974,
+      "month": 7,
+      "date": "1974-07",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1974,
+      "month": 8,
+      "date": "1974-08",
+      "anomaly1951_1980": 0.1,
+      "anomalyPreindustrial": 0.317857142857143
+    },
+    {
+      "year": 1974,
+      "month": 9,
+      "date": "1974-09",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1974,
+      "month": 10,
+      "date": "1974-10",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1974,
+      "month": 11,
+      "date": "1974-11",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1974,
+      "month": 12,
+      "date": "1974-12",
+      "anomaly1951_1980": -0.08,
+      "anomalyPreindustrial": 0.137857142857143
+    },
+    {
+      "year": 1975,
+      "month": 1,
+      "date": "1975-01",
+      "anomaly1951_1980": 0.1,
+      "anomalyPreindustrial": 0.317857142857143
+    },
+    {
+      "year": 1975,
+      "month": 2,
+      "date": "1975-02",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1975,
+      "month": 3,
+      "date": "1975-03",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1975,
+      "month": 4,
+      "date": "1975-04",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1975,
+      "month": 5,
+      "date": "1975-05",
+      "anomaly1951_1980": 0.16,
+      "anomalyPreindustrial": 0.377857142857143
+    },
+    {
+      "year": 1975,
+      "month": 6,
+      "date": "1975-06",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1975,
+      "month": 7,
+      "date": "1975-07",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1975,
+      "month": 8,
+      "date": "1975-08",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1975,
+      "month": 9,
+      "date": "1975-09",
+      "anomaly1951_1980": -0.02,
+      "anomalyPreindustrial": 0.197857142857143
+    },
+    {
+      "year": 1975,
+      "month": 10,
+      "date": "1975-10",
+      "anomaly1951_1980": -0.11,
+      "anomalyPreindustrial": 0.107857142857143
+    },
+    {
+      "year": 1975,
+      "month": 11,
+      "date": "1975-11",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1975,
+      "month": 12,
+      "date": "1975-12",
+      "anomaly1951_1980": -0.17,
+      "anomalyPreindustrial": 0.04785714285714299
+    },
+    {
+      "year": 1976,
+      "month": 1,
+      "date": "1976-01",
+      "anomaly1951_1980": -0.03,
+      "anomalyPreindustrial": 0.187857142857143
+    },
+    {
+      "year": 1976,
+      "month": 2,
+      "date": "1976-02",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1976,
+      "month": 3,
+      "date": "1976-03",
+      "anomaly1951_1980": -0.21,
+      "anomalyPreindustrial": 0.007857142857143007
+    },
+    {
+      "year": 1976,
+      "month": 4,
+      "date": "1976-04",
+      "anomaly1951_1980": -0.07,
+      "anomalyPreindustrial": 0.147857142857143
+    },
+    {
+      "year": 1976,
+      "month": 5,
+      "date": "1976-05",
+      "anomaly1951_1980": -0.2,
+      "anomalyPreindustrial": 0.017857142857142988
+    },
+    {
+      "year": 1976,
+      "month": 6,
+      "date": "1976-06",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1976,
+      "month": 7,
+      "date": "1976-07",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1976,
+      "month": 8,
+      "date": "1976-08",
+      "anomaly1951_1980": -0.12,
+      "anomalyPreindustrial": 0.097857142857143
+    },
+    {
+      "year": 1976,
+      "month": 9,
+      "date": "1976-09",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1976,
+      "month": 10,
+      "date": "1976-10",
+      "anomaly1951_1980": -0.24,
+      "anomalyPreindustrial": -0.022142857142856992
+    },
+    {
+      "year": 1976,
+      "month": 11,
+      "date": "1976-11",
+      "anomaly1951_1980": -0.06,
+      "anomalyPreindustrial": 0.157857142857143
+    },
+    {
+      "year": 1976,
+      "month": 12,
+      "date": "1976-12",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1977,
+      "month": 1,
+      "date": "1977-01",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1977,
+      "month": 2,
+      "date": "1977-02",
+      "anomaly1951_1980": 0.23,
+      "anomalyPreindustrial": 0.447857142857143
+    },
+    {
+      "year": 1977,
+      "month": 3,
+      "date": "1977-03",
+      "anomaly1951_1980": 0.24,
+      "anomalyPreindustrial": 0.45785714285714296
+    },
+    {
+      "year": 1977,
+      "month": 4,
+      "date": "1977-04",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1977,
+      "month": 5,
+      "date": "1977-05",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1977,
+      "month": 6,
+      "date": "1977-06",
+      "anomaly1951_1980": 0.27,
+      "anomalyPreindustrial": 0.487857142857143
+    },
+    {
+      "year": 1977,
+      "month": 7,
+      "date": "1977-07",
+      "anomaly1951_1980": 0.2,
+      "anomalyPreindustrial": 0.41785714285714304
+    },
+    {
+      "year": 1977,
+      "month": 8,
+      "date": "1977-08",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1977,
+      "month": 9,
+      "date": "1977-09",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1977,
+      "month": 10,
+      "date": "1977-10",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1977,
+      "month": 11,
+      "date": "1977-11",
+      "anomaly1951_1980": 0.16,
+      "anomalyPreindustrial": 0.377857142857143
+    },
+    {
+      "year": 1977,
+      "month": 12,
+      "date": "1977-12",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1978,
+      "month": 1,
+      "date": "1978-01",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1978,
+      "month": 2,
+      "date": "1978-02",
+      "anomaly1951_1980": 0.1,
+      "anomalyPreindustrial": 0.317857142857143
+    },
+    {
+      "year": 1978,
+      "month": 3,
+      "date": "1978-03",
+      "anomaly1951_1980": 0.19,
+      "anomalyPreindustrial": 0.40785714285714303
+    },
+    {
+      "year": 1978,
+      "month": 4,
+      "date": "1978-04",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1978,
+      "month": 5,
+      "date": "1978-05",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1978,
+      "month": 6,
+      "date": "1978-06",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1978,
+      "month": 7,
+      "date": "1978-07",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1978,
+      "month": 8,
+      "date": "1978-08",
+      "anomaly1951_1980": -0.14,
+      "anomalyPreindustrial": 0.07785714285714299
+    },
+    {
+      "year": 1978,
+      "month": 9,
+      "date": "1978-09",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1978,
+      "month": 10,
+      "date": "1978-10",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1978,
+      "month": 11,
+      "date": "1978-11",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1978,
+      "month": 12,
+      "date": "1978-12",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1979,
+      "month": 1,
+      "date": "1979-01",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1979,
+      "month": 2,
+      "date": "1979-02",
+      "anomaly1951_1980": -0.1,
+      "anomalyPreindustrial": 0.117857142857143
+    },
+    {
+      "year": 1979,
+      "month": 3,
+      "date": "1979-03",
+      "anomaly1951_1980": 0.19,
+      "anomalyPreindustrial": 0.40785714285714303
+    },
+    {
+      "year": 1979,
+      "month": 4,
+      "date": "1979-04",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1979,
+      "month": 5,
+      "date": "1979-05",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1979,
+      "month": 6,
+      "date": "1979-06",
+      "anomaly1951_1980": 0.14,
+      "anomalyPreindustrial": 0.357857142857143
+    },
+    {
+      "year": 1979,
+      "month": 7,
+      "date": "1979-07",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1979,
+      "month": 8,
+      "date": "1979-08",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1979,
+      "month": 9,
+      "date": "1979-09",
+      "anomaly1951_1980": 0.25,
+      "anomalyPreindustrial": 0.46785714285714297
+    },
+    {
+      "year": 1979,
+      "month": 10,
+      "date": "1979-10",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1979,
+      "month": 11,
+      "date": "1979-11",
+      "anomaly1951_1980": 0.28,
+      "anomalyPreindustrial": 0.497857142857143
+    },
+    {
+      "year": 1979,
+      "month": 12,
+      "date": "1979-12",
+      "anomaly1951_1980": 0.47,
+      "anomalyPreindustrial": 0.687857142857143
+    },
+    {
+      "year": 1980,
+      "month": 1,
+      "date": "1980-01",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 1980,
+      "month": 2,
+      "date": "1980-02",
+      "anomaly1951_1980": 0.39,
+      "anomalyPreindustrial": 0.607857142857143
+    },
+    {
+      "year": 1980,
+      "month": 3,
+      "date": "1980-03",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1980,
+      "month": 4,
+      "date": "1980-04",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 1980,
+      "month": 5,
+      "date": "1980-05",
+      "anomaly1951_1980": 0.35,
+      "anomalyPreindustrial": 0.567857142857143
+    },
+    {
+      "year": 1980,
+      "month": 6,
+      "date": "1980-06",
+      "anomaly1951_1980": 0.2,
+      "anomalyPreindustrial": 0.41785714285714304
+    },
+    {
+      "year": 1980,
+      "month": 7,
+      "date": "1980-07",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1980,
+      "month": 8,
+      "date": "1980-08",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1980,
+      "month": 9,
+      "date": "1980-09",
+      "anomaly1951_1980": 0.2,
+      "anomalyPreindustrial": 0.41785714285714304
+    },
+    {
+      "year": 1980,
+      "month": 10,
+      "date": "1980-10",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1980,
+      "month": 11,
+      "date": "1980-11",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 1980,
+      "month": 12,
+      "date": "1980-12",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1981,
+      "month": 1,
+      "date": "1981-01",
+      "anomaly1951_1980": 0.53,
+      "anomalyPreindustrial": 0.747857142857143
+    },
+    {
+      "year": 1981,
+      "month": 2,
+      "date": "1981-02",
+      "anomaly1951_1980": 0.42,
+      "anomalyPreindustrial": 0.637857142857143
+    },
+    {
+      "year": 1981,
+      "month": 3,
+      "date": "1981-03",
+      "anomaly1951_1980": 0.48,
+      "anomalyPreindustrial": 0.697857142857143
+    },
+    {
+      "year": 1981,
+      "month": 4,
+      "date": "1981-04",
+      "anomaly1951_1980": 0.32,
+      "anomalyPreindustrial": 0.537857142857143
+    },
+    {
+      "year": 1981,
+      "month": 5,
+      "date": "1981-05",
+      "anomaly1951_1980": 0.24,
+      "anomalyPreindustrial": 0.45785714285714296
+    },
+    {
+      "year": 1981,
+      "month": 6,
+      "date": "1981-06",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1981,
+      "month": 7,
+      "date": "1981-07",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1981,
+      "month": 8,
+      "date": "1981-08",
+      "anomaly1951_1980": 0.35,
+      "anomalyPreindustrial": 0.567857142857143
+    },
+    {
+      "year": 1981,
+      "month": 9,
+      "date": "1981-09",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1981,
+      "month": 10,
+      "date": "1981-10",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1981,
+      "month": 11,
+      "date": "1981-11",
+      "anomaly1951_1980": 0.23,
+      "anomalyPreindustrial": 0.447857142857143
+    },
+    {
+      "year": 1981,
+      "month": 12,
+      "date": "1981-12",
+      "anomaly1951_1980": 0.41,
+      "anomalyPreindustrial": 0.627857142857143
+    },
+    {
+      "year": 1982,
+      "month": 1,
+      "date": "1982-01",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1982,
+      "month": 2,
+      "date": "1982-02",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1982,
+      "month": 3,
+      "date": "1982-03",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1982,
+      "month": 4,
+      "date": "1982-04",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1982,
+      "month": 5,
+      "date": "1982-05",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1982,
+      "month": 6,
+      "date": "1982-06",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1982,
+      "month": 7,
+      "date": "1982-07",
+      "anomaly1951_1980": 0.14,
+      "anomalyPreindustrial": 0.357857142857143
+    },
+    {
+      "year": 1982,
+      "month": 8,
+      "date": "1982-08",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1982,
+      "month": 9,
+      "date": "1982-09",
+      "anomaly1951_1980": 0.14,
+      "anomalyPreindustrial": 0.357857142857143
+    },
+    {
+      "year": 1982,
+      "month": 10,
+      "date": "1982-10",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1982,
+      "month": 11,
+      "date": "1982-11",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1982,
+      "month": 12,
+      "date": "1982-12",
+      "anomaly1951_1980": 0.43,
+      "anomalyPreindustrial": 0.647857142857143
+    },
+    {
+      "year": 1983,
+      "month": 1,
+      "date": "1983-01",
+      "anomaly1951_1980": 0.53,
+      "anomalyPreindustrial": 0.747857142857143
+    },
+    {
+      "year": 1983,
+      "month": 2,
+      "date": "1983-02",
+      "anomaly1951_1980": 0.43,
+      "anomalyPreindustrial": 0.647857142857143
+    },
+    {
+      "year": 1983,
+      "month": 3,
+      "date": "1983-03",
+      "anomaly1951_1980": 0.42,
+      "anomalyPreindustrial": 0.637857142857143
+    },
+    {
+      "year": 1983,
+      "month": 4,
+      "date": "1983-04",
+      "anomaly1951_1980": 0.28,
+      "anomalyPreindustrial": 0.497857142857143
+    },
+    {
+      "year": 1983,
+      "month": 5,
+      "date": "1983-05",
+      "anomaly1951_1980": 0.34,
+      "anomalyPreindustrial": 0.557857142857143
+    },
+    {
+      "year": 1983,
+      "month": 6,
+      "date": "1983-06",
+      "anomaly1951_1980": 0.23,
+      "anomalyPreindustrial": 0.447857142857143
+    },
+    {
+      "year": 1983,
+      "month": 7,
+      "date": "1983-07",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1983,
+      "month": 8,
+      "date": "1983-08",
+      "anomaly1951_1980": 0.36,
+      "anomalyPreindustrial": 0.577857142857143
+    },
+    {
+      "year": 1983,
+      "month": 9,
+      "date": "1983-09",
+      "anomaly1951_1980": 0.37,
+      "anomalyPreindustrial": 0.587857142857143
+    },
+    {
+      "year": 1983,
+      "month": 10,
+      "date": "1983-10",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1983,
+      "month": 11,
+      "date": "1983-11",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 1983,
+      "month": 12,
+      "date": "1983-12",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1984,
+      "month": 1,
+      "date": "1984-01",
+      "anomaly1951_1980": 0.31,
+      "anomalyPreindustrial": 0.527857142857143
+    },
+    {
+      "year": 1984,
+      "month": 2,
+      "date": "1984-02",
+      "anomaly1951_1980": 0.14,
+      "anomalyPreindustrial": 0.357857142857143
+    },
+    {
+      "year": 1984,
+      "month": 3,
+      "date": "1984-03",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1984,
+      "month": 4,
+      "date": "1984-04",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1984,
+      "month": 5,
+      "date": "1984-05",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1984,
+      "month": 6,
+      "date": "1984-06",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1984,
+      "month": 7,
+      "date": "1984-07",
+      "anomaly1951_1980": 0.19,
+      "anomalyPreindustrial": 0.40785714285714303
+    },
+    {
+      "year": 1984,
+      "month": 8,
+      "date": "1984-08",
+      "anomaly1951_1980": 0.19,
+      "anomalyPreindustrial": 0.40785714285714303
+    },
+    {
+      "year": 1984,
+      "month": 9,
+      "date": "1984-09",
+      "anomaly1951_1980": 0.21,
+      "anomalyPreindustrial": 0.427857142857143
+    },
+    {
+      "year": 1984,
+      "month": 10,
+      "date": "1984-10",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1984,
+      "month": 11,
+      "date": "1984-11",
+      "anomaly1951_1980": 0.06,
+      "anomalyPreindustrial": 0.277857142857143
+    },
+    {
+      "year": 1984,
+      "month": 12,
+      "date": "1984-12",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1985,
+      "month": 1,
+      "date": "1985-01",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1985,
+      "month": 2,
+      "date": "1985-02",
+      "anomaly1951_1980": -0.04,
+      "anomalyPreindustrial": 0.177857142857143
+    },
+    {
+      "year": 1985,
+      "month": 3,
+      "date": "1985-03",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1985,
+      "month": 4,
+      "date": "1985-04",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1985,
+      "month": 5,
+      "date": "1985-05",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1985,
+      "month": 6,
+      "date": "1985-06",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1985,
+      "month": 7,
+      "date": "1985-07",
+      "anomaly1951_1980": 0.04,
+      "anomalyPreindustrial": 0.257857142857143
+    },
+    {
+      "year": 1985,
+      "month": 8,
+      "date": "1985-08",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1985,
+      "month": 9,
+      "date": "1985-09",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1985,
+      "month": 10,
+      "date": "1985-10",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1985,
+      "month": 11,
+      "date": "1985-11",
+      "anomaly1951_1980": 0.05,
+      "anomalyPreindustrial": 0.267857142857143
+    },
+    {
+      "year": 1985,
+      "month": 12,
+      "date": "1985-12",
+      "anomaly1951_1980": 0.14,
+      "anomalyPreindustrial": 0.357857142857143
+    },
+    {
+      "year": 1986,
+      "month": 1,
+      "date": "1986-01",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1986,
+      "month": 2,
+      "date": "1986-02",
+      "anomaly1951_1980": 0.37,
+      "anomalyPreindustrial": 0.587857142857143
+    },
+    {
+      "year": 1986,
+      "month": 3,
+      "date": "1986-03",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 1986,
+      "month": 4,
+      "date": "1986-04",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1986,
+      "month": 5,
+      "date": "1986-05",
+      "anomaly1951_1980": 0.21,
+      "anomalyPreindustrial": 0.427857142857143
+    },
+    {
+      "year": 1986,
+      "month": 6,
+      "date": "1986-06",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1986,
+      "month": 7,
+      "date": "1986-07",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1986,
+      "month": 8,
+      "date": "1986-08",
+      "anomaly1951_1980": 0.16,
+      "anomalyPreindustrial": 0.377857142857143
+    },
+    {
+      "year": 1986,
+      "month": 9,
+      "date": "1986-09",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1986,
+      "month": 10,
+      "date": "1986-10",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1986,
+      "month": 11,
+      "date": "1986-11",
+      "anomaly1951_1980": 0.1,
+      "anomalyPreindustrial": 0.317857142857143
+    },
+    {
+      "year": 1986,
+      "month": 12,
+      "date": "1986-12",
+      "anomaly1951_1980": 0.13,
+      "anomalyPreindustrial": 0.347857142857143
+    },
+    {
+      "year": 1987,
+      "month": 1,
+      "date": "1987-01",
+      "anomaly1951_1980": 0.32,
+      "anomalyPreindustrial": 0.537857142857143
+    },
+    {
+      "year": 1987,
+      "month": 2,
+      "date": "1987-02",
+      "anomaly1951_1980": 0.43,
+      "anomalyPreindustrial": 0.647857142857143
+    },
+    {
+      "year": 1987,
+      "month": 3,
+      "date": "1987-03",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1987,
+      "month": 4,
+      "date": "1987-04",
+      "anomaly1951_1980": 0.24,
+      "anomalyPreindustrial": 0.45785714285714296
+    },
+    {
+      "year": 1987,
+      "month": 5,
+      "date": "1987-05",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1987,
+      "month": 6,
+      "date": "1987-06",
+      "anomaly1951_1980": 0.35,
+      "anomalyPreindustrial": 0.567857142857143
+    },
+    {
+      "year": 1987,
+      "month": 7,
+      "date": "1987-07",
+      "anomaly1951_1980": 0.4,
+      "anomalyPreindustrial": 0.617857142857143
+    },
+    {
+      "year": 1987,
+      "month": 8,
+      "date": "1987-08",
+      "anomaly1951_1980": 0.25,
+      "anomalyPreindustrial": 0.46785714285714297
+    },
+    {
+      "year": 1987,
+      "month": 9,
+      "date": "1987-09",
+      "anomaly1951_1980": 0.35,
+      "anomalyPreindustrial": 0.567857142857143
+    },
+    {
+      "year": 1987,
+      "month": 10,
+      "date": "1987-10",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1987,
+      "month": 11,
+      "date": "1987-11",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1987,
+      "month": 12,
+      "date": "1987-12",
+      "anomaly1951_1980": 0.46,
+      "anomalyPreindustrial": 0.677857142857143
+    },
+    {
+      "year": 1988,
+      "month": 1,
+      "date": "1988-01",
+      "anomaly1951_1980": 0.57,
+      "anomalyPreindustrial": 0.7878571428571429
+    },
+    {
+      "year": 1988,
+      "month": 2,
+      "date": "1988-02",
+      "anomaly1951_1980": 0.44,
+      "anomalyPreindustrial": 0.657857142857143
+    },
+    {
+      "year": 1988,
+      "month": 3,
+      "date": "1988-03",
+      "anomaly1951_1980": 0.51,
+      "anomalyPreindustrial": 0.727857142857143
+    },
+    {
+      "year": 1988,
+      "month": 4,
+      "date": "1988-04",
+      "anomaly1951_1980": 0.42,
+      "anomalyPreindustrial": 0.637857142857143
+    },
+    {
+      "year": 1988,
+      "month": 5,
+      "date": "1988-05",
+      "anomaly1951_1980": 0.44,
+      "anomalyPreindustrial": 0.657857142857143
+    },
+    {
+      "year": 1988,
+      "month": 6,
+      "date": "1988-06",
+      "anomaly1951_1980": 0.4,
+      "anomalyPreindustrial": 0.617857142857143
+    },
+    {
+      "year": 1988,
+      "month": 7,
+      "date": "1988-07",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1988,
+      "month": 8,
+      "date": "1988-08",
+      "anomaly1951_1980": 0.39,
+      "anomalyPreindustrial": 0.607857142857143
+    },
+    {
+      "year": 1988,
+      "month": 9,
+      "date": "1988-09",
+      "anomaly1951_1980": 0.37,
+      "anomalyPreindustrial": 0.587857142857143
+    },
+    {
+      "year": 1988,
+      "month": 10,
+      "date": "1988-10",
+      "anomaly1951_1980": 0.38,
+      "anomalyPreindustrial": 0.597857142857143
+    },
+    {
+      "year": 1988,
+      "month": 11,
+      "date": "1988-11",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1988,
+      "month": 12,
+      "date": "1988-12",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1989,
+      "month": 1,
+      "date": "1989-01",
+      "anomaly1951_1980": 0.12,
+      "anomalyPreindustrial": 0.33785714285714297
+    },
+    {
+      "year": 1989,
+      "month": 2,
+      "date": "1989-02",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 1989,
+      "month": 3,
+      "date": "1989-03",
+      "anomaly1951_1980": 0.36,
+      "anomalyPreindustrial": 0.577857142857143
+    },
+    {
+      "year": 1989,
+      "month": 4,
+      "date": "1989-04",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1989,
+      "month": 5,
+      "date": "1989-05",
+      "anomaly1951_1980": 0.17,
+      "anomalyPreindustrial": 0.387857142857143
+    },
+    {
+      "year": 1989,
+      "month": 6,
+      "date": "1989-06",
+      "anomaly1951_1980": 0.15,
+      "anomalyPreindustrial": 0.367857142857143
+    },
+    {
+      "year": 1989,
+      "month": 7,
+      "date": "1989-07",
+      "anomaly1951_1980": 0.35,
+      "anomalyPreindustrial": 0.567857142857143
+    },
+    {
+      "year": 1989,
+      "month": 8,
+      "date": "1989-08",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1989,
+      "month": 9,
+      "date": "1989-09",
+      "anomaly1951_1980": 0.34,
+      "anomalyPreindustrial": 0.557857142857143
+    },
+    {
+      "year": 1989,
+      "month": 10,
+      "date": "1989-10",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1989,
+      "month": 11,
+      "date": "1989-11",
+      "anomaly1951_1980": 0.2,
+      "anomalyPreindustrial": 0.41785714285714304
+    },
+    {
+      "year": 1989,
+      "month": 12,
+      "date": "1989-12",
+      "anomaly1951_1980": 0.37,
+      "anomalyPreindustrial": 0.587857142857143
+    },
+    {
+      "year": 1990,
+      "month": 1,
+      "date": "1990-01",
+      "anomaly1951_1980": 0.41,
+      "anomalyPreindustrial": 0.627857142857143
+    },
+    {
+      "year": 1990,
+      "month": 2,
+      "date": "1990-02",
+      "anomaly1951_1980": 0.44,
+      "anomalyPreindustrial": 0.657857142857143
+    },
+    {
+      "year": 1990,
+      "month": 3,
+      "date": "1990-03",
+      "anomaly1951_1980": 0.8,
+      "anomalyPreindustrial": 1.017857142857143
+    },
+    {
+      "year": 1990,
+      "month": 4,
+      "date": "1990-04",
+      "anomaly1951_1980": 0.56,
+      "anomalyPreindustrial": 0.777857142857143
+    },
+    {
+      "year": 1990,
+      "month": 5,
+      "date": "1990-05",
+      "anomaly1951_1980": 0.46,
+      "anomalyPreindustrial": 0.677857142857143
+    },
+    {
+      "year": 1990,
+      "month": 6,
+      "date": "1990-06",
+      "anomaly1951_1980": 0.37,
+      "anomalyPreindustrial": 0.587857142857143
+    },
+    {
+      "year": 1990,
+      "month": 7,
+      "date": "1990-07",
+      "anomaly1951_1980": 0.46,
+      "anomalyPreindustrial": 0.677857142857143
+    },
+    {
+      "year": 1990,
+      "month": 8,
+      "date": "1990-08",
+      "anomaly1951_1980": 0.34,
+      "anomalyPreindustrial": 0.557857142857143
+    },
+    {
+      "year": 1990,
+      "month": 9,
+      "date": "1990-09",
+      "anomaly1951_1980": 0.23,
+      "anomalyPreindustrial": 0.447857142857143
+    },
+    {
+      "year": 1990,
+      "month": 10,
+      "date": "1990-10",
+      "anomaly1951_1980": 0.45,
+      "anomalyPreindustrial": 0.667857142857143
+    },
+    {
+      "year": 1990,
+      "month": 11,
+      "date": "1990-11",
+      "anomaly1951_1980": 0.46,
+      "anomalyPreindustrial": 0.677857142857143
+    },
+    {
+      "year": 1990,
+      "month": 12,
+      "date": "1990-12",
+      "anomaly1951_1980": 0.4,
+      "anomalyPreindustrial": 0.617857142857143
+    },
+    {
+      "year": 1991,
+      "month": 1,
+      "date": "1991-01",
+      "anomaly1951_1980": 0.42,
+      "anomalyPreindustrial": 0.637857142857143
+    },
+    {
+      "year": 1991,
+      "month": 2,
+      "date": "1991-02",
+      "anomaly1951_1980": 0.5,
+      "anomalyPreindustrial": 0.717857142857143
+    },
+    {
+      "year": 1991,
+      "month": 3,
+      "date": "1991-03",
+      "anomaly1951_1980": 0.35,
+      "anomalyPreindustrial": 0.567857142857143
+    },
+    {
+      "year": 1991,
+      "month": 4,
+      "date": "1991-04",
+      "anomaly1951_1980": 0.51,
+      "anomalyPreindustrial": 0.727857142857143
+    },
+    {
+      "year": 1991,
+      "month": 5,
+      "date": "1991-05",
+      "anomaly1951_1980": 0.34,
+      "anomalyPreindustrial": 0.557857142857143
+    },
+    {
+      "year": 1991,
+      "month": 6,
+      "date": "1991-06",
+      "anomaly1951_1980": 0.53,
+      "anomalyPreindustrial": 0.747857142857143
+    },
+    {
+      "year": 1991,
+      "month": 7,
+      "date": "1991-07",
+      "anomaly1951_1980": 0.48,
+      "anomalyPreindustrial": 0.697857142857143
+    },
+    {
+      "year": 1991,
+      "month": 8,
+      "date": "1991-08",
+      "anomaly1951_1980": 0.39,
+      "anomalyPreindustrial": 0.607857142857143
+    },
+    {
+      "year": 1991,
+      "month": 9,
+      "date": "1991-09",
+      "anomaly1951_1980": 0.44,
+      "anomalyPreindustrial": 0.657857142857143
+    },
+    {
+      "year": 1991,
+      "month": 10,
+      "date": "1991-10",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1991,
+      "month": 11,
+      "date": "1991-11",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 1991,
+      "month": 12,
+      "date": "1991-12",
+      "anomaly1951_1980": 0.32,
+      "anomalyPreindustrial": 0.537857142857143
+    },
+    {
+      "year": 1992,
+      "month": 1,
+      "date": "1992-01",
+      "anomaly1951_1980": 0.47,
+      "anomalyPreindustrial": 0.687857142857143
+    },
+    {
+      "year": 1992,
+      "month": 2,
+      "date": "1992-02",
+      "anomaly1951_1980": 0.4,
+      "anomalyPreindustrial": 0.617857142857143
+    },
+    {
+      "year": 1992,
+      "month": 3,
+      "date": "1992-03",
+      "anomaly1951_1980": 0.48,
+      "anomalyPreindustrial": 0.697857142857143
+    },
+    {
+      "year": 1992,
+      "month": 4,
+      "date": "1992-04",
+      "anomaly1951_1980": 0.27,
+      "anomalyPreindustrial": 0.487857142857143
+    },
+    {
+      "year": 1992,
+      "month": 5,
+      "date": "1992-05",
+      "anomaly1951_1980": 0.31,
+      "anomalyPreindustrial": 0.527857142857143
+    },
+    {
+      "year": 1992,
+      "month": 6,
+      "date": "1992-06",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1992,
+      "month": 7,
+      "date": "1992-07",
+      "anomaly1951_1980": 0.09,
+      "anomalyPreindustrial": 0.307857142857143
+    },
+    {
+      "year": 1992,
+      "month": 8,
+      "date": "1992-08",
+      "anomaly1951_1980": 0.08,
+      "anomalyPreindustrial": 0.297857142857143
+    },
+    {
+      "year": 1992,
+      "month": 9,
+      "date": "1992-09",
+      "anomaly1951_1980": -0.01,
+      "anomalyPreindustrial": 0.207857142857143
+    },
+    {
+      "year": 1992,
+      "month": 10,
+      "date": "1992-10",
+      "anomaly1951_1980": 0.07,
+      "anomalyPreindustrial": 0.28785714285714303
+    },
+    {
+      "year": 1992,
+      "month": 11,
+      "date": "1992-11",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1992,
+      "month": 12,
+      "date": "1992-12",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1993,
+      "month": 1,
+      "date": "1993-01",
+      "anomaly1951_1980": 0.34,
+      "anomalyPreindustrial": 0.557857142857143
+    },
+    {
+      "year": 1993,
+      "month": 2,
+      "date": "1993-02",
+      "anomaly1951_1980": 0.37,
+      "anomalyPreindustrial": 0.587857142857143
+    },
+    {
+      "year": 1993,
+      "month": 3,
+      "date": "1993-03",
+      "anomaly1951_1980": 0.36,
+      "anomalyPreindustrial": 0.577857142857143
+    },
+    {
+      "year": 1993,
+      "month": 4,
+      "date": "1993-04",
+      "anomaly1951_1980": 0.28,
+      "anomalyPreindustrial": 0.497857142857143
+    },
+    {
+      "year": 1993,
+      "month": 5,
+      "date": "1993-05",
+      "anomaly1951_1980": 0.28,
+      "anomalyPreindustrial": 0.497857142857143
+    },
+    {
+      "year": 1993,
+      "month": 6,
+      "date": "1993-06",
+      "anomaly1951_1980": 0.23,
+      "anomalyPreindustrial": 0.447857142857143
+    },
+    {
+      "year": 1993,
+      "month": 7,
+      "date": "1993-07",
+      "anomaly1951_1980": 0.25,
+      "anomalyPreindustrial": 0.46785714285714297
+    },
+    {
+      "year": 1993,
+      "month": 8,
+      "date": "1993-08",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1993,
+      "month": 9,
+      "date": "1993-09",
+      "anomaly1951_1980": 0.11,
+      "anomalyPreindustrial": 0.327857142857143
+    },
+    {
+      "year": 1993,
+      "month": 10,
+      "date": "1993-10",
+      "anomaly1951_1980": 0.23,
+      "anomalyPreindustrial": 0.447857142857143
+    },
+    {
+      "year": 1993,
+      "month": 11,
+      "date": "1993-11",
+      "anomaly1951_1980": 0.03,
+      "anomalyPreindustrial": 0.247857142857143
+    },
+    {
+      "year": 1993,
+      "month": 12,
+      "date": "1993-12",
+      "anomaly1951_1980": 0.18,
+      "anomalyPreindustrial": 0.397857142857143
+    },
+    {
+      "year": 1994,
+      "month": 1,
+      "date": "1994-01",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1994,
+      "month": 2,
+      "date": "1994-02",
+      "anomaly1951_1980": 0.02,
+      "anomalyPreindustrial": 0.237857142857143
+    },
+    {
+      "year": 1994,
+      "month": 3,
+      "date": "1994-03",
+      "anomaly1951_1980": 0.29,
+      "anomalyPreindustrial": 0.507857142857143
+    },
+    {
+      "year": 1994,
+      "month": 4,
+      "date": "1994-04",
+      "anomaly1951_1980": 0.41,
+      "anomalyPreindustrial": 0.627857142857143
+    },
+    {
+      "year": 1994,
+      "month": 5,
+      "date": "1994-05",
+      "anomaly1951_1980": 0.28,
+      "anomalyPreindustrial": 0.497857142857143
+    },
+    {
+      "year": 1994,
+      "month": 6,
+      "date": "1994-06",
+      "anomaly1951_1980": 0.43,
+      "anomalyPreindustrial": 0.647857142857143
+    },
+    {
+      "year": 1994,
+      "month": 7,
+      "date": "1994-07",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 1994,
+      "month": 8,
+      "date": "1994-08",
+      "anomaly1951_1980": 0.21,
+      "anomalyPreindustrial": 0.427857142857143
+    },
+    {
+      "year": 1994,
+      "month": 9,
+      "date": "1994-09",
+      "anomaly1951_1980": 0.31,
+      "anomalyPreindustrial": 0.527857142857143
+    },
+    {
+      "year": 1994,
+      "month": 10,
+      "date": "1994-10",
+      "anomaly1951_1980": 0.42,
+      "anomalyPreindustrial": 0.637857142857143
+    },
+    {
+      "year": 1994,
+      "month": 11,
+      "date": "1994-11",
+      "anomaly1951_1980": 0.44,
+      "anomalyPreindustrial": 0.657857142857143
+    },
+    {
+      "year": 1994,
+      "month": 12,
+      "date": "1994-12",
+      "anomaly1951_1980": 0.39,
+      "anomalyPreindustrial": 0.607857142857143
+    },
+    {
+      "year": 1995,
+      "month": 1,
+      "date": "1995-01",
+      "anomaly1951_1980": 0.52,
+      "anomalyPreindustrial": 0.737857142857143
+    },
+    {
+      "year": 1995,
+      "month": 2,
+      "date": "1995-02",
+      "anomaly1951_1980": 0.79,
+      "anomalyPreindustrial": 1.007857142857143
+    },
+    {
+      "year": 1995,
+      "month": 3,
+      "date": "1995-03",
+      "anomaly1951_1980": 0.46,
+      "anomalyPreindustrial": 0.677857142857143
+    },
+    {
+      "year": 1995,
+      "month": 4,
+      "date": "1995-04",
+      "anomaly1951_1980": 0.47,
+      "anomalyPreindustrial": 0.687857142857143
+    },
+    {
+      "year": 1995,
+      "month": 5,
+      "date": "1995-05",
+      "anomaly1951_1980": 0.27,
+      "anomalyPreindustrial": 0.487857142857143
+    },
+    {
+      "year": 1995,
+      "month": 6,
+      "date": "1995-06",
+      "anomaly1951_1980": 0.43,
+      "anomalyPreindustrial": 0.647857142857143
+    },
+    {
+      "year": 1995,
+      "month": 7,
+      "date": "1995-07",
+      "anomaly1951_1980": 0.45,
+      "anomalyPreindustrial": 0.667857142857143
+    },
+    {
+      "year": 1995,
+      "month": 8,
+      "date": "1995-08",
+      "anomaly1951_1980": 0.45,
+      "anomalyPreindustrial": 0.667857142857143
+    },
+    {
+      "year": 1995,
+      "month": 9,
+      "date": "1995-09",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1995,
+      "month": 10,
+      "date": "1995-10",
+      "anomaly1951_1980": 0.46,
+      "anomalyPreindustrial": 0.677857142857143
+    },
+    {
+      "year": 1995,
+      "month": 11,
+      "date": "1995-11",
+      "anomaly1951_1980": 0.45,
+      "anomalyPreindustrial": 0.667857142857143
+    },
+    {
+      "year": 1995,
+      "month": 12,
+      "date": "1995-12",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1996,
+      "month": 1,
+      "date": "1996-01",
+      "anomaly1951_1980": 0.24,
+      "anomalyPreindustrial": 0.45785714285714296
+    },
+    {
+      "year": 1996,
+      "month": 2,
+      "date": "1996-02",
+      "anomaly1951_1980": 0.46,
+      "anomalyPreindustrial": 0.677857142857143
+    },
+    {
+      "year": 1996,
+      "month": 3,
+      "date": "1996-03",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1996,
+      "month": 4,
+      "date": "1996-04",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1996,
+      "month": 5,
+      "date": "1996-05",
+      "anomaly1951_1980": 0.27,
+      "anomalyPreindustrial": 0.487857142857143
+    },
+    {
+      "year": 1996,
+      "month": 6,
+      "date": "1996-06",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1996,
+      "month": 7,
+      "date": "1996-07",
+      "anomaly1951_1980": 0.36,
+      "anomalyPreindustrial": 0.577857142857143
+    },
+    {
+      "year": 1996,
+      "month": 8,
+      "date": "1996-08",
+      "anomaly1951_1980": 0.49,
+      "anomalyPreindustrial": 0.707857142857143
+    },
+    {
+      "year": 1996,
+      "month": 9,
+      "date": "1996-09",
+      "anomaly1951_1980": 0.25,
+      "anomalyPreindustrial": 0.46785714285714297
+    },
+    {
+      "year": 1996,
+      "month": 10,
+      "date": "1996-10",
+      "anomaly1951_1980": 0.22,
+      "anomalyPreindustrial": 0.437857142857143
+    },
+    {
+      "year": 1996,
+      "month": 11,
+      "date": "1996-11",
+      "anomaly1951_1980": 0.42,
+      "anomalyPreindustrial": 0.637857142857143
+    },
+    {
+      "year": 1996,
+      "month": 12,
+      "date": "1996-12",
+      "anomaly1951_1980": 0.37,
+      "anomalyPreindustrial": 0.587857142857143
+    },
+    {
+      "year": 1997,
+      "month": 1,
+      "date": "1997-01",
+      "anomaly1951_1980": 0.32,
+      "anomalyPreindustrial": 0.537857142857143
+    },
+    {
+      "year": 1997,
+      "month": 2,
+      "date": "1997-02",
+      "anomaly1951_1980": 0.41,
+      "anomalyPreindustrial": 0.627857142857143
+    },
+    {
+      "year": 1997,
+      "month": 3,
+      "date": "1997-03",
+      "anomaly1951_1980": 0.52,
+      "anomalyPreindustrial": 0.737857142857143
+    },
+    {
+      "year": 1997,
+      "month": 4,
+      "date": "1997-04",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1997,
+      "month": 5,
+      "date": "1997-05",
+      "anomaly1951_1980": 0.34,
+      "anomalyPreindustrial": 0.557857142857143
+    },
+    {
+      "year": 1997,
+      "month": 6,
+      "date": "1997-06",
+      "anomaly1951_1980": 0.55,
+      "anomalyPreindustrial": 0.767857142857143
+    },
+    {
+      "year": 1997,
+      "month": 7,
+      "date": "1997-07",
+      "anomaly1951_1980": 0.34,
+      "anomalyPreindustrial": 0.557857142857143
+    },
+    {
+      "year": 1997,
+      "month": 8,
+      "date": "1997-08",
+      "anomaly1951_1980": 0.41,
+      "anomalyPreindustrial": 0.627857142857143
+    },
+    {
+      "year": 1997,
+      "month": 9,
+      "date": "1997-09",
+      "anomaly1951_1980": 0.52,
+      "anomalyPreindustrial": 0.737857142857143
+    },
+    {
+      "year": 1997,
+      "month": 10,
+      "date": "1997-10",
+      "anomaly1951_1980": 0.61,
+      "anomalyPreindustrial": 0.827857142857143
+    },
+    {
+      "year": 1997,
+      "month": 11,
+      "date": "1997-11",
+      "anomaly1951_1980": 0.64,
+      "anomalyPreindustrial": 0.857857142857143
+    },
+    {
+      "year": 1997,
+      "month": 12,
+      "date": "1997-12",
+      "anomaly1951_1980": 0.59,
+      "anomalyPreindustrial": 0.8078571428571429
+    },
+    {
+      "year": 1998,
+      "month": 1,
+      "date": "1998-01",
+      "anomaly1951_1980": 0.58,
+      "anomalyPreindustrial": 0.7978571428571429
+    },
+    {
+      "year": 1998,
+      "month": 2,
+      "date": "1998-02",
+      "anomaly1951_1980": 0.88,
+      "anomalyPreindustrial": 1.097857142857143
+    },
+    {
+      "year": 1998,
+      "month": 3,
+      "date": "1998-03",
+      "anomaly1951_1980": 0.63,
+      "anomalyPreindustrial": 0.847857142857143
+    },
+    {
+      "year": 1998,
+      "month": 4,
+      "date": "1998-04",
+      "anomaly1951_1980": 0.63,
+      "anomalyPreindustrial": 0.847857142857143
+    },
+    {
+      "year": 1998,
+      "month": 5,
+      "date": "1998-05",
+      "anomaly1951_1980": 0.68,
+      "anomalyPreindustrial": 0.897857142857143
+    },
+    {
+      "year": 1998,
+      "month": 6,
+      "date": "1998-06",
+      "anomaly1951_1980": 0.77,
+      "anomalyPreindustrial": 0.987857142857143
+    },
+    {
+      "year": 1998,
+      "month": 7,
+      "date": "1998-07",
+      "anomaly1951_1980": 0.66,
+      "anomalyPreindustrial": 0.877857142857143
+    },
+    {
+      "year": 1998,
+      "month": 8,
+      "date": "1998-08",
+      "anomaly1951_1980": 0.65,
+      "anomalyPreindustrial": 0.867857142857143
+    },
+    {
+      "year": 1998,
+      "month": 9,
+      "date": "1998-09",
+      "anomaly1951_1980": 0.42,
+      "anomalyPreindustrial": 0.637857142857143
+    },
+    {
+      "year": 1998,
+      "month": 10,
+      "date": "1998-10",
+      "anomaly1951_1980": 0.42,
+      "anomalyPreindustrial": 0.637857142857143
+    },
+    {
+      "year": 1998,
+      "month": 11,
+      "date": "1998-11",
+      "anomaly1951_1980": 0.43,
+      "anomalyPreindustrial": 0.647857142857143
+    },
+    {
+      "year": 1998,
+      "month": 12,
+      "date": "1998-12",
+      "anomaly1951_1980": 0.55,
+      "anomalyPreindustrial": 0.767857142857143
+    },
+    {
+      "year": 1999,
+      "month": 1,
+      "date": "1999-01",
+      "anomaly1951_1980": 0.48,
+      "anomalyPreindustrial": 0.697857142857143
+    },
+    {
+      "year": 1999,
+      "month": 2,
+      "date": "1999-02",
+      "anomaly1951_1980": 0.64,
+      "anomalyPreindustrial": 0.857857142857143
+    },
+    {
+      "year": 1999,
+      "month": 3,
+      "date": "1999-03",
+      "anomaly1951_1980": 0.33,
+      "anomalyPreindustrial": 0.547857142857143
+    },
+    {
+      "year": 1999,
+      "month": 4,
+      "date": "1999-04",
+      "anomaly1951_1980": 0.32,
+      "anomalyPreindustrial": 0.537857142857143
+    },
+    {
+      "year": 1999,
+      "month": 5,
+      "date": "1999-05",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 1999,
+      "month": 6,
+      "date": "1999-06",
+      "anomaly1951_1980": 0.36,
+      "anomalyPreindustrial": 0.577857142857143
+    },
+    {
+      "year": 1999,
+      "month": 7,
+      "date": "1999-07",
+      "anomaly1951_1980": 0.38,
+      "anomalyPreindustrial": 0.597857142857143
+    },
+    {
+      "year": 1999,
+      "month": 8,
+      "date": "1999-08",
+      "anomaly1951_1980": 0.31,
+      "anomalyPreindustrial": 0.527857142857143
+    },
+    {
+      "year": 1999,
+      "month": 9,
+      "date": "1999-09",
+      "anomaly1951_1980": 0.39,
+      "anomalyPreindustrial": 0.607857142857143
+    },
+    {
+      "year": 1999,
+      "month": 10,
+      "date": "1999-10",
+      "anomaly1951_1980": 0.34,
+      "anomalyPreindustrial": 0.557857142857143
+    },
+    {
+      "year": 1999,
+      "month": 11,
+      "date": "1999-11",
+      "anomaly1951_1980": 0.37,
+      "anomalyPreindustrial": 0.587857142857143
+    },
+    {
+      "year": 1999,
+      "month": 12,
+      "date": "1999-12",
+      "anomaly1951_1980": 0.41,
+      "anomalyPreindustrial": 0.627857142857143
+    },
+    {
+      "year": 2000,
+      "month": 1,
+      "date": "2000-01",
+      "anomaly1951_1980": 0.25,
+      "anomalyPreindustrial": 0.46785714285714297
+    },
+    {
+      "year": 2000,
+      "month": 2,
+      "date": "2000-02",
+      "anomaly1951_1980": 0.56,
+      "anomalyPreindustrial": 0.777857142857143
+    },
+    {
+      "year": 2000,
+      "month": 3,
+      "date": "2000-03",
+      "anomaly1951_1980": 0.55,
+      "anomalyPreindustrial": 0.767857142857143
+    },
+    {
+      "year": 2000,
+      "month": 4,
+      "date": "2000-04",
+      "anomaly1951_1980": 0.56,
+      "anomalyPreindustrial": 0.777857142857143
+    },
+    {
+      "year": 2000,
+      "month": 5,
+      "date": "2000-05",
+      "anomaly1951_1980": 0.35,
+      "anomalyPreindustrial": 0.567857142857143
+    },
+    {
+      "year": 2000,
+      "month": 6,
+      "date": "2000-06",
+      "anomaly1951_1980": 0.4,
+      "anomalyPreindustrial": 0.617857142857143
+    },
+    {
+      "year": 2000,
+      "month": 7,
+      "date": "2000-07",
+      "anomaly1951_1980": 0.39,
+      "anomalyPreindustrial": 0.607857142857143
+    },
+    {
+      "year": 2000,
+      "month": 8,
+      "date": "2000-08",
+      "anomaly1951_1980": 0.42,
+      "anomalyPreindustrial": 0.637857142857143
+    },
+    {
+      "year": 2000,
+      "month": 9,
+      "date": "2000-09",
+      "anomaly1951_1980": 0.39,
+      "anomalyPreindustrial": 0.607857142857143
+    },
+    {
+      "year": 2000,
+      "month": 10,
+      "date": "2000-10",
+      "anomaly1951_1980": 0.27,
+      "anomalyPreindustrial": 0.487857142857143
+    },
+    {
+      "year": 2000,
+      "month": 11,
+      "date": "2000-11",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 2000,
+      "month": 12,
+      "date": "2000-12",
+      "anomaly1951_1980": 0.28,
+      "anomalyPreindustrial": 0.497857142857143
+    },
+    {
+      "year": 2001,
+      "month": 1,
+      "date": "2001-01",
+      "anomaly1951_1980": 0.45,
+      "anomalyPreindustrial": 0.667857142857143
+    },
+    {
+      "year": 2001,
+      "month": 2,
+      "date": "2001-02",
+      "anomaly1951_1980": 0.44,
+      "anomalyPreindustrial": 0.657857142857143
+    },
+    {
+      "year": 2001,
+      "month": 3,
+      "date": "2001-03",
+      "anomaly1951_1980": 0.56,
+      "anomalyPreindustrial": 0.777857142857143
+    },
+    {
+      "year": 2001,
+      "month": 4,
+      "date": "2001-04",
+      "anomaly1951_1980": 0.5,
+      "anomalyPreindustrial": 0.717857142857143
+    },
+    {
+      "year": 2001,
+      "month": 5,
+      "date": "2001-05",
+      "anomaly1951_1980": 0.57,
+      "anomalyPreindustrial": 0.7878571428571429
+    },
+    {
+      "year": 2001,
+      "month": 6,
+      "date": "2001-06",
+      "anomaly1951_1980": 0.52,
+      "anomalyPreindustrial": 0.737857142857143
+    },
+    {
+      "year": 2001,
+      "month": 7,
+      "date": "2001-07",
+      "anomaly1951_1980": 0.59,
+      "anomalyPreindustrial": 0.8078571428571429
+    },
+    {
+      "year": 2001,
+      "month": 8,
+      "date": "2001-08",
+      "anomaly1951_1980": 0.47,
+      "anomalyPreindustrial": 0.687857142857143
+    },
+    {
+      "year": 2001,
+      "month": 9,
+      "date": "2001-09",
+      "anomaly1951_1980": 0.52,
+      "anomalyPreindustrial": 0.737857142857143
+    },
+    {
+      "year": 2001,
+      "month": 10,
+      "date": "2001-10",
+      "anomaly1951_1980": 0.5,
+      "anomalyPreindustrial": 0.717857142857143
+    },
+    {
+      "year": 2001,
+      "month": 11,
+      "date": "2001-11",
+      "anomaly1951_1980": 0.72,
+      "anomalyPreindustrial": 0.937857142857143
+    },
+    {
+      "year": 2001,
+      "month": 12,
+      "date": "2001-12",
+      "anomaly1951_1980": 0.56,
+      "anomalyPreindustrial": 0.777857142857143
+    },
+    {
+      "year": 2002,
+      "month": 1,
+      "date": "2002-01",
+      "anomaly1951_1980": 0.77,
+      "anomalyPreindustrial": 0.987857142857143
+    },
+    {
+      "year": 2002,
+      "month": 2,
+      "date": "2002-02",
+      "anomaly1951_1980": 0.79,
+      "anomalyPreindustrial": 1.007857142857143
+    },
+    {
+      "year": 2002,
+      "month": 3,
+      "date": "2002-03",
+      "anomaly1951_1980": 0.88,
+      "anomalyPreindustrial": 1.097857142857143
+    },
+    {
+      "year": 2002,
+      "month": 4,
+      "date": "2002-04",
+      "anomaly1951_1980": 0.58,
+      "anomalyPreindustrial": 0.7978571428571429
+    },
+    {
+      "year": 2002,
+      "month": 5,
+      "date": "2002-05",
+      "anomaly1951_1980": 0.64,
+      "anomalyPreindustrial": 0.857857142857143
+    },
+    {
+      "year": 2002,
+      "month": 6,
+      "date": "2002-06",
+      "anomaly1951_1980": 0.53,
+      "anomalyPreindustrial": 0.747857142857143
+    },
+    {
+      "year": 2002,
+      "month": 7,
+      "date": "2002-07",
+      "anomaly1951_1980": 0.61,
+      "anomalyPreindustrial": 0.827857142857143
+    },
+    {
+      "year": 2002,
+      "month": 8,
+      "date": "2002-08",
+      "anomaly1951_1980": 0.53,
+      "anomalyPreindustrial": 0.747857142857143
+    },
+    {
+      "year": 2002,
+      "month": 9,
+      "date": "2002-09",
+      "anomaly1951_1980": 0.64,
+      "anomalyPreindustrial": 0.857857142857143
+    },
+    {
+      "year": 2002,
+      "month": 10,
+      "date": "2002-10",
+      "anomaly1951_1980": 0.54,
+      "anomalyPreindustrial": 0.757857142857143
+    },
+    {
+      "year": 2002,
+      "month": 11,
+      "date": "2002-11",
+      "anomaly1951_1980": 0.59,
+      "anomalyPreindustrial": 0.8078571428571429
+    },
+    {
+      "year": 2002,
+      "month": 12,
+      "date": "2002-12",
+      "anomaly1951_1980": 0.44,
+      "anomalyPreindustrial": 0.657857142857143
+    },
+    {
+      "year": 2003,
+      "month": 1,
+      "date": "2003-01",
+      "anomaly1951_1980": 0.75,
+      "anomalyPreindustrial": 0.967857142857143
+    },
+    {
+      "year": 2003,
+      "month": 2,
+      "date": "2003-02",
+      "anomaly1951_1980": 0.58,
+      "anomalyPreindustrial": 0.7978571428571429
+    },
+    {
+      "year": 2003,
+      "month": 3,
+      "date": "2003-03",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2003,
+      "month": 4,
+      "date": "2003-04",
+      "anomaly1951_1980": 0.55,
+      "anomalyPreindustrial": 0.767857142857143
+    },
+    {
+      "year": 2003,
+      "month": 5,
+      "date": "2003-05",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2003,
+      "month": 6,
+      "date": "2003-06",
+      "anomaly1951_1980": 0.48,
+      "anomalyPreindustrial": 0.697857142857143
+    },
+    {
+      "year": 2003,
+      "month": 7,
+      "date": "2003-07",
+      "anomaly1951_1980": 0.58,
+      "anomalyPreindustrial": 0.7978571428571429
+    },
+    {
+      "year": 2003,
+      "month": 8,
+      "date": "2003-08",
+      "anomaly1951_1980": 0.63,
+      "anomalyPreindustrial": 0.847857142857143
+    },
+    {
+      "year": 2003,
+      "month": 9,
+      "date": "2003-09",
+      "anomaly1951_1980": 0.62,
+      "anomalyPreindustrial": 0.837857142857143
+    },
+    {
+      "year": 2003,
+      "month": 10,
+      "date": "2003-10",
+      "anomaly1951_1980": 0.72,
+      "anomalyPreindustrial": 0.937857142857143
+    },
+    {
+      "year": 2003,
+      "month": 11,
+      "date": "2003-11",
+      "anomaly1951_1980": 0.53,
+      "anomalyPreindustrial": 0.747857142857143
+    },
+    {
+      "year": 2003,
+      "month": 12,
+      "date": "2003-12",
+      "anomaly1951_1980": 0.75,
+      "anomalyPreindustrial": 0.967857142857143
+    },
+    {
+      "year": 2004,
+      "month": 1,
+      "date": "2004-01",
+      "anomaly1951_1980": 0.58,
+      "anomalyPreindustrial": 0.7978571428571429
+    },
+    {
+      "year": 2004,
+      "month": 2,
+      "date": "2004-02",
+      "anomaly1951_1980": 0.73,
+      "anomalyPreindustrial": 0.947857142857143
+    },
+    {
+      "year": 2004,
+      "month": 3,
+      "date": "2004-03",
+      "anomaly1951_1980": 0.63,
+      "anomalyPreindustrial": 0.847857142857143
+    },
+    {
+      "year": 2004,
+      "month": 4,
+      "date": "2004-04",
+      "anomaly1951_1980": 0.61,
+      "anomalyPreindustrial": 0.827857142857143
+    },
+    {
+      "year": 2004,
+      "month": 5,
+      "date": "2004-05",
+      "anomaly1951_1980": 0.37,
+      "anomalyPreindustrial": 0.587857142857143
+    },
+    {
+      "year": 2004,
+      "month": 6,
+      "date": "2004-06",
+      "anomaly1951_1980": 0.44,
+      "anomalyPreindustrial": 0.657857142857143
+    },
+    {
+      "year": 2004,
+      "month": 7,
+      "date": "2004-07",
+      "anomaly1951_1980": 0.26,
+      "anomalyPreindustrial": 0.477857142857143
+    },
+    {
+      "year": 2004,
+      "month": 8,
+      "date": "2004-08",
+      "anomaly1951_1980": 0.44,
+      "anomalyPreindustrial": 0.657857142857143
+    },
+    {
+      "year": 2004,
+      "month": 9,
+      "date": "2004-09",
+      "anomaly1951_1980": 0.5,
+      "anomalyPreindustrial": 0.717857142857143
+    },
+    {
+      "year": 2004,
+      "month": 10,
+      "date": "2004-10",
+      "anomaly1951_1980": 0.61,
+      "anomalyPreindustrial": 0.827857142857143
+    },
+    {
+      "year": 2004,
+      "month": 11,
+      "date": "2004-11",
+      "anomaly1951_1980": 0.73,
+      "anomalyPreindustrial": 0.947857142857143
+    },
+    {
+      "year": 2004,
+      "month": 12,
+      "date": "2004-12",
+      "anomaly1951_1980": 0.51,
+      "anomalyPreindustrial": 0.727857142857143
+    },
+    {
+      "year": 2005,
+      "month": 1,
+      "date": "2005-01",
+      "anomaly1951_1980": 0.75,
+      "anomalyPreindustrial": 0.967857142857143
+    },
+    {
+      "year": 2005,
+      "month": 2,
+      "date": "2005-02",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2005,
+      "month": 3,
+      "date": "2005-03",
+      "anomaly1951_1980": 0.74,
+      "anomalyPreindustrial": 0.957857142857143
+    },
+    {
+      "year": 2005,
+      "month": 4,
+      "date": "2005-04",
+      "anomaly1951_1980": 0.67,
+      "anomalyPreindustrial": 0.887857142857143
+    },
+    {
+      "year": 2005,
+      "month": 5,
+      "date": "2005-05",
+      "anomaly1951_1980": 0.63,
+      "anomalyPreindustrial": 0.847857142857143
+    },
+    {
+      "year": 2005,
+      "month": 6,
+      "date": "2005-06",
+      "anomaly1951_1980": 0.65,
+      "anomalyPreindustrial": 0.867857142857143
+    },
+    {
+      "year": 2005,
+      "month": 7,
+      "date": "2005-07",
+      "anomaly1951_1980": 0.61,
+      "anomalyPreindustrial": 0.827857142857143
+    },
+    {
+      "year": 2005,
+      "month": 8,
+      "date": "2005-08",
+      "anomaly1951_1980": 0.59,
+      "anomalyPreindustrial": 0.8078571428571429
+    },
+    {
+      "year": 2005,
+      "month": 9,
+      "date": "2005-09",
+      "anomaly1951_1980": 0.72,
+      "anomalyPreindustrial": 0.937857142857143
+    },
+    {
+      "year": 2005,
+      "month": 10,
+      "date": "2005-10",
+      "anomaly1951_1980": 0.76,
+      "anomalyPreindustrial": 0.977857142857143
+    },
+    {
+      "year": 2005,
+      "month": 11,
+      "date": "2005-11",
+      "anomaly1951_1980": 0.74,
+      "anomalyPreindustrial": 0.957857142857143
+    },
+    {
+      "year": 2005,
+      "month": 12,
+      "date": "2005-12",
+      "anomaly1951_1980": 0.68,
+      "anomalyPreindustrial": 0.897857142857143
+    },
+    {
+      "year": 2006,
+      "month": 1,
+      "date": "2006-01",
+      "anomaly1951_1980": 0.56,
+      "anomalyPreindustrial": 0.777857142857143
+    },
+    {
+      "year": 2006,
+      "month": 2,
+      "date": "2006-02",
+      "anomaly1951_1980": 0.74,
+      "anomalyPreindustrial": 0.957857142857143
+    },
+    {
+      "year": 2006,
+      "month": 3,
+      "date": "2006-03",
+      "anomaly1951_1980": 0.63,
+      "anomalyPreindustrial": 0.847857142857143
+    },
+    {
+      "year": 2006,
+      "month": 4,
+      "date": "2006-04",
+      "anomaly1951_1980": 0.47,
+      "anomalyPreindustrial": 0.687857142857143
+    },
+    {
+      "year": 2006,
+      "month": 5,
+      "date": "2006-05",
+      "anomaly1951_1980": 0.48,
+      "anomalyPreindustrial": 0.697857142857143
+    },
+    {
+      "year": 2006,
+      "month": 6,
+      "date": "2006-06",
+      "anomaly1951_1980": 0.67,
+      "anomalyPreindustrial": 0.887857142857143
+    },
+    {
+      "year": 2006,
+      "month": 7,
+      "date": "2006-07",
+      "anomaly1951_1980": 0.54,
+      "anomalyPreindustrial": 0.757857142857143
+    },
+    {
+      "year": 2006,
+      "month": 8,
+      "date": "2006-08",
+      "anomaly1951_1980": 0.72,
+      "anomalyPreindustrial": 0.937857142857143
+    },
+    {
+      "year": 2006,
+      "month": 9,
+      "date": "2006-09",
+      "anomaly1951_1980": 0.66,
+      "anomalyPreindustrial": 0.877857142857143
+    },
+    {
+      "year": 2006,
+      "month": 10,
+      "date": "2006-10",
+      "anomaly1951_1980": 0.71,
+      "anomalyPreindustrial": 0.9278571428571429
+    },
+    {
+      "year": 2006,
+      "month": 11,
+      "date": "2006-11",
+      "anomaly1951_1980": 0.74,
+      "anomalyPreindustrial": 0.957857142857143
+    },
+    {
+      "year": 2006,
+      "month": 12,
+      "date": "2006-12",
+      "anomaly1951_1980": 0.79,
+      "anomalyPreindustrial": 1.007857142857143
+    },
+    {
+      "year": 2007,
+      "month": 1,
+      "date": "2007-01",
+      "anomaly1951_1980": 1.01,
+      "anomalyPreindustrial": 1.227857142857143
+    },
+    {
+      "year": 2007,
+      "month": 2,
+      "date": "2007-02",
+      "anomaly1951_1980": 0.7,
+      "anomalyPreindustrial": 0.9178571428571429
+    },
+    {
+      "year": 2007,
+      "month": 3,
+      "date": "2007-03",
+      "anomaly1951_1980": 0.72,
+      "anomalyPreindustrial": 0.937857142857143
+    },
+    {
+      "year": 2007,
+      "month": 4,
+      "date": "2007-04",
+      "anomaly1951_1980": 0.77,
+      "anomalyPreindustrial": 0.987857142857143
+    },
+    {
+      "year": 2007,
+      "month": 5,
+      "date": "2007-05",
+      "anomaly1951_1980": 0.69,
+      "anomalyPreindustrial": 0.9078571428571429
+    },
+    {
+      "year": 2007,
+      "month": 6,
+      "date": "2007-06",
+      "anomaly1951_1980": 0.61,
+      "anomalyPreindustrial": 0.827857142857143
+    },
+    {
+      "year": 2007,
+      "month": 7,
+      "date": "2007-07",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2007,
+      "month": 8,
+      "date": "2007-08",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2007,
+      "month": 9,
+      "date": "2007-09",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2007,
+      "month": 10,
+      "date": "2007-10",
+      "anomaly1951_1980": 0.59,
+      "anomalyPreindustrial": 0.8078571428571429
+    },
+    {
+      "year": 2007,
+      "month": 11,
+      "date": "2007-11",
+      "anomaly1951_1980": 0.59,
+      "anomalyPreindustrial": 0.8078571428571429
+    },
+    {
+      "year": 2007,
+      "month": 12,
+      "date": "2007-12",
+      "anomaly1951_1980": 0.5,
+      "anomalyPreindustrial": 0.717857142857143
+    },
+    {
+      "year": 2008,
+      "month": 1,
+      "date": "2008-01",
+      "anomaly1951_1980": 0.3,
+      "anomalyPreindustrial": 0.517857142857143
+    },
+    {
+      "year": 2008,
+      "month": 2,
+      "date": "2008-02",
+      "anomaly1951_1980": 0.38,
+      "anomalyPreindustrial": 0.597857142857143
+    },
+    {
+      "year": 2008,
+      "month": 3,
+      "date": "2008-03",
+      "anomaly1951_1980": 0.75,
+      "anomalyPreindustrial": 0.967857142857143
+    },
+    {
+      "year": 2008,
+      "month": 4,
+      "date": "2008-04",
+      "anomaly1951_1980": 0.54,
+      "anomalyPreindustrial": 0.757857142857143
+    },
+    {
+      "year": 2008,
+      "month": 5,
+      "date": "2008-05",
+      "anomaly1951_1980": 0.5,
+      "anomalyPreindustrial": 0.717857142857143
+    },
+    {
+      "year": 2008,
+      "month": 6,
+      "date": "2008-06",
+      "anomaly1951_1980": 0.5,
+      "anomalyPreindustrial": 0.717857142857143
+    },
+    {
+      "year": 2008,
+      "month": 7,
+      "date": "2008-07",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2008,
+      "month": 8,
+      "date": "2008-08",
+      "anomaly1951_1980": 0.44,
+      "anomalyPreindustrial": 0.657857142857143
+    },
+    {
+      "year": 2008,
+      "month": 9,
+      "date": "2008-09",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2008,
+      "month": 10,
+      "date": "2008-10",
+      "anomaly1951_1980": 0.67,
+      "anomalyPreindustrial": 0.887857142857143
+    },
+    {
+      "year": 2008,
+      "month": 11,
+      "date": "2008-11",
+      "anomaly1951_1980": 0.69,
+      "anomalyPreindustrial": 0.9078571428571429
+    },
+    {
+      "year": 2008,
+      "month": 12,
+      "date": "2008-12",
+      "anomaly1951_1980": 0.54,
+      "anomalyPreindustrial": 0.757857142857143
+    },
+    {
+      "year": 2009,
+      "month": 1,
+      "date": "2009-01",
+      "anomaly1951_1980": 0.65,
+      "anomalyPreindustrial": 0.867857142857143
+    },
+    {
+      "year": 2009,
+      "month": 2,
+      "date": "2009-02",
+      "anomaly1951_1980": 0.53,
+      "anomalyPreindustrial": 0.747857142857143
+    },
+    {
+      "year": 2009,
+      "month": 3,
+      "date": "2009-03",
+      "anomaly1951_1980": 0.54,
+      "anomalyPreindustrial": 0.757857142857143
+    },
+    {
+      "year": 2009,
+      "month": 4,
+      "date": "2009-04",
+      "anomaly1951_1980": 0.61,
+      "anomalyPreindustrial": 0.827857142857143
+    },
+    {
+      "year": 2009,
+      "month": 5,
+      "date": "2009-05",
+      "anomaly1951_1980": 0.65,
+      "anomalyPreindustrial": 0.867857142857143
+    },
+    {
+      "year": 2009,
+      "month": 6,
+      "date": "2009-06",
+      "anomaly1951_1980": 0.64,
+      "anomalyPreindustrial": 0.857857142857143
+    },
+    {
+      "year": 2009,
+      "month": 7,
+      "date": "2009-07",
+      "anomaly1951_1980": 0.74,
+      "anomalyPreindustrial": 0.957857142857143
+    },
+    {
+      "year": 2009,
+      "month": 8,
+      "date": "2009-08",
+      "anomaly1951_1980": 0.68,
+      "anomalyPreindustrial": 0.897857142857143
+    },
+    {
+      "year": 2009,
+      "month": 9,
+      "date": "2009-09",
+      "anomaly1951_1980": 0.72,
+      "anomalyPreindustrial": 0.937857142857143
+    },
+    {
+      "year": 2009,
+      "month": 10,
+      "date": "2009-10",
+      "anomaly1951_1980": 0.65,
+      "anomalyPreindustrial": 0.867857142857143
+    },
+    {
+      "year": 2009,
+      "month": 11,
+      "date": "2009-11",
+      "anomaly1951_1980": 0.8,
+      "anomalyPreindustrial": 1.017857142857143
+    },
+    {
+      "year": 2009,
+      "month": 12,
+      "date": "2009-12",
+      "anomaly1951_1980": 0.67,
+      "anomalyPreindustrial": 0.887857142857143
+    },
+    {
+      "year": 2010,
+      "month": 1,
+      "date": "2010-01",
+      "anomaly1951_1980": 0.75,
+      "anomalyPreindustrial": 0.967857142857143
+    },
+    {
+      "year": 2010,
+      "month": 2,
+      "date": "2010-02",
+      "anomaly1951_1980": 0.84,
+      "anomalyPreindustrial": 1.057857142857143
+    },
+    {
+      "year": 2010,
+      "month": 3,
+      "date": "2010-03",
+      "anomaly1951_1980": 0.92,
+      "anomalyPreindustrial": 1.1378571428571431
+    },
+    {
+      "year": 2010,
+      "month": 4,
+      "date": "2010-04",
+      "anomaly1951_1980": 0.85,
+      "anomalyPreindustrial": 1.067857142857143
+    },
+    {
+      "year": 2010,
+      "month": 5,
+      "date": "2010-05",
+      "anomaly1951_1980": 0.75,
+      "anomalyPreindustrial": 0.967857142857143
+    },
+    {
+      "year": 2010,
+      "month": 6,
+      "date": "2010-06",
+      "anomaly1951_1980": 0.67,
+      "anomalyPreindustrial": 0.887857142857143
+    },
+    {
+      "year": 2010,
+      "month": 7,
+      "date": "2010-07",
+      "anomaly1951_1980": 0.63,
+      "anomalyPreindustrial": 0.847857142857143
+    },
+    {
+      "year": 2010,
+      "month": 8,
+      "date": "2010-08",
+      "anomaly1951_1980": 0.66,
+      "anomalyPreindustrial": 0.877857142857143
+    },
+    {
+      "year": 2010,
+      "month": 9,
+      "date": "2010-09",
+      "anomaly1951_1980": 0.63,
+      "anomalyPreindustrial": 0.847857142857143
+    },
+    {
+      "year": 2010,
+      "month": 10,
+      "date": "2010-10",
+      "anomaly1951_1980": 0.71,
+      "anomalyPreindustrial": 0.9278571428571429
+    },
+    {
+      "year": 2010,
+      "month": 11,
+      "date": "2010-11",
+      "anomaly1951_1980": 0.81,
+      "anomalyPreindustrial": 1.027857142857143
+    },
+    {
+      "year": 2010,
+      "month": 12,
+      "date": "2010-12",
+      "anomaly1951_1980": 0.45,
+      "anomalyPreindustrial": 0.667857142857143
+    },
+    {
+      "year": 2011,
+      "month": 1,
+      "date": "2011-01",
+      "anomaly1951_1980": 0.52,
+      "anomalyPreindustrial": 0.737857142857143
+    },
+    {
+      "year": 2011,
+      "month": 2,
+      "date": "2011-02",
+      "anomaly1951_1980": 0.48,
+      "anomalyPreindustrial": 0.697857142857143
+    },
+    {
+      "year": 2011,
+      "month": 3,
+      "date": "2011-03",
+      "anomaly1951_1980": 0.66,
+      "anomalyPreindustrial": 0.877857142857143
+    },
+    {
+      "year": 2011,
+      "month": 4,
+      "date": "2011-04",
+      "anomaly1951_1980": 0.64,
+      "anomalyPreindustrial": 0.857857142857143
+    },
+    {
+      "year": 2011,
+      "month": 5,
+      "date": "2011-05",
+      "anomaly1951_1980": 0.53,
+      "anomalyPreindustrial": 0.747857142857143
+    },
+    {
+      "year": 2011,
+      "month": 6,
+      "date": "2011-06",
+      "anomaly1951_1980": 0.62,
+      "anomalyPreindustrial": 0.837857142857143
+    },
+    {
+      "year": 2011,
+      "month": 7,
+      "date": "2011-07",
+      "anomaly1951_1980": 0.7,
+      "anomalyPreindustrial": 0.9178571428571429
+    },
+    {
+      "year": 2011,
+      "month": 8,
+      "date": "2011-08",
+      "anomaly1951_1980": 0.74,
+      "anomalyPreindustrial": 0.957857142857143
+    },
+    {
+      "year": 2011,
+      "month": 9,
+      "date": "2011-09",
+      "anomaly1951_1980": 0.56,
+      "anomalyPreindustrial": 0.777857142857143
+    },
+    {
+      "year": 2011,
+      "month": 10,
+      "date": "2011-10",
+      "anomaly1951_1980": 0.65,
+      "anomalyPreindustrial": 0.867857142857143
+    },
+    {
+      "year": 2011,
+      "month": 11,
+      "date": "2011-11",
+      "anomaly1951_1980": 0.59,
+      "anomalyPreindustrial": 0.8078571428571429
+    },
+    {
+      "year": 2011,
+      "month": 12,
+      "date": "2011-12",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2012,
+      "month": 1,
+      "date": "2012-01",
+      "anomaly1951_1980": 0.47,
+      "anomalyPreindustrial": 0.687857142857143
+    },
+    {
+      "year": 2012,
+      "month": 2,
+      "date": "2012-02",
+      "anomaly1951_1980": 0.49,
+      "anomalyPreindustrial": 0.707857142857143
+    },
+    {
+      "year": 2012,
+      "month": 3,
+      "date": "2012-03",
+      "anomaly1951_1980": 0.57,
+      "anomalyPreindustrial": 0.7878571428571429
+    },
+    {
+      "year": 2012,
+      "month": 4,
+      "date": "2012-04",
+      "anomaly1951_1980": 0.73,
+      "anomalyPreindustrial": 0.947857142857143
+    },
+    {
+      "year": 2012,
+      "month": 5,
+      "date": "2012-05",
+      "anomaly1951_1980": 0.78,
+      "anomalyPreindustrial": 0.997857142857143
+    },
+    {
+      "year": 2012,
+      "month": 6,
+      "date": "2012-06",
+      "anomaly1951_1980": 0.65,
+      "anomalyPreindustrial": 0.867857142857143
+    },
+    {
+      "year": 2012,
+      "month": 7,
+      "date": "2012-07",
+      "anomaly1951_1980": 0.59,
+      "anomalyPreindustrial": 0.8078571428571429
+    },
+    {
+      "year": 2012,
+      "month": 8,
+      "date": "2012-08",
+      "anomaly1951_1980": 0.65,
+      "anomalyPreindustrial": 0.867857142857143
+    },
+    {
+      "year": 2012,
+      "month": 9,
+      "date": "2012-09",
+      "anomaly1951_1980": 0.72,
+      "anomalyPreindustrial": 0.937857142857143
+    },
+    {
+      "year": 2012,
+      "month": 10,
+      "date": "2012-10",
+      "anomaly1951_1980": 0.8,
+      "anomalyPreindustrial": 1.017857142857143
+    },
+    {
+      "year": 2012,
+      "month": 11,
+      "date": "2012-11",
+      "anomaly1951_1980": 0.78,
+      "anomalyPreindustrial": 0.997857142857143
+    },
+    {
+      "year": 2012,
+      "month": 12,
+      "date": "2012-12",
+      "anomaly1951_1980": 0.52,
+      "anomalyPreindustrial": 0.737857142857143
+    },
+    {
+      "year": 2013,
+      "month": 1,
+      "date": "2013-01",
+      "anomaly1951_1980": 0.7,
+      "anomalyPreindustrial": 0.9178571428571429
+    },
+    {
+      "year": 2013,
+      "month": 2,
+      "date": "2013-02",
+      "anomaly1951_1980": 0.61,
+      "anomalyPreindustrial": 0.827857142857143
+    },
+    {
+      "year": 2013,
+      "month": 3,
+      "date": "2013-03",
+      "anomaly1951_1980": 0.67,
+      "anomalyPreindustrial": 0.887857142857143
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "date": "2013-04",
+      "anomaly1951_1980": 0.53,
+      "anomalyPreindustrial": 0.747857142857143
+    },
+    {
+      "year": 2013,
+      "month": 5,
+      "date": "2013-05",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2013,
+      "month": 6,
+      "date": "2013-06",
+      "anomaly1951_1980": 0.7,
+      "anomalyPreindustrial": 0.9178571428571429
+    },
+    {
+      "year": 2013,
+      "month": 7,
+      "date": "2013-07",
+      "anomaly1951_1980": 0.6,
+      "anomalyPreindustrial": 0.817857142857143
+    },
+    {
+      "year": 2013,
+      "month": 8,
+      "date": "2013-08",
+      "anomaly1951_1980": 0.7,
+      "anomalyPreindustrial": 0.9178571428571429
+    },
+    {
+      "year": 2013,
+      "month": 9,
+      "date": "2013-09",
+      "anomaly1951_1980": 0.76,
+      "anomalyPreindustrial": 0.977857142857143
+    },
+    {
+      "year": 2013,
+      "month": 10,
+      "date": "2013-10",
+      "anomaly1951_1980": 0.69,
+      "anomalyPreindustrial": 0.9078571428571429
+    },
+    {
+      "year": 2013,
+      "month": 11,
+      "date": "2013-11",
+      "anomaly1951_1980": 0.83,
+      "anomalyPreindustrial": 1.047857142857143
+    },
+    {
+      "year": 2013,
+      "month": 12,
+      "date": "2013-12",
+      "anomaly1951_1980": 0.7,
+      "anomalyPreindustrial": 0.9178571428571429
+    },
+    {
+      "year": 2014,
+      "month": 1,
+      "date": "2014-01",
+      "anomaly1951_1980": 0.76,
+      "anomalyPreindustrial": 0.977857142857143
+    },
+    {
+      "year": 2014,
+      "month": 2,
+      "date": "2014-02",
+      "anomaly1951_1980": 0.55,
+      "anomalyPreindustrial": 0.767857142857143
+    },
+    {
+      "year": 2014,
+      "month": 3,
+      "date": "2014-03",
+      "anomaly1951_1980": 0.78,
+      "anomalyPreindustrial": 0.997857142857143
+    },
+    {
+      "year": 2014,
+      "month": 4,
+      "date": "2014-04",
+      "anomaly1951_1980": 0.81,
+      "anomalyPreindustrial": 1.027857142857143
+    },
+    {
+      "year": 2014,
+      "month": 5,
+      "date": "2014-05",
+      "anomaly1951_1980": 0.86,
+      "anomalyPreindustrial": 1.077857142857143
+    },
+    {
+      "year": 2014,
+      "month": 6,
+      "date": "2014-06",
+      "anomaly1951_1980": 0.67,
+      "anomalyPreindustrial": 0.887857142857143
+    },
+    {
+      "year": 2014,
+      "month": 7,
+      "date": "2014-07",
+      "anomaly1951_1980": 0.58,
+      "anomalyPreindustrial": 0.7978571428571429
+    },
+    {
+      "year": 2014,
+      "month": 8,
+      "date": "2014-08",
+      "anomaly1951_1980": 0.83,
+      "anomalyPreindustrial": 1.047857142857143
+    },
+    {
+      "year": 2014,
+      "month": 9,
+      "date": "2014-09",
+      "anomaly1951_1980": 0.87,
+      "anomalyPreindustrial": 1.087857142857143
+    },
+    {
+      "year": 2014,
+      "month": 10,
+      "date": "2014-10",
+      "anomaly1951_1980": 0.8,
+      "anomalyPreindustrial": 1.017857142857143
+    },
+    {
+      "year": 2014,
+      "month": 11,
+      "date": "2014-11",
+      "anomaly1951_1980": 0.67,
+      "anomalyPreindustrial": 0.887857142857143
+    },
+    {
+      "year": 2014,
+      "month": 12,
+      "date": "2014-12",
+      "anomaly1951_1980": 0.78,
+      "anomalyPreindustrial": 0.997857142857143
+    },
+    {
+      "year": 2015,
+      "month": 1,
+      "date": "2015-01",
+      "anomaly1951_1980": 0.86,
+      "anomalyPreindustrial": 1.077857142857143
+    },
+    {
+      "year": 2015,
+      "month": 2,
+      "date": "2015-02",
+      "anomaly1951_1980": 0.91,
+      "anomalyPreindustrial": 1.1278571428571431
+    },
+    {
+      "year": 2015,
+      "month": 3,
+      "date": "2015-03",
+      "anomaly1951_1980": 0.95,
+      "anomalyPreindustrial": 1.167857142857143
+    },
+    {
+      "year": 2015,
+      "month": 4,
+      "date": "2015-04",
+      "anomaly1951_1980": 0.75,
+      "anomalyPreindustrial": 0.967857142857143
+    },
+    {
+      "year": 2015,
+      "month": 5,
+      "date": "2015-05",
+      "anomaly1951_1980": 0.8,
+      "anomalyPreindustrial": 1.017857142857143
+    },
+    {
+      "year": 2015,
+      "month": 6,
+      "date": "2015-06",
+      "anomaly1951_1980": 0.81,
+      "anomalyPreindustrial": 1.027857142857143
+    },
+    {
+      "year": 2015,
+      "month": 7,
+      "date": "2015-07",
+      "anomaly1951_1980": 0.73,
+      "anomalyPreindustrial": 0.947857142857143
+    },
+    {
+      "year": 2015,
+      "month": 8,
+      "date": "2015-08",
+      "anomaly1951_1980": 0.8,
+      "anomalyPreindustrial": 1.017857142857143
+    },
+    {
+      "year": 2015,
+      "month": 9,
+      "date": "2015-09",
+      "anomaly1951_1980": 0.83,
+      "anomalyPreindustrial": 1.047857142857143
+    },
+    {
+      "year": 2015,
+      "month": 10,
+      "date": "2015-10",
+      "anomaly1951_1980": 1.07,
+      "anomalyPreindustrial": 1.287857142857143
+    },
+    {
+      "year": 2015,
+      "month": 11,
+      "date": "2015-11",
+      "anomaly1951_1980": 1.06,
+      "anomalyPreindustrial": 1.277857142857143
+    },
+    {
+      "year": 2015,
+      "month": 12,
+      "date": "2015-12",
+      "anomaly1951_1980": 1.17,
+      "anomalyPreindustrial": 1.387857142857143
+    },
+    {
+      "year": 2016,
+      "month": 1,
+      "date": "2016-01",
+      "anomaly1951_1980": 1.17,
+      "anomalyPreindustrial": 1.387857142857143
+    },
+    {
+      "year": 2016,
+      "month": 2,
+      "date": "2016-02",
+      "anomaly1951_1980": 1.36,
+      "anomalyPreindustrial": 1.577857142857143
+    },
+    {
+      "year": 2016,
+      "month": 3,
+      "date": "2016-03",
+      "anomaly1951_1980": 1.35,
+      "anomalyPreindustrial": 1.567857142857143
+    },
+    {
+      "year": 2016,
+      "month": 4,
+      "date": "2016-04",
+      "anomaly1951_1980": 1.09,
+      "anomalyPreindustrial": 1.307857142857143
+    },
+    {
+      "year": 2016,
+      "month": 5,
+      "date": "2016-05",
+      "anomaly1951_1980": 0.96,
+      "anomalyPreindustrial": 1.177857142857143
+    },
+    {
+      "year": 2016,
+      "month": 6,
+      "date": "2016-06",
+      "anomaly1951_1980": 0.8,
+      "anomalyPreindustrial": 1.017857142857143
+    },
+    {
+      "year": 2016,
+      "month": 7,
+      "date": "2016-07",
+      "anomaly1951_1980": 0.84,
+      "anomalyPreindustrial": 1.057857142857143
+    },
+    {
+      "year": 2016,
+      "month": 8,
+      "date": "2016-08",
+      "anomaly1951_1980": 1.01,
+      "anomalyPreindustrial": 1.227857142857143
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "date": "2016-09",
+      "anomaly1951_1980": 0.9,
+      "anomalyPreindustrial": 1.117857142857143
+    },
+    {
+      "year": 2016,
+      "month": 10,
+      "date": "2016-10",
+      "anomaly1951_1980": 0.87,
+      "anomalyPreindustrial": 1.087857142857143
+    },
+    {
+      "year": 2016,
+      "month": 11,
+      "date": "2016-11",
+      "anomaly1951_1980": 0.91,
+      "anomalyPreindustrial": 1.1278571428571431
+    },
+    {
+      "year": 2016,
+      "month": 12,
+      "date": "2016-12",
+      "anomaly1951_1980": 0.86,
+      "anomalyPreindustrial": 1.077857142857143
+    },
+    {
+      "year": 2017,
+      "month": 1,
+      "date": "2017-01",
+      "anomaly1951_1980": 1.02,
+      "anomalyPreindustrial": 1.237857142857143
+    },
+    {
+      "year": 2017,
+      "month": 2,
+      "date": "2017-02",
+      "anomaly1951_1980": 1.12,
+      "anomalyPreindustrial": 1.337857142857143
+    },
+    {
+      "year": 2017,
+      "month": 3,
+      "date": "2017-03",
+      "anomaly1951_1980": 1.15,
+      "anomalyPreindustrial": 1.3678571428571429
+    },
+    {
+      "year": 2017,
+      "month": 4,
+      "date": "2017-04",
+      "anomaly1951_1980": 0.93,
+      "anomalyPreindustrial": 1.1478571428571431
+    },
+    {
+      "year": 2017,
+      "month": 5,
+      "date": "2017-05",
+      "anomaly1951_1980": 0.91,
+      "anomalyPreindustrial": 1.1278571428571431
+    },
+    {
+      "year": 2017,
+      "month": 6,
+      "date": "2017-06",
+      "anomaly1951_1980": 0.71,
+      "anomalyPreindustrial": 0.9278571428571429
+    },
+    {
+      "year": 2017,
+      "month": 7,
+      "date": "2017-07",
+      "anomaly1951_1980": 0.82,
+      "anomalyPreindustrial": 1.037857142857143
+    },
+    {
+      "year": 2017,
+      "month": 8,
+      "date": "2017-08",
+      "anomaly1951_1980": 0.87,
+      "anomalyPreindustrial": 1.087857142857143
+    },
+    {
+      "year": 2017,
+      "month": 9,
+      "date": "2017-09",
+      "anomaly1951_1980": 0.74,
+      "anomalyPreindustrial": 0.957857142857143
+    },
+    {
+      "year": 2017,
+      "month": 10,
+      "date": "2017-10",
+      "anomaly1951_1980": 0.88,
+      "anomalyPreindustrial": 1.097857142857143
+    },
+    {
+      "year": 2017,
+      "month": 11,
+      "date": "2017-11",
+      "anomaly1951_1980": 0.87,
+      "anomalyPreindustrial": 1.087857142857143
+    },
+    {
+      "year": 2017,
+      "month": 12,
+      "date": "2017-12",
+      "anomaly1951_1980": 0.93,
+      "anomalyPreindustrial": 1.1478571428571431
+    },
+    {
+      "year": 2018,
+      "month": 1,
+      "date": "2018-01",
+      "anomaly1951_1980": 0.82,
+      "anomalyPreindustrial": 1.037857142857143
+    },
+    {
+      "year": 2018,
+      "month": 2,
+      "date": "2018-02",
+      "anomaly1951_1980": 0.84,
+      "anomalyPreindustrial": 1.057857142857143
+    },
+    {
+      "year": 2018,
+      "month": 3,
+      "date": "2018-03",
+      "anomaly1951_1980": 0.88,
+      "anomalyPreindustrial": 1.097857142857143
+    },
+    {
+      "year": 2018,
+      "month": 4,
+      "date": "2018-04",
+      "anomaly1951_1980": 0.88,
+      "anomalyPreindustrial": 1.097857142857143
+    },
+    {
+      "year": 2018,
+      "month": 5,
+      "date": "2018-05",
+      "anomaly1951_1980": 0.81,
+      "anomalyPreindustrial": 1.027857142857143
+    },
+    {
+      "year": 2018,
+      "month": 6,
+      "date": "2018-06",
+      "anomaly1951_1980": 0.77,
+      "anomalyPreindustrial": 0.987857142857143
+    },
+    {
+      "year": 2018,
+      "month": 7,
+      "date": "2018-07",
+      "anomaly1951_1980": 0.83,
+      "anomalyPreindustrial": 1.047857142857143
+    },
+    {
+      "year": 2018,
+      "month": 8,
+      "date": "2018-08",
+      "anomaly1951_1980": 0.78,
+      "anomalyPreindustrial": 0.997857142857143
+    },
+    {
+      "year": 2018,
+      "month": 9,
+      "date": "2018-09",
+      "anomaly1951_1980": 0.8,
+      "anomalyPreindustrial": 1.017857142857143
+    },
+    {
+      "year": 2018,
+      "month": 10,
+      "date": "2018-10",
+      "anomaly1951_1980": 1.02,
+      "anomalyPreindustrial": 1.237857142857143
+    },
+    {
+      "year": 2018,
+      "month": 11,
+      "date": "2018-11",
+      "anomaly1951_1980": 0.83,
+      "anomalyPreindustrial": 1.047857142857143
+    },
+    {
+      "year": 2018,
+      "month": 12,
+      "date": "2018-12",
+      "anomaly1951_1980": 0.92,
+      "anomalyPreindustrial": 1.1378571428571431
+    },
+    {
+      "year": 2019,
+      "month": 1,
+      "date": "2019-01",
+      "anomaly1951_1980": 0.93,
+      "anomalyPreindustrial": 1.1478571428571431
+    },
+    {
+      "year": 2019,
+      "month": 2,
+      "date": "2019-02",
+      "anomaly1951_1980": 0.95,
+      "anomalyPreindustrial": 1.167857142857143
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "date": "2019-03",
+      "anomaly1951_1980": 1.17,
+      "anomalyPreindustrial": 1.387857142857143
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "date": "2019-04",
+      "anomaly1951_1980": 1,
+      "anomalyPreindustrial": 1.217857142857143
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "date": "2019-05",
+      "anomaly1951_1980": 0.86,
+      "anomalyPreindustrial": 1.077857142857143
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "date": "2019-06",
+      "anomaly1951_1980": 0.9,
+      "anomalyPreindustrial": 1.117857142857143
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "date": "2019-07",
+      "anomaly1951_1980": 0.94,
+      "anomalyPreindustrial": 1.157857142857143
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "date": "2019-08",
+      "anomaly1951_1980": 0.95,
+      "anomalyPreindustrial": 1.167857142857143
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "date": "2019-09",
+      "anomaly1951_1980": 0.93,
+      "anomalyPreindustrial": 1.1478571428571431
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "date": "2019-10",
+      "anomaly1951_1980": 1,
+      "anomalyPreindustrial": 1.217857142857143
+    },
+    {
+      "year": 2019,
+      "month": 11,
+      "date": "2019-11",
+      "anomaly1951_1980": 0.99,
+      "anomalyPreindustrial": 1.207857142857143
+    },
+    {
+      "year": 2019,
+      "month": 12,
+      "date": "2019-12",
+      "anomaly1951_1980": 1.11,
+      "anomalyPreindustrial": 1.327857142857143
+    },
+    {
+      "year": 2020,
+      "month": 1,
+      "date": "2020-01",
+      "anomaly1951_1980": 1.18,
+      "anomalyPreindustrial": 1.397857142857143
+    },
+    {
+      "year": 2020,
+      "month": 2,
+      "date": "2020-02",
+      "anomaly1951_1980": 1.23,
+      "anomalyPreindustrial": 1.447857142857143
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "date": "2020-03",
+      "anomaly1951_1980": 1.18,
+      "anomalyPreindustrial": 1.397857142857143
+    },
+    {
+      "year": 2020,
+      "month": 4,
+      "date": "2020-04",
+      "anomaly1951_1980": 1.11,
+      "anomalyPreindustrial": 1.327857142857143
+    },
+    {
+      "year": 2020,
+      "month": 5,
+      "date": "2020-05",
+      "anomaly1951_1980": 0.99,
+      "anomalyPreindustrial": 1.207857142857143
+    },
+    {
+      "year": 2020,
+      "month": 6,
+      "date": "2020-06",
+      "anomaly1951_1980": 0.91,
+      "anomalyPreindustrial": 1.1278571428571431
+    },
+    {
+      "year": 2020,
+      "month": 7,
+      "date": "2020-07",
+      "anomaly1951_1980": 0.89,
+      "anomalyPreindustrial": 1.107857142857143
+    },
+    {
+      "year": 2020,
+      "month": 8,
+      "date": "2020-08",
+      "anomaly1951_1980": 0.86,
+      "anomalyPreindustrial": 1.077857142857143
+    },
+    {
+      "year": 2020,
+      "month": 9,
+      "date": "2020-09",
+      "anomaly1951_1980": 0.96,
+      "anomalyPreindustrial": 1.177857142857143
+    },
+    {
+      "year": 2020,
+      "month": 10,
+      "date": "2020-10",
+      "anomaly1951_1980": 0.87,
+      "anomalyPreindustrial": 1.087857142857143
+    },
+    {
+      "year": 2020,
+      "month": 11,
+      "date": "2020-11",
+      "anomaly1951_1980": 1.08,
+      "anomalyPreindustrial": 1.297857142857143
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "date": "2020-12",
+      "anomaly1951_1980": 0.8,
+      "anomalyPreindustrial": 1.017857142857143
+    },
+    {
+      "year": 2021,
+      "month": 1,
+      "date": "2021-01",
+      "anomaly1951_1980": 0.81,
+      "anomalyPreindustrial": 1.027857142857143
+    },
+    {
+      "year": 2021,
+      "month": 2,
+      "date": "2021-02",
+      "anomaly1951_1980": 0.64,
+      "anomalyPreindustrial": 0.857857142857143
+    },
+    {
+      "year": 2021,
+      "month": 3,
+      "date": "2021-03",
+      "anomaly1951_1980": 0.89,
+      "anomalyPreindustrial": 1.107857142857143
+    },
+    {
+      "year": 2021,
+      "month": 4,
+      "date": "2021-04",
+      "anomaly1951_1980": 0.76,
+      "anomalyPreindustrial": 0.977857142857143
+    },
+    {
+      "year": 2021,
+      "month": 5,
+      "date": "2021-05",
+      "anomaly1951_1980": 0.79,
+      "anomalyPreindustrial": 1.007857142857143
+    },
+    {
+      "year": 2021,
+      "month": 6,
+      "date": "2021-06",
+      "anomaly1951_1980": 0.85,
+      "anomalyPreindustrial": 1.067857142857143
+    },
+    {
+      "year": 2021,
+      "month": 7,
+      "date": "2021-07",
+      "anomaly1951_1980": 0.92,
+      "anomalyPreindustrial": 1.1378571428571431
+    },
+    {
+      "year": 2021,
+      "month": 8,
+      "date": "2021-08",
+      "anomaly1951_1980": 0.81,
+      "anomalyPreindustrial": 1.027857142857143
+    },
+    {
+      "year": 2021,
+      "month": 9,
+      "date": "2021-09",
+      "anomaly1951_1980": 0.92,
+      "anomalyPreindustrial": 1.1378571428571431
+    },
+    {
+      "year": 2021,
+      "month": 10,
+      "date": "2021-10",
+      "anomaly1951_1980": 0.98,
+      "anomalyPreindustrial": 1.197857142857143
+    },
+    {
+      "year": 2021,
+      "month": 11,
+      "date": "2021-11",
+      "anomaly1951_1980": 0.92,
+      "anomalyPreindustrial": 1.1378571428571431
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "date": "2021-12",
+      "anomaly1951_1980": 0.88,
+      "anomalyPreindustrial": 1.097857142857143
+    },
+    {
+      "year": 2022,
+      "month": 1,
+      "date": "2022-01",
+      "anomaly1951_1980": 0.91,
+      "anomalyPreindustrial": 1.1278571428571431
+    },
+    {
+      "year": 2022,
+      "month": 2,
+      "date": "2022-02",
+      "anomaly1951_1980": 0.89,
+      "anomalyPreindustrial": 1.107857142857143
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "date": "2022-03",
+      "anomaly1951_1980": 1.04,
+      "anomalyPreindustrial": 1.257857142857143
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "date": "2022-04",
+      "anomaly1951_1980": 0.83,
+      "anomalyPreindustrial": 1.047857142857143
+    },
+    {
+      "year": 2022,
+      "month": 5,
+      "date": "2022-05",
+      "anomaly1951_1980": 0.84,
+      "anomalyPreindustrial": 1.057857142857143
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "date": "2022-06",
+      "anomaly1951_1980": 0.92,
+      "anomalyPreindustrial": 1.1378571428571431
+    },
+    {
+      "year": 2022,
+      "month": 7,
+      "date": "2022-07",
+      "anomaly1951_1980": 0.94,
+      "anomalyPreindustrial": 1.157857142857143
+    },
+    {
+      "year": 2022,
+      "month": 8,
+      "date": "2022-08",
+      "anomaly1951_1980": 0.94,
+      "anomalyPreindustrial": 1.157857142857143
+    },
+    {
+      "year": 2022,
+      "month": 9,
+      "date": "2022-09",
+      "anomaly1951_1980": 0.88,
+      "anomalyPreindustrial": 1.097857142857143
+    },
+    {
+      "year": 2022,
+      "month": 10,
+      "date": "2022-10",
+      "anomaly1951_1980": 0.97,
+      "anomalyPreindustrial": 1.187857142857143
+    },
+    {
+      "year": 2022,
+      "month": 11,
+      "date": "2022-11",
+      "anomaly1951_1980": 0.73,
+      "anomalyPreindustrial": 0.947857142857143
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "date": "2022-12",
+      "anomaly1951_1980": 0.79,
+      "anomalyPreindustrial": 1.007857142857143
+    },
+    {
+      "year": 2023,
+      "month": 1,
+      "date": "2023-01",
+      "anomaly1951_1980": 0.87,
+      "anomalyPreindustrial": 1.087857142857143
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "date": "2023-02",
+      "anomaly1951_1980": 0.96,
+      "anomalyPreindustrial": 1.177857142857143
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "date": "2023-03",
+      "anomaly1951_1980": 1.23,
+      "anomalyPreindustrial": 1.447857142857143
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "date": "2023-04",
+      "anomaly1951_1980": 0.98,
+      "anomalyPreindustrial": 1.197857142857143
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "date": "2023-05",
+      "anomaly1951_1980": 0.94,
+      "anomalyPreindustrial": 1.157857142857143
+    },
+    {
+      "year": 2023,
+      "month": 6,
+      "date": "2023-06",
+      "anomaly1951_1980": 1.08,
+      "anomalyPreindustrial": 1.297857142857143
+    },
+    {
+      "year": 2023,
+      "month": 7,
+      "date": "2023-07",
+      "anomaly1951_1980": 1.19,
+      "anomalyPreindustrial": 1.407857142857143
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "date": "2023-08",
+      "anomaly1951_1980": 1.19,
+      "anomalyPreindustrial": 1.407857142857143
+    },
+    {
+      "year": 2023,
+      "month": 9,
+      "date": "2023-09",
+      "anomaly1951_1980": 1.48,
+      "anomalyPreindustrial": 1.697857142857143
+    },
+    {
+      "year": 2023,
+      "month": 10,
+      "date": "2023-10",
+      "anomaly1951_1980": 1.34,
+      "anomalyPreindustrial": 1.557857142857143
+    },
+    {
+      "year": 2023,
+      "month": 11,
+      "date": "2023-11",
+      "anomaly1951_1980": 1.4,
+      "anomalyPreindustrial": 1.6178571428571429
+    },
+    {
+      "year": 2023,
+      "month": 12,
+      "date": "2023-12",
+      "anomaly1951_1980": 1.35,
+      "anomalyPreindustrial": 1.567857142857143
+    },
+    {
+      "year": 2024,
+      "month": 1,
+      "date": "2024-01",
+      "anomaly1951_1980": 1.25,
+      "anomalyPreindustrial": 1.467857142857143
+    },
+    {
+      "year": 2024,
+      "month": 2,
+      "date": "2024-02",
+      "anomaly1951_1980": 1.43,
+      "anomalyPreindustrial": 1.647857142857143
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "date": "2024-03",
+      "anomaly1951_1980": 1.39,
+      "anomalyPreindustrial": 1.6078571428571429
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "date": "2024-04",
+      "anomaly1951_1980": 1.32,
+      "anomalyPreindustrial": 1.537857142857143
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "date": "2024-05",
+      "anomaly1951_1980": 1.16,
+      "anomalyPreindustrial": 1.377857142857143
+    },
+    {
+      "year": 2024,
+      "month": 6,
+      "date": "2024-06",
+      "anomaly1951_1980": 1.23,
+      "anomalyPreindustrial": 1.447857142857143
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "date": "2024-07",
+      "anomaly1951_1980": 1.2,
+      "anomalyPreindustrial": 1.417857142857143
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "date": "2024-08",
+      "anomaly1951_1980": 1.3,
+      "anomalyPreindustrial": 1.517857142857143
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "date": "2024-09",
+      "anomaly1951_1980": 1.21,
+      "anomalyPreindustrial": 1.427857142857143
+    },
+    {
+      "year": 2024,
+      "month": 10,
+      "date": "2024-10",
+      "anomaly1951_1980": 1.34,
+      "anomalyPreindustrial": 1.557857142857143
+    },
+    {
+      "year": 2024,
+      "month": 11,
+      "date": "2024-11",
+      "anomaly1951_1980": 1.29,
+      "anomalyPreindustrial": 1.507857142857143
+    },
+    {
+      "year": 2024,
+      "month": 12,
+      "date": "2024-12",
+      "anomaly1951_1980": 1.26,
+      "anomalyPreindustrial": 1.477857142857143
+    },
+    {
+      "year": 2025,
+      "month": 1,
+      "date": "2025-01",
+      "anomaly1951_1980": 1.37,
+      "anomalyPreindustrial": 1.587857142857143
+    },
+    {
+      "year": 2025,
+      "month": 2,
+      "date": "2025-02",
+      "anomaly1951_1980": 1.25,
+      "anomalyPreindustrial": 1.467857142857143
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "date": "2025-03",
+      "anomaly1951_1980": 1.36,
+      "anomalyPreindustrial": 1.577857142857143
+    },
+    {
+      "year": 2025,
+      "month": 4,
+      "date": "2025-04",
+      "anomaly1951_1980": 1.24,
+      "anomalyPreindustrial": 1.457857142857143
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "date": "2025-05",
+      "anomaly1951_1980": 1.07,
+      "anomalyPreindustrial": 1.287857142857143
+    },
+    {
+      "year": 2025,
+      "month": 6,
+      "date": "2025-06",
+      "anomaly1951_1980": 1.06,
+      "anomalyPreindustrial": 1.277857142857143
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "date": "2025-07",
+      "anomaly1951_1980": 1.02,
+      "anomalyPreindustrial": 1.237857142857143
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "date": "2025-08",
+      "anomaly1951_1980": 1.17,
+      "anomalyPreindustrial": 1.387857142857143
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "date": "2025-09",
+      "anomaly1951_1980": 1.24,
+      "anomalyPreindustrial": 1.457857142857143
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "date": "2025-10",
+      "anomaly1951_1980": 1.18,
+      "anomalyPreindustrial": 1.397857142857143
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "date": "2025-11",
+      "anomaly1951_1980": 1.21,
+      "anomalyPreindustrial": 1.427857142857143
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "date": "2025-12",
+      "anomaly1951_1980": 1.05,
+      "anomalyPreindustrial": 1.267857142857143
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "date": "2026-01",
+      "anomaly1951_1980": 1.08,
+      "anomalyPreindustrial": 1.297857142857143
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "date": "2026-02",
+      "anomaly1951_1980": 1.23,
+      "anomalyPreindustrial": 1.447857142857143
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "date": "2026-03",
+      "anomaly1951_1980": 1.3,
+      "anomalyPreindustrial": 1.517857142857143
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "date": "2026-04",
+      "anomaly1951_1980": 1.16,
+      "anomalyPreindustrial": 1.377857142857143
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "date": "2026-05",
+      "anomaly1951_1980": 1.13,
+      "anomalyPreindustrial": 1.3478571428571429
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "date": "2026-06",
+      "anomaly1951_1980": 1.17,
+      "anomalyPreindustrial": 1.387857142857143
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "date": "2026-07",
+      "anomaly1951_1980": 1.24,
+      "anomalyPreindustrial": 1.457857142857143
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "date": "2026-08",
+      "anomaly1951_1980": 1.42,
+      "anomalyPreindustrial": 1.637857142857143
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "date": "2026-09",
+      "anomaly1951_1980": 1.38,
+      "anomalyPreindustrial": 1.5978571428571429
+    }
+  ]
+}
