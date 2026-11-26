@@ -20,6 +20,7 @@ import { sonifier } from './lib/sonification.js';
 const BASE = import.meta.env.BASE_URL;
 
 /** Franjas de calentamiento convertidas en un teclado de piano: cada año es una tecla que suena */
+/** Teclado de calentamiento: cada año es una tecla de piano que suena y abre ese año */
 function Stripes({ yearly, onPick }) {
   const [pressed, setPressed] = useState(null);
   const press = (y) => {
@@ -27,17 +28,28 @@ function Stripes({ yearly, onPick }) {
     setTimeout(() => setPressed((p) => (p === y.year ? null : p)), 220);
     try { sonifier.playTone(y.value, { duration: 0.35, gain: 0.2 }); } catch { /* sin audio */ }
   };
+  const first = yearly[0]?.year ?? 0;
+  const span = Math.max(1, yearly.length);
+  const decades = yearly.filter((y) => y.year % 20 === 0);
   return (
-    <div className="stripes" role="group" aria-label="Teclado de calentamiento: una tecla por año desde 1926; tócala para oírla y explorarla">
-      {yearly.map((y) => (
-        <button type="button" key={y.year} className={pressed === y.year ? 'is-pressed' : ''}
-          style={{ backgroundColor: anomalyColor(y.value) }}
-          title={`${y.year}: ${formatTemperature(y.value)}`}
-          onMouseEnter={() => { if (sonifier.ctx?.state === 'running' && !sonifier.playing) press(y); }}
-          onClick={() => { press(y); onPick?.(y.year); }}
-          aria-label={`${y.year}: ${formatTemperature(y.value)}`} />
-      ))}
-    </div>
+    <section className="keyboard" aria-label="Teclado de calentamiento">
+      <p className="keyboard-title"><b>Toca un año</b> · cada tecla es un año desde {first}, coloreada por su temperatura</p>
+      <div className="stripes" role="group" aria-label="Una tecla por año; tócala para oírla y explorarla">
+        {yearly.map((y) => (
+          <button type="button" key={y.year} className={pressed === y.year ? 'is-pressed' : ''}
+            style={{ backgroundColor: anomalyColor(y.value) }}
+            title={`${y.year}: ${formatTemperature(y.value)}`}
+            onMouseEnter={() => { if (sonifier.ctx?.state === 'running' && !sonifier.playing) press(y); }}
+            onClick={() => { press(y); onPick?.(y.year); }}
+            aria-label={`${y.year}: ${formatTemperature(y.value)}`} />
+        ))}
+      </div>
+      <div className="keyboard-axis" aria-hidden="true">
+        {decades.map((y) => (
+          <span key={y.year} style={{ left: `${((y.year - first + 0.5) / span) * 100}%` }}>{y.year}</span>
+        ))}
+      </div>
+    </section>
   );
 }
 
@@ -120,8 +132,8 @@ export default function App() {
           </a>
           <span className="topbar-course">Arquitectura de Sistemas Multimedia</span>
         </nav>
-        <Stripes yearly={yearly} onPick={pickYear} />
-        <Hero latest={latest} baselineLabel="la época preindustrial (1880–1900)" />
+        <Hero latest={latest} baselineLabel="la época preindustrial (1880–1900)"
+          keyboard={<Stripes yearly={yearly} onPick={pickYear} />} />
       </div>
 
       <main>
@@ -198,7 +210,7 @@ export default function App() {
           <h3>Recursos libres</h3>
           <ul>
             <li>Software: React y Vite (MIT), three.js (MIT), d3-geo y topojson-client (ISC), world-atlas / Natural Earth (dominio público).</li>
-            <li>Tipografías: Fraunces, Inter e IBM Plex Mono (SIL Open Font License, Google Fonts).</li>
+            <li>Tipografías: Bricolage Grotesque, Fraunces, Inter e IBM Plex Mono (SIL Open Font License, Google Fonts).</li>
             <li>Sonidos: orquesta de salsa (piano, metales, clave, conga, güiro, campana, timbal y bajo) sintetizada en tiempo real con Web Audio API; no se usan archivos de audio.</li>
             <li>Gráficos, iconografía y escena 3D: hechos para este proyecto con SVG, Canvas y geometría generada por código.</li>
           </ul>

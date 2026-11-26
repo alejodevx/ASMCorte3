@@ -108,7 +108,6 @@ function Earth({ value }) {
         </radialGradient>
       </defs>
 
-      <circle cx={CX} cy={CY + 8} r="232" className="earth-backdrop" />
       {/* Atmósfera que se enciende con el calor */}
       <circle cx={CX} cy={CY} r={GLOBE_R + 26} fill="url(#earth-glow)" className="earth-halo" />
       <circle cx={CX} cy={CY} r={GLOBE_R} className="earth-ocean" fill={oceanColor} />
@@ -139,11 +138,11 @@ function Earth({ value }) {
       {[1.5, 2.0].map((v) => {
         const [x1, y1] = polar(angleOf(v), GAUGE_R - 9);
         const [x2, y2] = polar(angleOf(v), GAUGE_R + 14);
-        const [lx, ly] = v < 1.7 ? polar(angleOf(v), GAUGE_R + 30) : [x2, y2 - 10];
+        const [lx, ly] = v < 1.7 ? polar(angleOf(v), GAUGE_R + 30) : [x2 + 4, y2];
         return (
           <g key={`p${v}`}>
             <line x1={x1} y1={y1} x2={x2} y2={y2} className="earth-paris" />
-            <text x={lx} y={ly + 4} textAnchor={v < 1.7 ? 'middle' : 'end'} className="earth-paris-label">París +{v.toFixed(1)}</text>
+            <text x={lx} y={ly + 4} textAnchor={v < 1.7 ? 'middle' : 'start'} className="earth-paris-label">{v < 1.7 ? 'París ' : ''}+{v.toFixed(1)}</text>
           </g>
         );
       })}
@@ -158,29 +157,46 @@ function Earth({ value }) {
   );
 }
 
-export default function Hero({ latest, baselineLabel }) {
+export default function Hero({ latest, baselineLabel, keyboard }) {
   const counted = useCountUp(latest?.rolling12);
+  const now = latest?.rolling12 ?? 0;
+  const toParis = 1.5 - now;
   return (
     <header className="hero">
-      <div className="hero-copy">
-        <p className="eyebrow">Desde Cali, con datos de NASA GISS (GISTEMP v4), de 1926 a hoy</p>
-        <h1>
-          La Tierra <span>y su temperatura</span>
-        </h1>
-        <p className="lede">
-          Un siglo de temperaturas del planeta, convertidas en color, mapa y salsa.
-          Toca las teclas, elige tu período, escúchalo a ritmo de clave y míralo frente a los límites del Acuerdo de París.
+      <div className="hero-head">
+        <p className="eyebrow">
+          <span>Cali · Valle del Cauca</span>
+          <span>Datos NASA GISS · 1926 – hoy</span>
         </p>
-        <div className="hero-reading" style={{ '--heat': anomalyColor(latest?.rolling12 ?? 0) }}>
-          <strong className="mono">{formatTemperature(counted)}</strong>
-          <span>
-            Calentamiento medio de los últimos 12 meses (hasta {formatDate(latest?.date)}),
-            comparado con {baselineLabel}.
-          </span>
-        </div>
-        <a className="scroll-cue" href="#entender">Empezar ↓</a>
+        <h1>La Tierra <em>y su temperatura</em></h1>
+        <p className="lede">
+          Un siglo de temperaturas del planeta convertido en color, mapa y salsa.
+          Toca las teclas, escucha tu época a ritmo de clave y compárala con los límites del Acuerdo de París.
+        </p>
       </div>
-      <Earth value={counted} />
+
+      <div className="hero-stage">
+        <article className="hero-card" style={{ '--heat': anomalyColor(now) }}>
+          <span className="hero-card-tag">Hoy</span>
+          <strong className="mono">{formatTemperature(counted)}</strong>
+          <p>Calentamiento medio de los últimos 12 meses (hasta {formatDate(latest?.date)}), frente a {baselineLabel}.</p>
+        </article>
+
+        <Earth value={counted} />
+
+        <article className="hero-card paris">
+          <span className="hero-card-tag">Acuerdo de París</span>
+          <strong className="mono">{toParis > 0 ? `${toParis.toFixed(2)} °C` : 'Superado'}</strong>
+          <p>
+            {toParis > 0
+              ? 'es lo que falta para llegar al límite de +1.5 °C que el mundo se comprometió a no cruzar.'
+              : 'El promedio de los últimos 12 meses ya está por encima del límite de +1.5 °C.'}
+          </p>
+          <a className="scroll-cue" href="#entender">Empezar el recorrido ↓</a>
+        </article>
+      </div>
+
+      {keyboard}
     </header>
   );
 }

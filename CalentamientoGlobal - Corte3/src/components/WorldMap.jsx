@@ -26,7 +26,7 @@ function drawMap(canvas, row, hoverZone) {
   ctx.clearRect(0, 0, W, H);
   const path = geoPath(projection, ctx);
 
-  ctx.beginPath(); path(SPHERE); ctx.fillStyle = '#101015'; ctx.fill();
+  ctx.beginPath(); path(SPHERE); ctx.fillStyle = '#eef1f4'; ctx.fill();
 
   ZONES.forEach((z) => {
     const v = row.zones[z.key].anomalyPreindustrial;
@@ -42,15 +42,15 @@ function drawMap(canvas, row, hoverZone) {
 
   ctx.save();
   ctx.beginPath(); path(SPHERE); ctx.clip();
-  ctx.beginPath(); path(graticule); ctx.strokeStyle = 'rgba(243,237,226,.07)'; ctx.lineWidth = 0.6; ctx.stroke();
-  ctx.beginPath(); path(borders); ctx.strokeStyle = 'rgba(11,10,13,.55)'; ctx.lineWidth = 0.5; ctx.stroke();
-  ctx.setLineDash([3, 4]); ctx.strokeStyle = 'rgba(243,237,226,.35)'; ctx.lineWidth = 1;
+  ctx.beginPath(); path(graticule); ctx.strokeStyle = 'rgba(31,26,22,.08)'; ctx.lineWidth = 0.6; ctx.stroke();
+  ctx.beginPath(); path(borders); ctx.strokeStyle = 'rgba(255,255,255,.75)'; ctx.lineWidth = 0.5; ctx.stroke();
+  ctx.setLineDash([3, 4]); ctx.strokeStyle = 'rgba(31,26,22,.35)'; ctx.lineWidth = 1;
   ZONES.slice(0, -1).forEach((z) => {
     ctx.beginPath(); ctx.moveTo(0, latY(z.lat[0])); ctx.lineTo(W, latY(z.lat[0])); ctx.stroke();
   });
   ctx.restore();
   ctx.setLineDash([]);
-  ctx.beginPath(); path(SPHERE); ctx.strokeStyle = 'rgba(243,237,226,.4)'; ctx.lineWidth = 1.2; ctx.stroke();
+  ctx.beginPath(); path(SPHERE); ctx.strokeStyle = 'rgba(31,26,22,.35)'; ctx.lineWidth = 1.2; ctx.stroke();
 }
 // En Equal Earth los paralelos son rectas horizontales: cada banda es un rectángulo recortado por la esfera.
 const latY = (lat) => projection([0, lat])[1];
@@ -151,7 +151,7 @@ export default function WorldMap({ zonal, shift, baselineLabel, soundOn }) {
                 const yMid = (latY(z.lat[0]) + latY(z.lat[1])) / 2;
                 return (
                   <g key={`l-${z.key}`} pointerEvents="none">
-                    <text x={W - 118} y={yMid + 5} className="map-band-value" fill={v >= 1.6 ? "#ff9b85" : anomalyColor(Math.max(v, 0.9))}>
+                    <text x={W - 118} y={yMid + 5} className="map-band-value" fill={anomalyColor(Math.max(v, 1.3))}>
                       {formatTemperature(v - shift, 1)}
                     </text>
                   </g>

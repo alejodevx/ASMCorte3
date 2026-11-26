@@ -172,8 +172,8 @@ export default function ColombiaSection({ colombia, zonalWorld }) {
           <svg viewBox={`0 0 ${W} ${H}`} role="group" aria-label="Perfil de altitud de las estaciones colombianas">
             <defs>
               <linearGradient id="mountain" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="0%" stopColor="#3a3340" />
-                <stop offset="100%" stopColor="#1b171d" />
+                <stop offset="0%" stopColor="#e7dfd3" />
+                <stop offset="100%" stopColor="#cfc3b2" />
               </linearGradient>
             </defs>
             {FLOORS.map((f) => (
