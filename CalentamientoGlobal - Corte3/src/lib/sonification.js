@@ -4,14 +4,17 @@
  * El calor del planeta se toca como una salsa:
  *  - Melodía: cada dato es una nota de piano en octavas (como un montuno), cuantizada a la escala
  *    menor armónica de La, típica de la salsa. Más calor → nota más aguda.
- *  - Timbre: < +1.0 °C piano; +1.0…+1.5 °C entra el trombón; > +1.5 °C lidera la trompeta (más áspera).
- *  - Ritmo: clave 3-2 siempre; conga (tumbao) desde +0.3 °C; güiro cuyo volumen crece con la anomalía;
- *    campana desde +1.0 °C; timbal desde +1.5 °C. A más calor, más "candela" en la percusión.
+ *  - Orquesta por umbrales (ENTRY): clave, bajo y piano siempre; güiro desde +0.2 °C; conga desde +0.4;
+ *    campana desde +0.7; trombón desde +1.0; timbal desde +1.2; trompeta desde +1.4 (a un paso de París),
+ *    y desde ahí la trompeta lleva la melodía. A más calor, más "candela" en la tarima.
  *  - Bajo tumbao: notas anticipadas ("2 y" y "4") que suben de tono con la temperatura.
  *  - Alertas: golpe de metales y timbal al cruzar +1.5 °C; "mambo" de trompetas al cruzar +2.0 °C.
  */
 
 const SCALE = [0, 2, 3, 5, 7, 8, 11]; // La menor armónica
+
+/** Temperatura (°C sobre 1880–1900) a la que entra cada músico. La comparten el sonido y la orquesta 2D. */
+export const ENTRY = { guiro: 0.2, conga: 0.4, campana: 0.7, trombon: 1.0, timbal: 1.2, trompeta: 1.4 };
 const MIN_A = -0.5;
 const MAX_A = 2.2;
 const BPM = 184; // tempo de salsa caleña (rápida, para bailar)
@@ -286,9 +289,9 @@ export class ClimateSonifier {
     const t0 = ctx.currentTime + when;
     const f = anomalyToFrequency(value);
     const dur = Math.max(0.18, duration * 1.4);
-    if (value >= 1.5) this.brass(f, t0, dur, gain * 0.7, { bright: clamp(value - 1.5, 0, 1), keep: true });
+    if (value >= ENTRY.trompeta) this.brass(f, t0, dur, gain * 0.7, { bright: clamp(value - ENTRY.trompeta, 0, 1), keep: true });
     else this.piano(f, t0, dur, gain * 0.9, { keep: true });
-    if (value >= 1.0 && value < 1.5) this.brass(f / 2, t0, dur, gain * 0.35, { bright: 0, keep: true });
+    if (value >= ENTRY.trombon && value < ENTRY.trompeta) this.brass(f / 2, t0, dur, gain * 0.35, { bright: 0, keep: true });
   }
 
   /** Golpe de metales + timbal (umbral +1.5 °C): un "¡Azúcar!" de la orquesta */
@@ -316,18 +319,18 @@ export class ClimateSonifier {
     const pos = k % 16;
     const beat = pos % 8;
     if (CLAVE.has(pos)) this.clave(t);
-    if (v >= 0.3) {
+    if (v >= ENTRY.conga) {
       // Tumbao de conga: tapado en 1 y 3, abiertos en "4" y "4 y"
       if (beat === 0 || beat === 4) this.conga(t, false, 0.12);
       if (beat === 6) this.conga(t, true, 0.18, false);
       if (beat === 7) this.conga(t, true, 0.16, true);
     }
-    if (embers) {
+    if (embers && v >= ENTRY.guiro) {
       const level = clamp((v - 0.2) / 1.6, 0, 1);
       this.scrape(t, 0.01 + level * 0.06, beat % 2 === 0);
     }
-    if (v >= 1.0 && beat % 2 === 0) this.cowbell(t, 0.05, beat === 0 || beat === 4);
-    if (v >= 1.5 && (beat === 1 || beat === 3 || beat === 7)) this.timbal(t, 0.07, beat !== 7);
+    if (v >= ENTRY.campana && beat % 2 === 0) this.cowbell(t, 0.05, beat === 0 || beat === 4);
+    if (v >= ENTRY.timbal && (beat === 1 || beat === 3 || beat === 7)) this.timbal(t, 0.09, beat !== 7);
     // Bajo anticipado en "2 y" y "4"; raíz I – V alternando por compás y transportada con el calor
     if (beat === 3 || beat === 6) {
       const bar = Math.floor(k / 8);
@@ -341,12 +344,13 @@ export class ClimateSonifier {
   melodyNote(v, when, noteDur) {
     const f = anomalyToFrequency(v);
     const peak = 0.06 + clamp(v, 0, 2) * 0.03;
-    if (v >= 1.5) {
-      this.brass(f, when, noteDur, peak * 0.8, { bright: clamp((v - 1.5) / 0.7, 0, 1) });
+    if (v >= ENTRY.trompeta) {
+      this.brass(f, when, noteDur, peak * 0.85, { bright: clamp((v - ENTRY.trompeta) / 0.6, 0, 1) });
+      this.piano(f / 2, when, noteDur, peak * 0.45);
     } else {
       this.piano(f, when, noteDur, peak);
-      if (v >= 1.0) this.brass(f / 2, when, noteDur, peak * 0.4, { bright: 0 });
     }
+    if (v >= ENTRY.trombon) this.brass(f / 2, when, noteDur, peak * 0.4, { bright: 0 });
   }
 
   /**
