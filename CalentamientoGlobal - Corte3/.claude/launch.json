@@ -26,6 +26,18 @@
         "4174"
       ],
       "port": 4174
+    },
+    {
+      "name": "presentacion",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "5180",
+        "--directory",
+        "presentacion-movilidad-cali"
+      ],
+      "port": 5180
     }
   ]
 }
