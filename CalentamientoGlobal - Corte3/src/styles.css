@@ -374,13 +374,77 @@ input[type='range'] { accent-color: var(--accent); width: 100%; }
 
 /* ───────── Pie ───────── */
 .footer {
-  width: min(1180px, calc(100% - 32px)); margin: 72px auto 0; padding: 40px 0 60px;
-  border-top: 1px solid var(--line); display: grid; grid-template-columns: 1fr 1fr; gap: 32px;
-  color: var(--ink-2); font-size: .88rem;
+  width: min(1180px, calc(100% - 32px)); margin: 72px auto 0; padding: 28px 0 48px;
+  border-top: 1px solid var(--line); display: flex; flex-wrap: wrap; align-items: center; gap: 14px 24px;
+  color: var(--ink-3); font-size: .88rem;
 }
-.footer h3 { font-family: var(--font-display); color: var(--ink); font-weight: 600; margin: 0 0 8px; }
-.footer ul { padding-left: 18px; margin: 0; display: grid; gap: 6px; }
-.credit { color: var(--ink-3); margin-top: 18px; }
+.footer img { height: 28px; width: auto; filter: brightness(0); opacity: .8; }
+.footer p { margin: 0; }
+
+/* ───────── Orquesta del clima ───────── */
+.orq { display: grid; gap: 18px; }
+.orq-top { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 18px; align-items: center; }
+.orq-now {
+  display: grid; justify-items: center; min-width: 128px; padding: 12px 16px; border-radius: 16px;
+  background: var(--panel-2); border-bottom: 6px solid var(--heat); transition: border-color .3s;
+}
+.orq-year { font-size: 2.2rem; font-weight: 600; line-height: 1; }
+.orq-temp { color: var(--ink-2); font-size: .95rem; }
+.orq-pregon {
+  margin: 0; padding: 14px 18px; border-radius: 18px 18px 18px 4px; background: var(--ink); color: var(--bg);
+  font-size: .98rem; line-height: 1.45; min-height: 4.4em; display: flex; align-items: center;
+}
+.orq-pregon b { color: #ffd166; margin-right: 6px; white-space: nowrap; }
+.orq-stage {
+  list-style: none; margin: 0; padding: 18px; display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 10px;
+  border-radius: 18px; background: linear-gradient(180deg, var(--panel-2), #ebe3d6);
+}
+.orq-musician {
+  display: grid; grid-template-columns: 48px minmax(0, 1fr); gap: 4px 12px; align-items: center;
+  padding: 12px; border-radius: 14px; background: var(--panel); border: 1px solid var(--line);
+  color: var(--ink-3); transition: background .25s, color .25s, transform .25s, box-shadow .25s;
+}
+.orq-musician svg { width: 48px; height: 48px; grid-row: span 2; }
+.orq-musician div { display: grid; line-height: 1.25; }
+.orq-musician strong { color: var(--ink-2); font-size: .95rem; }
+.orq-musician small { font-size: .76rem; }
+.orq-rule { grid-column: 2; justify-self: start; font: 600 .72rem var(--font-mono); padding: 2px 8px; border-radius: 999px; background: var(--panel-2); color: var(--ink-2); }
+.orq-musician.on { background: var(--c); color: var(--t); border-color: transparent; transform: translateY(-3px); box-shadow: 0 10px 22px -12px rgba(31,26,22,.6); }
+.orq-musician.on strong { color: var(--t); }
+.orq-musician.on .orq-rule { background: rgba(255,255,255,.3); color: var(--t); }
+.orq-musician.on svg { animation: groove .652s ease-in-out infinite alternate; }
+@keyframes groove { from { transform: rotate(-6deg) translateY(1px); } to { transform: rotate(6deg) translateY(-2px); } }
+.orq-scale { position: relative; height: 62px; margin: 4px 8px 0; }
+.orq-scale-bar {
+  position: absolute; left: 0; right: 0; top: 10px; height: 10px; border-radius: 999px;
+  background: linear-gradient(90deg, #2c6eaf, #d6cdbc 32%, #f6b26b 50%, #e86a3e 67%, #c82228 85%, #8c0a28);
+}
+.orq-entry { position: absolute; top: 24px; transform: translateX(-50%); font-size: .72rem; color: var(--ink-2); white-space: nowrap; text-align: center; }
+.orq-entry i { position: absolute; left: 50%; top: -18px; width: 2px; height: 16px; background: var(--ink); }
+.orq-entry:nth-of-type(even) { top: 40px; }
+.orq-pointer {
+  position: absolute; top: -8px; transform: translateX(-50%); padding: 2px 8px; border-radius: 999px;
+  background: var(--ink); color: var(--bg); font: 600 .74rem var(--font-mono); transition: left .2s;
+}
+.orq-decades { display: grid; grid-template-columns: repeat(auto-fit, minmax(78px, 1fr)); gap: 6px; }
+.orq-decades button {
+  border: 0; border-radius: 12px; padding: 10px 6px; display: grid; gap: 2px; justify-items: center;
+  transition: transform .15s, box-shadow .15s;
+}
+.orq-decades button:hover { transform: translateY(-2px); }
+.orq-decades button.on { box-shadow: 0 0 0 3px var(--ink); }
+.orq-decades b { font-size: .95rem; }
+.orq-decades small { font: .72rem var(--font-mono); }
+@media (max-width: 720px) {
+  .orq-top { grid-template-columns: auto minmax(0, 1fr); }
+  .orq-top .play { grid-column: 1 / -1; justify-self: start; }
+  .orq-pregon { grid-column: 1 / -1; grid-row: 2; }
+  .orq-stage { padding: 10px; grid-template-columns: 1fr 1fr; }
+  .orq-musician { grid-template-columns: 1fr; justify-items: start; }
+  .orq-musician svg { grid-row: auto; width: 36px; height: 36px; }
+  .orq-rule { grid-column: 1; }
+  .orq-entry { font-size: .62rem; }
+}
 
 /* ───────── Barra institucional ───────── */
 .topbar {
@@ -391,9 +455,6 @@ input[type='range'] { accent-color: var(--accent); width: 100%; }
 .uao-logo { display: block; line-height: 0; }
 .uao-logo img { height: 34px; width: auto; filter: brightness(0); }
 .topbar-course { color: var(--ink-2); font-size: .9rem; padding-left: 18px; border-left: 1px solid var(--line); }
-.credit { display: grid; gap: 10px; margin-top: 22px; }
-.credit img { height: 30px; width: auto; opacity: .85; filter: brightness(0); }
-.credit p { margin: 0; }
 
 /* ───────── Colombia ───────── */
 .co-figures { display: flex; flex-wrap: wrap; gap: 12px 48px; margin: 0 0 24px; }
@@ -521,7 +582,6 @@ input[type='range'] { accent-color: var(--accent); width: 100%; }
   .compare-cards { grid-template-columns: 1fr; }
   .compare-delta { padding: 4px 0; }
   .facts { grid-template-columns: 1fr; }
-  .footer { grid-template-columns: 1fr; }
   .range-span { margin-left: 0; }
   .mini { width: calc(50% - 10px); }
   .map-band-value { font-size: 24px; }

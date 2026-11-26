@@ -211,7 +211,7 @@ export default function BiomeDiorama({ colombia }) {
   return (
     <section className="section diorama" id="diorama" aria-labelledby="diorama-title">
       <div className="section-head">
-        <p className="kicker">05 Diorama</p>
+        <p className="kicker">06 Diorama</p>
         <h2 id="diorama-title">Párate a la orilla del río Pance y mira pasar cincuenta años</h2>
         <p className="section-sub">
           Los mapas muestran el calentamiento desde arriba. Aquí lo ves a ras de suelo: un valle como los de los

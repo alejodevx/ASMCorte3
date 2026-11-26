@@ -104,7 +104,7 @@ export default function WorldMap({ zonal, shift, baselineLabel, soundOn }) {
   return (
     <section className="section" id="mapa">
       <div className="section-head">
-        <p className="kicker">03 El planeta por latitudes</p>
+        <p className="kicker">04 El planeta por latitudes</p>
         <h2>El calor no se reparte igual: el Ártico se calienta mucho más rápido</h2>
         <p className="section-sub">
           GISTEMP también publica anomalías anuales para 8 bandas de latitud. Cada franja del mapa se colorea con

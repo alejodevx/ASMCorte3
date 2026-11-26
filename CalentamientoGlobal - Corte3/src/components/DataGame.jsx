@@ -310,7 +310,7 @@ export default function DataGame({ yearly, monthly, offset }) {
   return (
     <section className="section game" id="juego" aria-labelledby="juego-title" ref={sectionRef}>
       <div className="section-head">
-        <p className="kicker">06 Ponte a prueba</p>
+        <p className="kicker">07 Ponte a prueba</p>
         <h2 id="juego-title">Termómetro a ciegas</h2>
         <p className="section-sub">
           Diez rondas con datos reales de GISTEMP, sin colores ni pistas: compara, estima, ordena y escucha.

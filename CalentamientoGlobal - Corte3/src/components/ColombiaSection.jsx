@@ -143,7 +143,7 @@ export default function ColombiaSection({ colombia, zonalWorld }) {
   return (
     <section className="section colombia" id="colombia" aria-labelledby="co-title">
       <div className="section-head">
-        <p className="kicker">04 Colombia</p>
+        <p className="kicker">05 Colombia</p>
         <h2 id="co-title">En Colombia el calentamiento se mide piso por piso</h2>
         <p className="section-sub">
           Datos de las estaciones meteorológicas colombianas que usa GISTEMP, desde el nivel del mar en San Andrés

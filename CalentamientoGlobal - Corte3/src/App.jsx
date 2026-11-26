@@ -10,9 +10,10 @@ import ColombiaSection from './components/ColombiaSection.jsx';
 import DataGame from './components/DataGame.jsx';
 import BiomeDiorama from './components/BiomeDiorama.jsx';
 import SectionNav from './components/SectionNav.jsx';
+import SalsaOrchestra from './components/SalsaOrchestra.jsx';
 import { anomalyColor } from './lib/colors.js';
 import {
-  compareEdges, formatDate, formatTemperature, parseGistempCsv, parseZonalCsv,
+  compareEdges, formatTemperature, parseGistempCsv, parseZonalCsv,
   prepareGistempData, yearlyAverages,
 } from './lib/gistemp.js';
 import { sonifier } from './lib/sonification.js';
@@ -179,6 +180,8 @@ export default function App() {
           </div>
         </section>
 
+        <SalsaOrchestra yearly={yearly} />
+
         <WorldMap zonal={zonal} shift={shift} baselineLabel={baselineLabel} soundOn={mapSound} />
         <label className="check center">
           <input type="checkbox" checked={mapSound} onChange={(e) => setMapSound(e.target.checked)} />
@@ -191,34 +194,8 @@ export default function App() {
       </main>
 
       <footer className="footer">
-        <div>
-          <h3>Fuentes y método</h3>
-          <ul>
-            <li>
-              Datos: <a href="https://data.giss.nasa.gov/gistemp/" target="_blank" rel="noreferrer">NASA GISS Surface Temperature Analysis (GISTEMP v4)</a>,
-              índice global tierra-océano mensual (datos hasta {formatDate(latest.date)}) y anomalías zonales anuales. Datos de dominio público.
-            </li>
-            <li>GISTEMP publica anomalías respecto a 1951–1980. La línea base preindustrial se aproxima con el promedio 1880–1900 de la misma serie
-              ({formatTemperature(baseline)} respecto a 1951–1980); ese período no se dibuja.</li>
-            <li>Las comparaciones usan promedios de ventanas (12 a 120 meses), nunca meses aislados.</li>
-            <li>El mapa colorea bandas de latitud enteras: no muestra diferencias entre países dentro de una misma banda.</li>
-            <li>Colombia: estaciones colombianas de la versión homogeneizada de GISTEMP v4 (v4.mean_GISS_homogenized), con anomalías respecto
-              al clima 1961–1990 de cada estación.</li>
-          </ul>
-        </div>
-        <div>
-          <h3>Recursos libres</h3>
-          <ul>
-            <li>Software: React y Vite (MIT), three.js (MIT), d3-geo y topojson-client (ISC), world-atlas / Natural Earth (dominio público).</li>
-            <li>Tipografías: Bricolage Grotesque, Fraunces, Inter e IBM Plex Mono (SIL Open Font License, Google Fonts).</li>
-            <li>Sonidos: orquesta de salsa (piano, metales, clave, conga, güiro, campana, timbal y bajo) sintetizada en tiempo real con Web Audio API; no se usan archivos de audio.</li>
-            <li>Gráficos, iconografía y escena 3D: hechos para este proyecto con SVG, Canvas y geometría generada por código.</li>
-          </ul>
-          <div className="credit">
-            <img src={`${BASE}brand/uao-logo-horizontal-blanco.png`} alt="Universidad Autónoma de Occidente" width="745" height="133" />
-            <p>La Tierra y su temperatura, hecho en Cali para Arquitectura de Sistemas Multimedia.</p>
-          </div>
-        </div>
+        <img src={`${BASE}brand/uao-logo-horizontal-blanco.png`} alt="Universidad Autónoma de Occidente" width="745" height="133" />
+        <p>La Tierra y su temperatura · hecho en Cali para Arquitectura de Sistemas Multimedia.</p>
       </footer>
     </>
   );

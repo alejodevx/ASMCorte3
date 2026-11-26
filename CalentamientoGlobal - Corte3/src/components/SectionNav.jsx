@@ -3,6 +3,7 @@ import { useEffect, useRef, useState } from 'react';
 const LINKS = [
   { id: 'entender', label: 'El dato' },
   { id: 'explorar', label: 'Tu período' },
+  { id: 'orquesta', label: 'Orquesta' },
   { id: 'mapa', label: 'Mapa' },
   { id: 'colombia', label: 'Colombia' },
   { id: 'diorama', label: 'Diorama' },
