@@ -73,13 +73,14 @@ export default function SoundPanel({ range, onPlayIndex, hoverSound, setHoverSou
         Sonar al recorrer la gráfica
       </label>
       <details className="legend-sound">
-        <summary>¿Cómo se escucha el calor?</summary>
+        <summary>¿Cómo suena el calor en clave de salsa?</summary>
         <ul>
-          <li><b>Más agudo</b> = mayor anomalía (notas de una escala pentatónica).</li>
-          <li><b>Timbre</b>: suave (senoidal) bajo +1.0 °C, más brillante hasta +1.5 °C y áspero por encima.</li>
-          <li><b>Crepitar de brasas</b>: aparece y crece a medida que el planeta se calienta.</li>
-          <li><b>Campana</b> la primera vez que se supera +1.5 °C; <b>alarma</b> al superar +2.0 °C.</li>
-          <li>Un bajo continuo sube lentamente con la temperatura.</li>
+          <li><b>Más agudo</b> = mayor anomalía: cada dato es una nota de piano en octavas, como un montuno.</li>
+          <li><b>Orquesta</b>: piano bajo +1.0 °C, entra el trombón hasta +1.5 °C y por encima manda la trompeta.</li>
+          <li><b>Percusión</b>: la clave 3-2 siempre marca el tiempo; la conga entra con +0.3 °C, el güiro crece con el calor,
+            la campana suena desde +1.0 °C y el timbal desde +1.5 °C. Más calor, más candela.</li>
+          <li><b>Golpe de metales y timbal</b> la primera vez que se supera +1.5 °C; <b>mambo de trompetas</b> al superar +2.0 °C.</li>
+          <li>Un <b>bajo tumbao</b> sube de tono con la temperatura.</li>
         </ul>
       </details>
     </div>

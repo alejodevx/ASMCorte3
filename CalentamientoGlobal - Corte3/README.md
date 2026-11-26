@@ -1,4 +1,4 @@
-# Termómetro de la Tierra
+# La Tierra y su temperatura
 
 Sistema multimedia web (React + Vite) que visualiza y sonifica la serie global mensual de
 temperatura de NASA GISS (GISTEMP v4), de 1926 hasta hoy.
@@ -12,8 +12,9 @@ Abra la dirección que muestre Vite (normalmente `http://localhost:5173`).
 
 ## Secciones
 
-1. **Hero / termómetro**: franjas de calentamiento (un color por año, clic para explorar ese año) y un
-   termómetro SVG con la media de los últimos 12 meses frente a los umbrales de París.
+1. **Portada / la Tierra**: franjas de calentamiento convertidas en teclado de piano (una tecla por año: suena y
+   abre ese año) y una Tierra que gira desde Cali, con un dial de la media de los últimos 12 meses frente a los umbrales de París.
+   La sonificación suena como una orquesta de salsa caleña (piano, metales, clave 3-2, conga, güiro, campana, timbal y bajo).
 2. **Entender el dato**: explica qué es una anomalía y las dos líneas base (1951–1980 NASA y
    1880–1900 preindustrial). Un selector cambia la referencia de todos los números de la página.
 3. **Tu período**: selector de rango doble sobre las franjas mensuales, fechas exactas y atajos

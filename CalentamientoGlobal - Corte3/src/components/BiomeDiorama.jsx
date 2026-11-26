@@ -212,10 +212,10 @@ export default function BiomeDiorama({ colombia }) {
     <section className="section diorama" id="diorama" aria-labelledby="diorama-title">
       <div className="section-head">
         <p className="kicker">05 Diorama</p>
-        <h2 id="diorama-title">Párate en la orilla y mira pasar cincuenta años</h2>
+        <h2 id="diorama-title">Párate a la orilla del río Pance y mira pasar cincuenta años</h2>
         <p className="section-sub">
-          Los mapas muestran el calentamiento desde arriba. Aquí lo ves a ras de suelo: un valle fluvial en 3D que
-          reacciona a la temperatura medida en Colombia entre 1970 y 2020. Mueve el tiempo, mira alrededor y toca los
+          Los mapas muestran el calentamiento desde arriba. Aquí lo ves a ras de suelo: un valle como los de los
+          Farallones de Cali, en 3D, que reacciona a la temperatura medida en Colombia entre 1970 y 2020. Mueve el tiempo, mira alrededor y toca los
           puntos para entender qué cambia y por qué.
         </p>
       </div>
@@ -231,7 +231,7 @@ export default function BiomeDiorama({ colombia }) {
             </div>
             <div className="dio-poster-copy">
               <button type="button" className="dio-enter" onClick={enter}>Entrar al diorama</button>
-              <p>Vista de 360°. Arrastra para mirar alrededor. Incluye sonido ambiente.</p>
+              <p>Vista de 360°. Arrastra para mirar alrededor. Incluye sonido ambiente (y una salsa a lo lejos).</p>
             </div>
           </div>
         )}

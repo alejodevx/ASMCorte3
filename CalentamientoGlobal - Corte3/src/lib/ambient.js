@@ -1,6 +1,8 @@
 /*
  * Paisaje sonoro del diorama, sintetizado con Web Audio (sin archivos):
- * río (ruido grave), viento seco, chicharras y cantos de aves. Todo sigue al "estrés térmico" 0 → 1.
+ * río Pance (ruido grave), viento seco, chicharras, cantos de aves y, a lo lejos, una salsa que suena
+ * desde una ventana del barrio (clave 3-2 y bajo tumbao, apagados por la distancia).
+ * Todo sigue al "estrés térmico" 0 → 1.
  */
 const clamp = (v, a = 0, b = 1) => Math.max(a, Math.min(b, v));
 
@@ -63,6 +65,38 @@ export function createAmbient(ctx) {
   let stress = 0;
   let timer = null;
 
+  // Salsa lejana: pasa por un filtro paso bajo para que suene "del otro lado de la calle"
+  const farLp = ctx.createBiquadFilter();
+  farLp.type = 'lowpass'; farLp.frequency.value = 1100;
+  const farGain = ctx.createGain();
+  farGain.gain.value = 0.5;
+  farLp.connect(farGain).connect(out);
+  const EIGHTH = 60 / 180 / 2;
+  const CLAVE = [0, 3, 6, 10, 12];
+  const BASS = [[3, 45], [6, 45], [11, 40], [14, 40]];
+  let barTimer = null;
+  let nextBar = 0;
+  function hit(t, freq, len, gain, type = 'sine') {
+    const o = ctx.createOscillator();
+    const g = ctx.createGain();
+    o.type = type; o.frequency.value = freq;
+    g.gain.setValueAtTime(0.0001, t);
+    g.gain.exponentialRampToValueAtTime(gain, t + 0.005);
+    g.gain.exponentialRampToValueAtTime(0.0001, t + len);
+    o.connect(g).connect(farLp);
+    o.start(t); o.stop(t + len + 0.03);
+  }
+  function scheduleSalsa() {
+    const now = ctx.currentTime;
+    if (nextBar < now) nextBar = now + 0.1;
+    while (nextBar < now + 1.2) {
+      CLAVE.forEach((p) => hit(nextBar + p * EIGHTH, 2500, 0.06, 0.03));
+      BASS.forEach(([p, m]) => hit(nextBar + p * EIGHTH, 440 * 2 ** ((m - 69) / 12), EIGHTH * 2.6, 0.09, 'triangle'));
+      [6, 7, 14, 15].forEach((p) => hit(nextBar + p * EIGHTH, p % 2 ? 330 : 240, 0.2, 0.05));
+      nextBar += 16 * EIGHTH;
+    }
+  }
+
   function chirp() {
     const t0 = ctx.currentTime;
     const base = 2100 + Math.random() * 1500;
@@ -89,6 +123,7 @@ export function createAmbient(ctx) {
     riverLp.frequency.setTargetAtTime(500 + 500 * (1 - stress), t, 0.4);
     windGain.gain.setTargetAtTime(0.02 + 0.16 * stress, t, 0.5);
     cicadaGain.gain.setTargetAtTime(0.03 * clamp((stress - 0.4) / 0.6), t, 0.6);
+    farGain.gain.setTargetAtTime(0.55 - 0.25 * stress, t, 0.6);
   }
 
   return {
@@ -96,13 +131,16 @@ export function createAmbient(ctx) {
     start() {
       out.gain.setTargetAtTime(1, ctx.currentTime, 0.4);
       if (!timer) timer = setInterval(() => { if (Math.random() < 0.55 * (1 - stress * 0.92)) chirp(); }, 700);
+      if (!barTimer) { scheduleSalsa(); barTimer = setInterval(scheduleSalsa, 400); }
     },
     stop() {
       out.gain.setTargetAtTime(0, ctx.currentTime, 0.15);
       clearInterval(timer); timer = null;
+      clearInterval(barTimer); barTimer = null;
     },
     dispose() {
       clearInterval(timer);
+      clearInterval(barTimer);
       out.gain.value = 0;
       [riverSrc, windSrc, cicada, tremLfo, windLfo].forEach((n) => { try { n.stop(); } catch { /* ya detenido */ } });
       out.disconnect();
